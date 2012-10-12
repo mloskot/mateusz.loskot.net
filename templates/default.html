@@ -8,23 +8,35 @@
 </head>
 <body>
 
-  <div class="container">
-    <div class="row">
-      <header>
-        <a class="brand" href="$homeurl$">$brand$</a>
-      </header>
-    </div>
-    
-    <div class="row">$body$</div>
-
-    <div class="row">
-      <footer>
-        <p>
-          Generated with
-          <a href="http://jaspervdj.be/hakyll/index.html">Hakyll</a>
-        </p>
-      </footer>
+  <div class="navbar navbar-static-top">
+    <div class="navbar-inner">
+      <div class="container">
+        <a class="brand" href="$homeurl$">$author$</a>
+          <ul class="nav">
+            <li><a href="/code">blog::code</a></li>
+            <li><a href="/sweat">blog::sweat</a></li>
+            <li><a href="/projects">projects</a></li>
+            <li><a href="/contact">contact</a></li>
+          </ul>
+        </div>
+      </div>
     </div>
   </div>
+
+  <div class="container">
+    <div class="row">
+      <div class="span6">
+        <h3>code</h3>
+        foo
+      </div>
+
+      <div class="span6">
+        <h3>sweat</h3>
+        bar
+      </div>
+    </div>
+
+  </div>
+
 </body>
 </html>
