@@ -6,8 +6,16 @@ import Hakyll
 main :: IO ()
 main = hakyll $ do
 
-    match "templates/*" $ compile templateCompiler
+    -- Copy static files (more or less)
+    match "bootstrap/js/*.min.js" $ do
+        route idRoute
+        compile copyFileCompiler
 
+    match "bootstrap/css/*.min.css" $ do
+        route idRoute
+        compile compressCssCompiler
+
+    -- Render pages
     match "pages/index.markdown" $ do
         route   $ constRoute "index.html"
         compile $ pageCompiler
@@ -19,3 +27,6 @@ main = hakyll $ do
         compile $ pageCompiler
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
+
+    -- Compile templates
+    match "templates/*" $ compile templateCompiler
