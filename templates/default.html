@@ -8,20 +8,23 @@
 </head>
 <body>
 
-  <header>
-    <h1>
-      <a class="brand" href="$homeurl$">$brand$</a>
-    </h1>
-  </header>
+  <div class="container">
+    <div class="row">
+      <header>
+        <a class="brand" href="$homeurl$">$brand$</a>
+      </header>
+    </div>
+    
+    <div class="row">$body$</div>
 
-  <div class="container">$body$</div>
-
-  <footer>
-    <p>
-      Generated with
-      <a href="http://jaspervdj.be/hakyll/index.html">Hakyll</a>
-    </p>
-  </footer>
-
+    <div class="row">
+      <footer>
+        <p>
+          Generated with
+          <a href="http://jaspervdj.be/hakyll/index.html">Hakyll</a>
+        </p>
+      </footer>
+    </div>
+  </div>
 </body>
 </html>
