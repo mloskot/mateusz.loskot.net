@@ -1,42 +1,51 @@
-<!DOCTYPE html>
+<!DOCTYPE html> 
 <html lang="en">
 <head>
   <meta charset="utf-8">
   <title>Mateusz Loskot :: $title$</title>
-  <!-- Bootstrap -->
-  <link href="bootstrap/css/bootstrap.min.css" rel="stylesheet" />
+  <link href="/css/style.css" rel="stylesheet" />
 </head>
 <body>
 
-  <div class="navbar navbar-static-top">
-    <div class="navbar-inner">
-      <div class="container">
-        <a class="brand" href="$homeurl$">$author$</a>
-          <ul class="nav">
-            <li><a href="/code">blog::code</a></li>
-            <li><a href="/sweat">blog::sweat</a></li>
-            <li><a href="/projects">projects</a></li>
-            <li><a href="/contact">contact</a></li>
-          </ul>
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="container">
-    <div class="row">
-      <div class="span6">
-        <h3>code</h3>
-        foo
-      </div>
-
-      <div class="span6">
-        <h3>sweat</h3>
-        bar
-      </div>
+  <div class="site">
+    <div class="title">
+      <a href="$homeurl$">$brand$</a>
+      <a href="#" class="extra">code</a>
+      <a href="#" class="extra">sweat</a>
+      <a href="#" class="extra">projects</a>
+      <a href="#" class="extra">contact</a>
     </div>
 
+    <div id="home">
+      $body$
+    </div>
+
+    <div class="footer">
+      <div class="contact">
+        <p>
+          $brand$<br />
+          $email$<br />
+          Open Source Cowboy<br />
+          Senior Programmer @ Cadcorp
+        </p>
+      </div>
+      <div class="contact">
+        <p>
+          <a href="http://$github$">$github$</a><br />
+          <a href="http://$twitter$">$twitter$</a><br />
+          <a href="http://$linkedin$">$linkedin$</a>
+        </p>
+      </div>
+      <div class="contact">
+        <p>
+          <a href="http://$flickr$">$flickr$</a><br />
+          <a href="http://$vimeo$">$vimeo$</a><br />
+          <a href="http://$youtube$">$youtube$</a>
+        </p>
+      </div>
   </div>
+
+<a href="http://$github$"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
 
 </body>
 </html>

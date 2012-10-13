@@ -12,11 +12,7 @@ main :: IO ()
 main = hakyll $ do
 
     -- Copy static files (more or less)
-    match "bootstrap/js/*.min.js" $ do
-        route idRoute
-        compile copyFileCompiler
-
-    match "bootstrap/css/*.min.css" $ do
+    match "css/*" $ do
         route idRoute
         compile compressCssCompiler
 
@@ -34,6 +30,7 @@ main = hakyll $ do
     match "index.html" $ route idRoute
     create "index.html" $ constA mempty
         >>> myMetadataA
+        >>> arr (setField "title" "Home")
         >>> requireAllA "posts/*" addPostList
         >>> applyTemplateCompiler "templates/index.html"
         >>> applyTemplateCompiler "templates/default.html"
@@ -43,10 +40,16 @@ main = hakyll $ do
     match "templates/*" $ compile templateCompiler
 
 -- Site configuration metadata
-myMetadataA = arr (trySetField "brand" "mateusz.loskot.net")
-    >>> arr (trySetField "homeurl" "/")
-    >>> arr (trySetField "blogurl" "/blog.html")
-    >>> arr (trySetField "author" "Mateusz Loskot")
+myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
+    >>> arr (trySetField "brand" "Mateusz Loskot")
+    >>> arr (trySetField "author" "mloskot")
+    >>> arr (trySetField "email" "mateusz@loskot.net")
+    >>> arr (trySetField "github" "github.com/mloskot")
+    >>> arr (trySetField "twitter" "twitter.com/mloskot")
+    >>> arr (trySetField "flickr" "flickr.com/photos/mloskot")
+    >>> arr (trySetField "youtube" "youtube.com/mloskot")
+    >>> arr (trySetField "vimeo" "vimeo.com/mloskot")
+    >>> arr (trySetField "linkedin" "linkedin.com/in/mateuszloskot")
     >>> arr (renderDateField "date" "%e %b %Y" "Unknown Date")
 
 -- | Helper functions
