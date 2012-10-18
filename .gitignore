@@ -1,5 +1,8 @@
-dist
+_cache
+_site
 cabal-dev
+dist
+hakyll
 *.o
 *.hi
 *.chi
