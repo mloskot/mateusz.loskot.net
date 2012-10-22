@@ -3,10 +3,10 @@ comments: true
 date: 2012-01-05 20:23:30
 layout: post
 slug: cycling-to-work-day-1
-title: Cycling to work - Day #1
+title: 'Cycling to work - Day #1'
 wordpressid: 2875
 categories: cycling
-tags: cycling london weather work
+tags: cycling,london,weather,work
 ---
 
 Update: [Cycling to work moved to RunKeeper](/?p=2933)

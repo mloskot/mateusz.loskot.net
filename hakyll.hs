@@ -4,7 +4,11 @@ module Main where
 import Prelude hiding (id)
 import Control.Category (id)
 import Control.Arrow ((>>>), (***), arr)
+import Data.List (intercalate, sortBy, isPrefixOf)
 import Data.Monoid (mempty, mconcat)
+import Data.Ord (comparing)
+import System.FilePath (takeFileName, takeDirectory,
+                        joinPath, splitDirectories, dropExtension)
 
 import Hakyll
 
@@ -17,11 +21,11 @@ main = hakyll $ do
         compile compressCssCompiler
 
     -- Render posts
-    match "posts/*" $ do
+    match "posts/*/*/*/*.markdown" $ do
         route   $ setExtension ".html"
         compile $ pageCompiler
             >>> myMetadataA
-            >>> arr (renderDateField "date" "%e %b %Y" "Unknown Date")
+            >>> arr(renderDateField "date" "%d %b %Y" "Unknown Date")
             >>> applyTemplateCompiler "templates/post.html"
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
@@ -30,8 +34,7 @@ main = hakyll $ do
     match "index.html" $ route idRoute
     create "index.html" $ constA mempty
         >>> myMetadataA
-        >>> arr (setField "title" "Home")
-        >>> requireAllA "posts/*" addPostList
+        >>> requireAllA "posts/*/*/*/*.markdown" addPostList
         >>> applyTemplateCompiler "templates/index.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
@@ -50,7 +53,6 @@ myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
     >>> arr (trySetField "youtube" "youtube.com/mloskot")
     >>> arr (trySetField "vimeo" "vimeo.com/mloskot")
     >>> arr (trySetField "linkedin" "linkedin.com/in/mateuszloskot")
-    >>> arr (renderDateField "date" "%e %b %Y" "Unknown Date")
 
 -- | Helper functions
 --
@@ -60,7 +62,27 @@ myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
 --
 addPostList :: Compiler (Page String, [Page String]) (Page String)
 addPostList = setFieldA "posts" $
-    arr (reverse . chronological)
+    arr (sortChronological)
         >>> require "templates/postitem.html" (\p t -> map (applyTemplate t) p)
         >>> arr mconcat
         >>> arr pageBody
+
+-- | Sort pages chronologically. This function assumes that the pages have a
+-- @year/month/day/title[.extension]@ naming scheme.
+-- Source: https://github.com/ian-ross/blog/
+--
+sortChronological :: [Page String] -> [Page String]
+sortChronological = reverse . (sortBy $ comparing pageSortKey)
+
+
+-- | Generate a sort key for ordering entries on the index page.
+-- Source: https://github.com/ian-ross/blog/
+--
+pageSortKey :: Page String -> String
+pageSortKey pg =  datePart ++ "/" ++ (if ts /= "" then ts else namePart)
+  where path = getField "path" pg
+        ts = getField "timestamp" pg
+        datePart = joinPath $ take 3 $ drop 1 $ splitDirectories path
+        namePart = case (takeFileName path) of
+            "text.markdown" -> last $ splitDirectories $ takeDirectory path
+            _               -> dropExtension (takeFileName path)
