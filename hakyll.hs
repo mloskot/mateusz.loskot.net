@@ -20,7 +20,7 @@ main = hakyll $ do
         route idRoute
         compile compressCssCompiler
 
-    -- Render posts
+    -- Render each and every post
     match "posts/*/*/*/*.markdown" $ do
         route   $ setExtension ".html"
         compile $ pageCompiler
@@ -30,14 +30,28 @@ main = hakyll $ do
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
 
+    -- Render posts list
+    match "posts.html" $ route idRoute
+    create "posts.html" $ constA mempty
+        >>> myMetadataA
+        >>> arr (setField "title" "Posts")
+        >>> setFieldPageList sortChronological
+            "templates/postitem.html" "posts" "posts/*/*/*/*.markdown"
+        >>> applyTemplateCompiler "templates/posts.html"
+        >>> applyTemplateCompiler "templates/default.html"
+        >>> relativizeUrlsCompiler
+
     -- Render index
     match "index.html" $ route idRoute
     create "index.html" $ constA mempty
         >>> myMetadataA
-        >>> requireAllA "posts/*/*/*/*.markdown" addPostList
+        >>> setFieldPageList (take 9 . sortChronological)
+            "templates/postitem.html" "posts" "posts/*/*/*/*.markdown"
         >>> applyTemplateCompiler "templates/index.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
+
+       --- >>> requireAllA "posts/*/*/*/*.markdown" addPostList
 
     -- Compile templates
     match "templates/*" $ compile templateCompiler
@@ -45,6 +59,7 @@ main = hakyll $ do
 -- Site configuration metadata
 myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
     >>> arr (trySetField "brand" "Mateusz Loskot")
+    >>> arr (trySetField "tagline" "code, sweat and adventures")
     >>> arr (trySetField "author" "mloskot")
     >>> arr (trySetField "email" "mateusz@loskot.net")
     >>> arr (trySetField "github" "github.com/mloskot")
