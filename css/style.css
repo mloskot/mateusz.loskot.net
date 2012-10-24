@@ -63,6 +63,12 @@ hr {
 /*
 /*****************************************************************************/
 
+.tagline {
+  font-size: 100%;
+  font-weight: normal;
+  color: #aaa;
+}
+
 ul.posts {
   list-style-type: none;
   margin-bottom: 2em;
@@ -88,7 +94,7 @@ ul.posts {
   font-size: 110%;
   text-align: justify;
   width: 45em;
-  margin: 3em auto 2em auto;
+  margin: 2em auto 2em auto;
   line-height: 1.5em;
 }
 
@@ -105,7 +111,7 @@ ul.posts {
   }
 
   .site .title a:hover {
-    color: black;
+    color: #588me3;
   }
 
   .site .title a.extra {
@@ -115,7 +121,7 @@ ul.posts {
   }
 
   .site .title a.extra:hover {
-    color: black;
+    color: #5889e3;
   }
 
   .site .meta {
