@@ -39,8 +39,7 @@ main = hakyll $ do
     create "posts.html" $ constA mempty
         >>> myMetadataA
         >>> arr (setField "title" "Posts")
-        >>> setFieldPageList sortChronological
-            "templates/postitem.html" "posts" "posts/*/*/*/*.markdown"
+        >>> requireAllA "posts/*/*/*/*.markdown" addPostList
         >>> applyTemplateCompiler "templates/posts.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
