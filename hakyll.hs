@@ -64,15 +64,13 @@ main = hakyll $ do
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
 
-       --- >>> requireAllA "posts/*/*/*/*.markdown" addPostList
-
     -- Compile templates
     match "templates/*" $ compile templateCompiler
 
 -- Site configuration metadata
 myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
     >>> arr (trySetField "brand" "Mateusz Loskot")
-    >>> arr (trySetField "tagline" "code, sweat and adventures")
+    >>> arr (trySetField "tagline" "hacking on, working out, living up")
     >>> arr (trySetField "author" "mloskot")
     >>> arr (trySetField "email" "mateusz@loskot.net")
     >>> arr (trySetField "github" "github.com/mloskot")
