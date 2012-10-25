@@ -3,7 +3,7 @@ module Main where
 
 import Prelude hiding (id)
 import Control.Category (id)
-import Control.Arrow ((>>>), (***), arr)
+import Control.Arrow ((>>>), (***), (+++), arr)
 import Data.List (intercalate, sortBy, isPrefixOf)
 import Data.Monoid (mempty, mconcat)
 import Data.Ord (comparing)
@@ -11,6 +11,10 @@ import System.FilePath (takeFileName, takeDirectory,
                         joinPath, splitDirectories, dropExtension)
 
 import Hakyll
+
+instance Writable b => Writable (Either a b) where
+  write p (Right b) = write p b
+  write _ _ = return ()
 
 main :: IO ()
 main = hakyll $ do
@@ -30,13 +34,23 @@ main = hakyll $ do
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
 
-    -- Render posts list
+    -- Render list of all posts
     match "posts.html" $ route idRoute
     create "posts.html" $ constA mempty
         >>> myMetadataA
         >>> arr (setField "title" "Posts")
         >>> setFieldPageList sortChronological
             "templates/postitem.html" "posts" "posts/*/*/*/*.markdown"
+        >>> applyTemplateCompiler "templates/posts.html"
+        >>> applyTemplateCompiler "templates/default.html"
+        >>> relativizeUrlsCompiler
+
+    --- Render list of posts in category: code
+    match "code.html" $ route idRoute
+    create "code.html" $ constA mempty
+        >>> myMetadataA
+        >>> arr (setField "title" "blog::code")
+        >>> requireAllA "posts/*/*/*/*" (filterCategory >>> addPostList)
         >>> applyTemplateCompiler "templates/posts.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
@@ -101,3 +115,14 @@ pageSortKey pg =  datePart ++ "/" ++ (if ts /= "" then ts else namePart)
         namePart = case (takeFileName path) of
             "text.markdown" -> last $ splitDirectories $ takeDirectory path
             _               -> dropExtension (takeFileName path)
+
+isCategory :: Page a -> Bool
+isCategory p =
+  let category = getField "category" p in
+  category == "code"
+
+isPageCategory :: Compiler (Page a) (Either (Page a) (Page a))
+isPageCategory = arr (\p -> if isCategory p then Right p else Left p)
+
+filterCategory :: Compiler (Page a, [Page b]) (Page a, [Page b])
+filterCategory = id *** arr (filter isCategory)
