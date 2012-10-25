@@ -1,5 +1,6 @@
 ---
 comments: true
+category: code
 date: 2011-10-28 13:48:59
 layout: post
 slug: microsoft-announces-sql-server-odbc-driver-for-linux

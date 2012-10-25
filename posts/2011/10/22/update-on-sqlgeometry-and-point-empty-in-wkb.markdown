@@ -1,5 +1,6 @@
 ---
 comments: true
+category: code
 date: 2011-10-22 23:41:46
 layout: post
 slug: update-on-sqlgeometry-and-point-empty-in-wkb
