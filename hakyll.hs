@@ -79,6 +79,8 @@ myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
     >>> arr (trySetField "youtube" "youtube.com/mloskot")
     >>> arr (trySetField "vimeo" "vimeo.com/mloskot")
     >>> arr (trySetField "linkedin" "linkedin.com/in/mateuszloskot")
+    >>> arr (trySetField "cadcorp" "cadcorp.com")
+    >>> arr (trySetField "osgeo" "osgeo.org")
 
 -- | Helper functions
 --
