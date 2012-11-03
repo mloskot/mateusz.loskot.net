@@ -49,10 +49,21 @@ main = hakyll $ do
     create "code.html" $ constA mempty
         >>> myMetadataA
         >>> arr (setField "title" "blog::code")
-        >>> requireAllA "posts/*/*/*/*" (filterCategory >>> addPostList)
+        >>> requireAllA "posts/*/*/*/*" (filterCategoryCode >>> addPostList)
         >>> applyTemplateCompiler "templates/posts.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
+    
+    --- Render list of posts in category: sweat
+    match "sweat.html" $ route idRoute
+    create "sweat.html" $ constA mempty
+        >>> myMetadataA
+        >>> arr (setField "title" "blog::sweat")
+        >>> requireAllA "posts/*/*/*/*" (filterCategorySweat >>> addPostList)
+        >>> applyTemplateCompiler "templates/posts.html"
+        >>> applyTemplateCompiler "templates/default.html"
+        >>> relativizeUrlsCompiler
+
 
     -- Render index
     match "index.html" $ route idRoute
@@ -115,13 +126,13 @@ pageSortKey pg =  datePart ++ "/" ++ (if ts /= "" then ts else namePart)
             "text.markdown" -> last $ splitDirectories $ takeDirectory path
             _               -> dropExtension (takeFileName path)
 
-isCategory :: Page a -> Bool
-isCategory p =
+isCategory :: Page a -> String -> Bool
+isCategory p c =
   let category = getField "category" p in
-  category == "code"
+  category == c
 
-isPageCategory :: Compiler (Page a) (Either (Page a) (Page a))
-isPageCategory = arr (\p -> if isCategory p then Right p else Left p)
+filterCategoryCode :: Compiler (Page a, [Page b]) (Page a, [Page b])
+filterCategoryCode = id *** arr (filter (`isCategory` "code"))
 
-filterCategory :: Compiler (Page a, [Page b]) (Page a, [Page b])
-filterCategory = id *** arr (filter isCategory)
+filterCategorySweat :: Compiler (Page a, [Page b]) (Page a, [Page b])
+filterCategorySweat = id *** arr (filter (`isCategory` "sweat"))
