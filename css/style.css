@@ -229,9 +229,9 @@ ul.posts {
 #flickr_badge_wrapper { float: right; width: 250px; }
 .flickr_badge_image {float: right; margin: 0 0px 0px 5px;}
 .flickr_badge_image img { border: 1px solid black !important;
-  -webkit-opacity: 0.25;
-  -moz-opacity: 0.25;
-  opacity: 0.25;
+  -webkit-opacity: 0.65;
+  -moz-opacity: 0.65;
+  opacity: 0.65;
 }
 .flickr_badge_image img:hover { border: 1px solid black !important;
   -webkit-opacity: 1;
