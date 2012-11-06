@@ -75,6 +75,11 @@ main = hakyll $ do
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
 
+    -- Render RSS feed
+    match  "rss.xml" $ route idRoute
+    create "rss.xml" $
+        requireAll_ "posts/*/*/*/*" >>> renderRss feedConfiguration
+
     -- Compile templates
     match "templates/*" $ compile templateCompiler
 
@@ -109,13 +114,22 @@ addPostList = setFieldA "posts" $
         >>> arr mconcat
         >>> arr pageBody
 
+-- RSS feed configuration
+feedConfiguration :: FeedConfiguration
+feedConfiguration = FeedConfiguration
+    { feedTitle       = "Mateusz Loskot blog"
+    , feedDescription = "RSS feed of blog on hacking on, working out, living up."
+    , feedAuthorName  = "Mateusz Loskot"
+    , feedAuthorEmail = "mateusz@loskot.net"
+    , feedRoot        = "http://mateusz.loskot.com"
+    }
+
 -- | Sort pages chronologically. This function assumes that the pages have a
 -- @year/month/day/title[.extension]@ naming scheme.
 -- Source: https://github.com/ian-ross/blog/
 --
 sortChronological :: [Page String] -> [Page String]
 sortChronological = reverse . (sortBy $ comparing pageSortKey)
-
 
 -- | Generate a sort key for ordering entries on the index page.
 -- Source: https://github.com/ian-ross/blog/
@@ -129,6 +143,7 @@ pageSortKey pg =  datePart ++ "/" ++ (if ts /= "" then ts else namePart)
             "text.markdown" -> last $ splitDirectories $ takeDirectory path
             _               -> dropExtension (takeFileName path)
 
+-- Filter posts according to hard-wired categories
 isCategory :: Page a -> String -> Bool
 isCategory p c =
   let category = getField "category" p in
