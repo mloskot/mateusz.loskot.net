@@ -29,7 +29,8 @@ main = hakyll $ do
         route   $ setExtension ".html"
         compile $ pageCompiler
             >>> myMetadataA
-            >>> arr(renderDateField "date" "%d %b %Y" "Unknown Date")
+            >>> arr(renderDateField "published" "%d %b %Y" "Unknown Date")
+            >>> traceShowCompiler
             >>> applyTemplateCompiler "templates/post.html"
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
