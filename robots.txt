@@ -1,0 +1,11 @@
+User-agent: *
+
+Disallow: /download
+Disallow: /images
+Disallow: /personal
+Disallow: /stats
+Allow: /tmp
+
+User-agent: Googlebot
+Disallow: /download
+Disallow: /stats
