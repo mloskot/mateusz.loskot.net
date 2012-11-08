@@ -30,7 +30,6 @@ main = hakyll $ do
         compile $ pageCompiler
             >>> myMetadataA
             >>> arr(renderDateField "published" "%d %b %Y" "Unknown Date")
-            >>> traceShowCompiler
             >>> applyTemplateCompiler "templates/post.html"
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
@@ -80,6 +79,11 @@ main = hakyll $ do
     match  "rss.xml" $ route idRoute
     create "rss.xml" $
         requireAll_ "posts/*/*/*/*" >>> renderRss feedConfiguration
+
+    -- Render Atom feed
+    match  "atom.xml" $ route idRoute
+    create "atom.xml" $
+        requireAll_ "posts/*/*/*/*" >>> renderAtom feedConfiguration
 
     -- Compile templates
     match "templates/*" $ compile templateCompiler
