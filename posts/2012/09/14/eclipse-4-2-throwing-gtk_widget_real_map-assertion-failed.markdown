@@ -1,6 +1,6 @@
 ---
-title: 'Eclipse 4.2 throwing gtk_widget_real_map: assertion failed'
-description: 'Eclipse 4.2 throwing gtk_widget_real_map: assertion failed'
+title: Eclipse 4.2 throwing gtk_widget_real_map: assertion failed
+description: Eclipse 4.2 throwing gtk_widget_real_map: assertion failed
 date: 2012-09-14 22:04:53
 category: code
 slug: eclipse-4-2-throwing-gtk_widget_real_map-assertion-failed
