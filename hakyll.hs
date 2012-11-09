@@ -69,7 +69,7 @@ main = hakyll $ do
     match "index.html" $ route idRoute
     create "index.html" $ constA mempty
         >>> myMetadataA
-        >>> setFieldPageList (take 9 . sortChronological)
+        >>> setFieldPageList (take 15 . sortChronological)
             "templates/postitem.html" "posts" "posts/*/*/*/*.markdown"
         >>> applyTemplateCompiler "templates/index.html"
         >>> applyTemplateCompiler "templates/default.html"
