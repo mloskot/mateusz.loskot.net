@@ -48,7 +48,7 @@ a {
 }
 
 a:hover {
-  color: #000000;
+  color: #121621;
   text-decoration: underline;
 }
 
@@ -72,7 +72,7 @@ hr {
 .tagline {
   font-size: 100%;
   font-weight: normal;
-  color: #000000;
+  color: #121621;
 }
 
 ul.posts {
@@ -103,8 +103,8 @@ ul.posts {
 }
 
 .title {
-  color: #000000;
-  font-weight: bold;
+  color: #121621;
+  font-weight: normal;
   margin-bottom: 2em;
   border-bottom: 2px solid #F57F00;
 }
@@ -119,11 +119,11 @@ ul.posts {
   }
 
   .site .title a:hover {
-    color: #000000;
+    color: #121621;
   }
 
   .site .title a.extra {
-    color: #595959;
+    color: #121621;
     text-decoration: none;
     margin-right: 2em;
   }
@@ -154,9 +154,9 @@ ul.posts {
       }
 
       .site .footer .contact a:hover {
-        color: #000000;
+        color: #121621;
       }
-    
+
     .site .footer .rss {
       margin-top: 1.1em;
       margin-right: -.2em;
@@ -228,10 +228,10 @@ ul.posts {
 /*****************************************************************************/
 #flickr_badge_wrapper { float: right; width: 250px; }
 .flickr_badge_image {float: right; margin: 0 0px 0px 5px;}
-.flickr_badge_image img { border: 1px solid black !important;
-  -webkit-opacity: 0.5;
-  -moz-opacity: 0.5;
-  opacity: 0.5;
+.flickr_badge_image img { border: 1px solid #121621 !important;
+  -webkit-opacity: 0.75;
+  -moz-opacity: 0.75;
+  opacity: 0.75;
 }
 .flickr_badge_image img:hover { border: 1px solid black !important;
   -webkit-opacity: 1;
