@@ -20,9 +20,10 @@ I followed the [Arch way](https://wiki.archlinux.org/index.php/Eclipse) and inst
 As soon as I hit the Finish button in C++ project wizard, Eclipse window disappeared. It's was a crash. I re-launched and opened the previously created project, but Eclipse indicated the Java perspective. So, I tried to open the C/C++ perspective. Crash, again. This time I caught some output:
 
     
-    mloskot@dog ~ $ eclipse
-    ** Gtk:ERROR:gtkwidget.c:8854:gtk_widget_real_map: 
-       assertion failed: (gtk_widget_get_realized (widget))
-
+```
+mloskot@dog ~ $ eclipse
+** Gtk:ERROR:gtkwidget.c:8854:gtk_widget_real_map: 
+    assertion failed: (gtk_widget_get_realized (widget))
+```
 
 Anyone's got any idea what's wrong?

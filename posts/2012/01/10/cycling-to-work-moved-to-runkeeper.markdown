@@ -4,6 +4,7 @@ date: 2012-01-10 22:00:22
 layout: post
 slug: cycling-to-work-moved-to-runkeeper
 title: Cycling to work moved to RunKeeper
+category: sweat
 wordpressid: 2933
 categories: cycling
 tags: cycling,runkeeper,sport,work
