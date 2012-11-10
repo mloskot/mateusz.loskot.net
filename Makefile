@@ -7,7 +7,14 @@
 # 	$ make
 #	$ make HKGIT=$HOME/dev/hakyll/_git/hakyll
 #
-ifdef HKGIT # Build and import Hakyll directly from Git clone
+# Static config for my laptop (hostname:dog)
+DOGHKGIT=$(HOME)/dev/hakyll/_git/hakyll
+ifneq "$(wildcard $(DOGHKGIT) )" ""
+HKGIT=$(DOGHKGIT)
+endif
+
+# Build and import Hakyll directly from Git clone
+ifdef HKGIT
 
 HAKYLL=$(HKGIT)
 generate-git: hakyll-git
@@ -17,7 +24,8 @@ hakyll-git: hakyll.hs
 	@echo Building Hakyll from sources in $(HAKYLL)
 	@ghc --make -i$(HAKYLL)/src -i$(HAKYLL)/dist/build/autogen -optP-include -optP$(HAKYLL)/dist/build/autogen/cabal_macros.h hakyll
 
-else # Use Hakyll installed system-wide
+# Use Hakyll installed system-wide
+else
 
 generate: hakyll
 	@./hakyll build
