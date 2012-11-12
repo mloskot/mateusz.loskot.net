@@ -242,12 +242,12 @@ ul.posts {
 #flickr_badge_wrapper { float: right; width: 250px; }
 .flickr_badge_image {float: right; margin: 0 0px 0px 5px;}
 .flickr_badge_image img { border: 1px solid #121621 !important;
-  -webkit-opacity: 0.75;
-  -moz-opacity: 0.75;
-  opacity: 0.75;
-}
-.flickr_badge_image img:hover { border: 1px solid black !important;
   -webkit-opacity: 1;
   -moz-opacity: 1;
   opacity: 1;
+}
+.flickr_badge_image img:hover { border: 1px solid black !important;
+  -webkit-opacity: 0.75;
+  -moz-opacity: 0.75;
+  opacity: 0.75;
 }
