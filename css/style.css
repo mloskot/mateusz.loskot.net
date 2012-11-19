@@ -124,6 +124,7 @@ ul.posts {
   font-weight: normal;
   margin-bottom: 2em;
   border-bottom: 2px solid #F57F00;
+  line-height: 2em;
 }
 
 .title .tagline {
