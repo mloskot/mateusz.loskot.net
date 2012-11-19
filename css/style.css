@@ -42,6 +42,10 @@ p {
   margin: 1em 0;
 }
 
+pre {
+    line-height: 1.2em;
+}
+
 a {
   color: #F57F00;
   text-decoration: none;
@@ -94,7 +98,7 @@ ul.posts {
 }
 
   ul.posts li {
-    line-height: 1.75em;
+    line-height: 1.5em;
   }
 
   ul.posts span {
@@ -112,7 +116,7 @@ ul.posts {
   text-align: justify;
   width: 47em;
   margin: 1em auto 2em auto;
-  line-height: 2em;
+  line-height: 1.5em;
 }
 
 .title {
