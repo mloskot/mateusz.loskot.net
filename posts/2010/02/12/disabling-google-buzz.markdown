@@ -1,9 +1,10 @@
 ---
-comments: true
-date: 2010-02-12 14:27:47
-layout: post
-slug: disabling-google-buzz
 title: Disabling Google Buzz
+date: 2010-02-12 14:27:47
+category: code
+layout: post
+comments: true
+slug: disabling-google-buzz
 wordpressid: 1876
 categories: life
 tags: buzz,google,networking,social

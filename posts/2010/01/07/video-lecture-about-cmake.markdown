@@ -1,20 +1,16 @@
 ---
-comments: true
-date: 2010-01-07 22:04:18
-layout: post
-slug: video-lecture-about-cmake
 title: Video lecture about CMake
+date: 2010-01-07 22:04:18
+category: code
+layout: post
+comments: true
+slug: video-lecture-about-cmake
 wordpressid: 1660
 categories: programming
 tags: apple,autoconf,automake,Bill Hoffman,bjam,boost,build,building,cdash,cmake,compilation,cpack,ctest,google,kitware,lecture,linux,make,microsoft,osx,presentation,programming,software,tool,video,windows,youtube
 ---
 
 [Bill Hoffman](http://www.kitware.com/company/team/hoffman.html) from [Kitware](http://http://www.kitware.com/) gives [presentation](http://www.youtube.com/watch?v=8Ut9o4OdSC0) about [CMake](http://www.cmake.org/) and a pack of related tools to the [happiest easygoing working nation on the Earth](http://www.google.com):
-
-
-
-
-
 
 
 It's worth to watch if interested in CMake.

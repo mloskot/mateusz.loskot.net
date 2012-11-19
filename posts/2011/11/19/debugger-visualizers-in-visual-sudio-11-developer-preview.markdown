@@ -1,13 +1,13 @@
 ---
-comments: true
+title: Debugger visualizers in Visual Sudio 11 Developer Preview
 date: 2011-11-19 20:37:52
+category: code
+comments: true
 layout: post
 slug: debugger-visualizers-in-visual-sudio-11-developer-preview
-title: Debugger visualizers in Visual Sudio 11 Developer Preview
 wordpressid: 2289
 categories: programming
-tags: c++,c++0x,c++11,debugger,defaultvis.natvis,fix,ide,microsoft,natvis,patch,std,tr1,visual
-  c++,visual studio,visual studio 11,visualizer,windows
+tags: c++,c++0x,c++11,debugger,defaultvis.natvis,fix,ide,microsoft,natvis,patch,std,tr1,visual c++,visual studio,visual studio 11,visualizer,windows
 ---
 
 [Visual Studio 11 Developer Preview](http://www.microsoft.com/download/en/details.aspx?id=27538) [introduces new style debugger visualizers](http://social.msdn.microsoft.com/Forums/is/vcgeneral/thread/5e847744-aa01-49cd-ac47-fe32da1673a3). The [autoexp.dat](http://msdn.microsoft.com/en-us/library/zf0e8s14.aspx) definition of templates in previous versions of the Visual Studio debugger is being replaced with new style definitions based on XML and stored in `defaultvis.natvis` file.

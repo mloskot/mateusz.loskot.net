@@ -1,9 +1,10 @@
 ---
-comments: true
+title: Quick fix for CMake broken Visual Studio 11 .sln
 date: 2011-11-24 21:55:54
+category: code
+comments: true
 layout: post
 slug: quick-fix-for-cmake-broken-visual-studio-11-sln
-title: Quick fix for CMake broken Visual Studio 11 .sln
 wordpressid: 2808
 categories: programming
 tags: bat,cmake,fix,project,script,solution,visual studio,visual studio 11

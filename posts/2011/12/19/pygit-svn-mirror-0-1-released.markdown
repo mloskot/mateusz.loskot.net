@@ -28,26 +28,33 @@ There is README.md file included with detailed guide on how to use the `pygit-sv
 For example, creating mirror of Subversion repository of PROJ.4 project at GitHub involves the following commands:
 
 
-    $ mkdir /path/to/proj4/mirror
-    $ cd /path/to/proj4/mirror
-    $ git-svn-mirror.py init \
-        --from=https://svn.osgeo.org/metacrs/proj/ \
-        --to=git@github.com:<USRNAME>/proj.4.git
+```
+$ mkdir /path/to/proj4/mirror
+$ cd /path/to/proj4/mirror
+$ git-svn-mirror.py init \
+    --from=https://svn.osgeo.org/metacrs/proj/ \
+    --to=git@github.com:<USRNAME>/proj.4.git
+```
 
 
 and to update the mirror from its workbench directory:
 
     
-    cd /path/to/proj4/mirror
+```
+cd /path/to/proj4/mirror
     git-svn-mirror.py update
-    
+```
+
 
 or from any folder but with workbench location pointed explicitly:
     
     
-    git-svn-mirror.py update -w /path/to/proj4/mirror
-    
+```
+git-svn-mirror.py update -w /path/to/proj4/mirror
+```
+
 
 [Feedback](/contact), [bug reports and patches](https://github.com/mloskot/pygit-svn-mirror/issues) highly appreciated.
+
 
 Finally, big thanks to [Eloy Durán](https://github.com/alloy) for the original [git-svn-mirror](https://github.com/alloy/git-svn-mirror/) written in Ruby.

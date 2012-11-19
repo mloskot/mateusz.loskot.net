@@ -1,9 +1,10 @@
 ---
-comments: true
-date: 2010-09-07 22:43:52
-layout: post
-slug: cadcorp-is-recruiting
 title: Cadcorp is recruiting
+date: 2010-09-07 22:43:52
+category: code
+layout: post
+comments: true
+slug: cadcorp-is-recruiting
 wordpressid: 2084
 categories: life,programming
 tags: c++,cadcorp,hiring,job,programmer,recruiting

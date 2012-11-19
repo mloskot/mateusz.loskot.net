@@ -1,13 +1,13 @@
 ---
-comments: true
+title: shared_ptr almost like intrusive_ptr
 date: 2011-11-02 00:55:51
+category: code
+comments: true
 layout: post
 slug: shared_ptr-almost-like-intrusive_ptr
-title: shared_ptr almost like intrusive_ptr
 wordpressid: 2242
 categories: programming
-tags: clang,compiler,gcc,ide,Lavavej,llvm,microsoft,shared_ptr,smart pointer,visual
-  c++,visual studio
+tags: clang,compiler,gcc,ide,Lavavej,llvm,microsoft,shared_ptr,smart pointer,visual c++,visual studio
 ---
 
 The current [C++11](http://en.wikipedia.org/wiki/C%2B%2B11) Standard consists of a very important remark in section _20.9.11.2.6_. It is about creation of `shared_ptr` object. The remarks state:

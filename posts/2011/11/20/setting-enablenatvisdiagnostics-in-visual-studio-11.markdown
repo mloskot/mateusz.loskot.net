@@ -1,13 +1,13 @@
 ---
-comments: true
+title: Setting EnableNatvisDiagnostics in Visual Studio 11
 date: 2011-11-20 04:54:42
+category: code
+comments: true
 layout: post
 slug: setting-enablenatvisdiagnostics-in-visual-studio-11
-title: Setting EnableNatvisDiagnostics in Visual Studio 11
 wordpressid: 2781
 categories: programming
-tags: c++,debugger,defaultvis.natvis,ide,microsoft,natvis,visual c++,visual studio,visual
-  studio 11,visualizer,windows
+tags: c++,debugger,defaultvis.natvis,ide,microsoft,natvis,visual c++,visual studio,visual studio 11,visualizer,windows
 ---
 
 Previously, I [posted](/?p=2289) about the new XML-style debugger visualizers I discovered in Visual Studio 11. I mentioned that one of reasons the feature has been redesigned is to enable debugging of the visualizers templates defined in default or user-defined `.natvis` files. So, it looks there is something more to discover: how to actually make use of the diagnostics capability.
