@@ -1,5 +1,5 @@
 ---
-title: '"I have a confession to make..."'
+title: "I have a confession to make..."
 date: 2010-07-07 11:36:14
 category: code
 layout: post
