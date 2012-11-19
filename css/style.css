@@ -138,16 +138,18 @@ ul.posts {
 
   .site .title a:hover {
     color: #121621;
+    text-decoration: underline;
   }
 
   .site .title a.extra {
-    color: #121621;
+    color: #F57F00;
     text-decoration: none;
     margin-right: 2em;
   }
 
   .site .title a.extra:hover {
-    color: #F57F00;
+    color: #121621;
+    text-decoration: underline;
   }
 
   .site .meta {
