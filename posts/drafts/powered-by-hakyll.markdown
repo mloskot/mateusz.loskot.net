@@ -32,3 +32,22 @@ and offered completely free to read online by Miran Lipovača. Excellent book!
 Together with collection of Haskell course lectures by Philip Wadler found on
 YouTube, it had become my every day lunchtime bread for several weeks.
 
+Meanwhile, I had to figure out how to attempt the second task - move my data from WordPress.
+First stop, Hakyll mailing list. There was an old unanswered thread, so I bumped it up.
+Someone suggested to convert HTML using MySQL and Emacs macros or Pandoc. That was Scary!
+So, I went to check how folks from the Jekyll/Octopress camp solved the conversion.
+I found a few blogs suggesting exitwp utility written in Python. Sweet!
+At least, I would be able to debug it or customise if I need. So, I decided to make
+the conversion through WordPress native export to WordPress eXtended RSS format.
+
+Finally, I started writing ```hakyll.hs``` configuration file for my new blog.
+First things first: I read the whole end-user documentation and tutorials of Hakyll
+trying to grasp the general idea and the actual Hakyll workflow behind
+```./hakyll build```.
+
+Next, I played with the official examples from hakyll-examples and tried to distinguish
+the core patterns from custom purpose-specific extensions (i.e. not every blog has
+uses tags). I'd slowly built my understanding of Hakyll along with learning Haskell.
+The major headache was caused by the intensive use of rather advanced Haskell
+feature - Arrows. Jasper bothered to provide explanation of arrows to first time
+sers of Hakyll and kudos for that, but it would be too easy if it was enough for me.
