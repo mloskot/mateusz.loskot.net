@@ -1,7 +1,7 @@
 ---
 title: Powered by Hakyll
 description: Switched my website from WordPress to Hakyll
-date: 2012-11-21
+date: 2012-12-03
 category: code
 tags: blog,hakyll,haskell,wordpress
 ---
@@ -53,9 +53,7 @@ the conversion through WordPress native export to
 
 I started writing ```hakyll.hs``` configuration file for my new website.
 First things first: I read the whole end-user documentation and tutorials of Hakyll
-trying to grasp the general idea and the actual 
-Hakyll workflow](http://jaspervdj.be/hakyll/tutorials/02-basics.html) behind
-```./hakyll build```.
+trying to grasp the general idea and the actual [Hakyll workflow](http://jaspervdj.be/hakyll/tutorials/02-basics.html) behind ```./hakyll build```.
 
 Next, I played with the official examples from 
 [hakyll-examples](https://github.com/jaspervdj/hakyll-examples) and tried to distinguish
@@ -101,8 +99,9 @@ reads my writings was always a pleasant jiggle.
 I read Matt Gemmell's [argument against comments](http://mattgemmell.com/2011/11/29/comments-off/) and I agreed with his reasoning.
 So, if you read something here, and want to reply, please do one of the following, in order of preference:
 
-# Write a response on your own blog
-# Reply on Twitter
-# E-mail
+1. Write a response on your own blog
+2. Reply on Twitter
+3. E-mail
 
-
+In next articles, I'm going to write about the WordPress to Hakyll migration process 
+in more details with all the tools and steps described.
