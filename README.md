@@ -32,3 +32,8 @@ from system-wide installation (or cabal).
 Blog posts describing migration from WordPress, using Hakyll and such:
 
 * [Powered by Hakyll](http://mateusz.loskot.net/posts/2012/12/03/powered-by-hakyll.html)
+
+## License
+
+The blog code, Hakyll configuration, CSS and HTML templates are free to do with what you will.
+The blog content is provided under a [Creative Commons Attribution 3.0 Unported License](http://creativecommons.org/licenses/by/3.0/).
