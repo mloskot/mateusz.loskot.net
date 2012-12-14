@@ -21,8 +21,6 @@
 #
 # Mateusz Loskot <mateusz@loskot.net>
 #
-CMDMV=`which git`
-[[ -x ${CMDMV} ]] || CMDMV=`which mv`
 POSTSDIR=${1}
 [[ -d ${POSTSDIR} ]] || ( echo "Directory '${POSTSDIR}' does not exist"; exit 1; )
 POSTS=$(find ${POSTSDIR} -name '*.markdown')
@@ -33,6 +31,6 @@ do
     [[ -d ${postdir} ]] && ( echo "Delegint existing '${postdir}' folder"; rm -r ${postdir}; )
     mkdir ${postdir}
     echo "Created '${postdir}'"
-    ${CMDMV} ${post} ${newpost}
+    git mv ${post} ${newpost}
     echo "Moved '${post}' to '${newpost}'"
 done
