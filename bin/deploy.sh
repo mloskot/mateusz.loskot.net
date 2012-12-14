@@ -1,4 +1,4 @@
-#!/bin/sh
+#!/bin/bash
 #
 # deploy.sh - uploads mateusz.loskot.net to server over SFTP using lftp client
 #
@@ -6,6 +6,7 @@
 ftp_user="mloskot"
 ftp_server="sftp://loskot.net"
 ftp_dir="public_html/mateusz"
-local_dir="./_site"
-# Deploy
-lftp -e "mirror -v -R ${local_dir} ${ftp_dir}; bye" -u ${ftp_user} ${ftp_server}
+site_dir=${1}
+[[ -d ${site_dir} ]] || ( echo "Directory '${site_dir}' does not exist"; exit 1; )
+[[ -f ${site_dir}/index.html ]] || ( echo "Directory '${site_dir}' is not a site"; exit 1; )
+lftp -e "mirror -v -R ${site_dir} ${ftp_dir}; bye" -u ${ftp_user} ${ftp_server}
