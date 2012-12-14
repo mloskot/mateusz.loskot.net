@@ -25,7 +25,7 @@ main = hakyll $ do
         compile compressCssCompiler
 
     -- Render each and every post
-    match "posts/*/*/*/*.markdown" $ do
+    match "posts/*/*/*/*/index.markdown" $ do
         route   $ setExtension ".html"
         compile $ pageCompiler
             >>> myMetadataA
@@ -39,7 +39,7 @@ main = hakyll $ do
     create "posts.html" $ constA mempty
         >>> myMetadataA
         >>> arr (setField "title" "Posts")
-        >>> requireAllA "posts/*/*/*/*.markdown" addPostList
+        >>> requireAllA "posts/*/*/*/*/*.markdown" addPostList
         >>> applyTemplateCompiler "templates/posts.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
@@ -49,7 +49,7 @@ main = hakyll $ do
     create "code.html" $ constA mempty
         >>> myMetadataA
         >>> arr (setField "title" "blog::code")
-        >>> requireAllA "posts/*/*/*/*" (filterCategoryCode >>> addPostList)
+        >>> requireAllA "posts/*/*/*/*/*.markdown" (filterCategoryCode >>> addPostList)
         >>> applyTemplateCompiler "templates/posts.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
@@ -59,7 +59,7 @@ main = hakyll $ do
     create "sweat.html" $ constA mempty
         >>> myMetadataA
         >>> arr (setField "title" "blog::sweat")
-        >>> requireAllA "posts/*/*/*/*" (filterCategorySweat >>> addPostList)
+        >>> requireAllA "posts/*/*/*/*/*.markdown" (filterCategorySweat >>> addPostList)
         >>> applyTemplateCompiler "templates/posts.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
@@ -70,7 +70,7 @@ main = hakyll $ do
     create "index.html" $ constA mempty
         >>> myMetadataA
         >>> setFieldPageList (take 15 . sortChronological)
-            "templates/postitem.html" "posts" "posts/*/*/*/*.markdown"
+            "templates/postitem.html" "posts" "posts/*/*/*/*/*.markdown"
         >>> applyTemplateCompiler "templates/index.html"
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
@@ -145,7 +145,7 @@ pageSortKey pg =  datePart ++ "/" ++ (if ts /= "" then ts else namePart)
         ts = getField "timestamp" pg
         datePart = joinPath $ take 3 $ drop 1 $ splitDirectories path
         namePart = case (takeFileName path) of
-            "text.markdown" -> last $ splitDirectories $ takeDirectory path
+            "index.markdown" -> last $ splitDirectories $ takeDirectory path
             _               -> dropExtension (takeFileName path)
 
 -- Filter posts according to hard-wired categories
