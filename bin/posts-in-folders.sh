@@ -28,7 +28,7 @@ for post in ${POSTS};
 do
     postdir=${post%.*}
     newpost=${postdir}/index.markdown
-    [[ -d ${postdir} ]] && ( echo "Delegint existing '${postdir}' folder"; rm -r ${postdir}; )
+    [[ -d ${postdir} ]] && ( echo "Deleting existing '${postdir}' folder"; rm -r ${postdir}; )
     mkdir ${postdir}
     echo "Created '${postdir}'"
     git mv ${post} ${newpost}
