@@ -9,4 +9,4 @@ ftp_dir="public_html/mateusz"
 site_dir=${1}
 [[ -d ${site_dir} ]] || ( echo "Directory '${site_dir}' does not exist"; exit 1; )
 [[ -f ${site_dir}/index.html ]] || ( echo "Directory '${site_dir}' is not a site"; exit 1; )
-lftp -e "mirror -v -R ${site_dir} ${ftp_dir}; bye" -u ${ftp_user} ${ftp_server}
+lftp -e "mirror -v -R --only-newer ${site_dir} ${ftp_dir}; bye" -u ${ftp_user} ${ftp_server}
