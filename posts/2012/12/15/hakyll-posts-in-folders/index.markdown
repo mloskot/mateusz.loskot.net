@@ -60,6 +60,9 @@ git commit -m "Switched to posts in folders" .
 git push origin master
 ```
 
+Now, I only need to implement rules for copying post resources like images,
+source code files, and others.
+
 ## Related posts:
 
 * [Powered by Hakyll](/posts/2012/12/03/powered-by-hakyll/)
