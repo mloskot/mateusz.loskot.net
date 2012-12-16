@@ -31,7 +31,8 @@ from system-wide installation (or cabal).
 
 Blog posts describing migration from WordPress, using Hakyll and such:
 
-* [Powered by Hakyll](http://mateusz.loskot.net/posts/2012/12/03/powered-by-hakyll.html)
+* [Powered by Hakyll](http://mateusz.loskot.net/posts/2012/12/03/powered-by-hakyll/)
+* [Hakyll posts in folders](mateusz.loskot.net/posts/2012/12/15/hakyll-posts-in-folders/)
 
 ## License
 
