@@ -54,29 +54,23 @@ During the competition at the Castle, Pantera was very busy visiting all the cor
 and capturing the moments of fun and effort, focus and sweat.
 Here is the complete gallery: [BlocFest 2012-2013 - Castle Climbing](http://www.flickr.com/photos/mloskot/sets/72157632222490726/):
 
-<!-- Start of Flickr Badge -->
+
 <style type="text/css">
-#flickr_badge_source_txt {padding:0; font: 11px Arial, Helvetica, Sans serif; color:#666666;}
 #flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
 #flickr_icon_td {padding:0 5px 0 0 !important;}
 .flickr_badge_image {text-align:center !important;}
 .flickr_badge_image img {border: 1px solid black !important;}
 #flickr_www {display:block; text-align:left; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
-#flickr_badge_uber_wrapper a:hover,
-#flickr_badge_uber_wrapper a:link,
-#flickr_badge_uber_wrapper a:active,
-#flickr_badge_uber_wrapper a:visited {text-decoration:none !important; background:inherit !important;color:#3993ff;}
 #flickr_badge_wrapper {}
 #flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
 </style>
 <table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
 	<tr>
-		<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=7&display=random&size=s&layout=h&source=user_set&user=10646408%40N06&set=72157632222490726&context=in%2Fset-72157632222490726%2F"></script>
+		<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=5&display=random&size=s&layout=h&source=user_set&user=10646408%40N06&set=72157632222490726&context=in%2Fset-72157632222490726%2F"></script>
 		<td id="flickr_badge_source" valign="center" align="center">
 		</td>
 	</tr>
 </table>
-<!-- End of Flickr Badge -->
 
 (All photos published under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/) license and copyright held by [Aneta Parchanska](http://PanteraPhotography.com).):w
 
