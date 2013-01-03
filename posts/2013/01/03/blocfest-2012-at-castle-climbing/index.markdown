@@ -37,7 +37,7 @@ According to the comp rules, the math is this:
 ```
   160 = 16 x 10 points for top in flash
 +  28 =  4 x  7 points for top in second go
---------
+-------
   188 points scored of total 250 points available
 ```
 
@@ -54,25 +54,16 @@ During the competition at the Castle, Pantera was very busy visiting all the cor
 and capturing the moments of fun and effort, focus and sweat.
 Here is the complete gallery: [BlocFest 2012-2013 - Castle Climbing](http://www.flickr.com/photos/mloskot/sets/72157632222490726/):
 
-
 <style type="text/css">
-#flickr_badge_icon {display:block !important; margin:0 !important; border: 1px solid rgb(0, 0, 0) !important;}
-#flickr_icon_td {padding:0 5px 0 0 !important;}
-.flickr_badge_image {text-align:center !important;}
-.flickr_badge_image img {border: 1px solid black !important;}
-#flickr_www {display:block; text-align:left; padding:0 10px 0 10px !important; font: 11px Arial, Helvetica, Sans serif !important; color:#3993ff !important;}
-#flickr_badge_wrapper {}
-#flickr_badge_source {padding:0 !important; font: 11px Arial, Helvetica, Sans serif !important; color:#666666 !important;}
+#flickr_badge_wrapper_inline { float: left; width: 100%; }
+#flickr_badge_wrapper_inline .flickr_badge_image { float: left; margin: 5px; }
 </style>
-<table cellpadding="0" cellspacing="10" border="0" id="flickr_badge_wrapper">
-	<tr>
-		<script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=5&display=random&size=s&layout=h&source=user_set&user=10646408%40N06&set=72157632222490726&context=in%2Fset-72157632222490726%2F"></script>
-		<td id="flickr_badge_source" valign="center" align="center">
-		</td>
-	</tr>
-</table>
+<div id="flickr_badge_wrapper_inline">
+    <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=7&display=random&size=s&layout=x&source=user_set&user=10646408%40N06&set=72157632222490726&context=in%2Fset-72157632222490726%2F"></script>
+</div>
 
-(All photos published under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/) license and copyright held by [Aneta Parchanska](http://PanteraPhotography.com).):w
+All photos published under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/) 
+license and copyright held by [Aneta Parchanska](http://PanteraPhotography.com).
 
 Mike from the Blocfest team posted a nice video clip at Vimeo:
 
