@@ -42,7 +42,7 @@ According to the comp rules, the math is this:
 ```
 
 Although not a top notch achivement comparing to the top three male contenders:
-Jon Partridge, Marcin franiak and Matt Cousins who completed the qualifier with more
+Jon Partridge, Marcin Franiak and Matt Cousins who completed the qualifier with more
 than 230 points, I tend to dream that my score has a potential value of 200 points.
 Sweet dream! Then, after the existing finals first place on the podium went to
 [Ondrej Nevelik](http://nevelik.name/), who has been taking the London scene of
