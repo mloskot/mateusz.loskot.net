@@ -23,8 +23,8 @@ flashed and that was it.
 
 The last Blocfest round seems to be a bit different and I'm hopeful this was
 due to  three months of systematic and *structured* training at the 
-[Arch Climbing Wall](http://archclimbingwall.com/) and the Castle.
-At least, I did feel stronger and more solid on than during the previous competitions.
+[Arch Climbing Wall](http://archclimbingwall.com/) and the Castle Climbing.
+At least, I did feel stronger and more solid than during the previous competitions.
 
 The last Blocfest also proved to me that friendly bouldering comps make a fantastic
 opportunity to benchmark myself and observe changes not only in physical performance
