@@ -104,3 +104,4 @@ I think it's time to look at it closer and minimise the warm-up routine randomne
 There couldn't be a better winter Friday out in London than the Boulder Comp at the Arch.
 [Yann Genoux](http://yanngenoux.blogspot.com) and [Gavin Symonds](http://gavinsymonds.blogspot.com) 
 delivered some of the best anti-gravity puzzles I've climbed lately on the plastic and epoxy.
+Kudos to the Arch crew!
