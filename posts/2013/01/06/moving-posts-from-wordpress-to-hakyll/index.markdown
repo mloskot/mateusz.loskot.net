@@ -17,6 +17,7 @@ I bumped it up and discussed a few possible options.
 
 I eventually decided to use [exitwp](https://github.com/thomasf/exitwp) utility written in Python.
 There are a few reasons why I decided to use the exitwp:
+
 * It is fairly simple and clear piece of code without too many requirements.
 * It is written in Python. I can hack in Python, so would be able to modify it.
 * It consumes content in the 
@@ -48,6 +49,7 @@ s_title = s_title.strip(' \t\n\r\'')
 ```
 
 I also had to modify the Markdown metadata output to:
+
 * prevent from generating keyword names with underscore as it seems Hakyll didn't like them; for
 example, to generate wordpressid instead of wordpress_id
 * rename ```published``` keyword with ```date``` as I prefer the latter
@@ -57,6 +59,7 @@ prefixed with hyphen because Hakyll didn't like that struture.
 
 Finally, I couldn't decide about how I want to structure posts in my new website and what
 URLs I want to generate, so I decided to update exitwp with support of two types of build output:
+
 * flat with dates encoded in filenames: ```YYYY-MM-DD-my-post.markdown```
 * tree of folders based on dates: ```YYY/MM/DD/my-post.markdown```
 
@@ -65,8 +68,8 @@ Later, I converted my blog structure further and moved
 [posts in folders](/posts/2012/12/15/hakyll-posts-in-folders/index.html) using a new Bash script.
 
 I forked exitwp on GitHub and created dedicated branch to maintain all the modifications I've made.
-Here is my [exitwp-hakyll](https://github.com/mloskot/exitwp/blob/exitwp-hakyll/) branch with 
-my version of the exitwp scripts, a bit of documentation in 
+Here is my Git repository with the [exitwp-hakyll](https://github.com/mloskot/exitwp/blob/exitwp-hakyll/) 
+branch with my version of the exitwp scripts, a bit of documentation in 
 [README-hakyll.markdown](https://github.com/mloskot/exitwp/blob/exitwp-hakyll/README-hakyll.markdown) 
 and Hakyll-specific configuration in [config-hakyll.yaml](https://github.com/mloskot/exitwp/blob/exitwp-hakyll/config-hakyll.yaml).
 
