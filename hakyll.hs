@@ -78,12 +78,12 @@ main = hakyll $ do
     -- Render RSS feed
     match  "rss.xml" $ route idRoute
     create "rss.xml" $
-        requireAll_ "posts/*/*/*/*" >>> renderRss feedConfiguration
+        requireAll_ "posts/*/*/*/*/*" >>> renderRss feedConfiguration
 
     -- Render Atom feed
     match  "atom.xml" $ route idRoute
     create "atom.xml" $
-        requireAll_ "posts/*/*/*/*" >>> renderAtom feedConfiguration
+        requireAll_ "posts/*/*/*/*/*" >>> renderAtom feedConfiguration
 
     -- Compile templates
     match "templates/*" $ compile templateCompiler
