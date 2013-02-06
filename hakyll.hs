@@ -126,7 +126,7 @@ feedConfiguration = FeedConfiguration
     , feedDescription = "RSS feed of blog on hacking on, working out, living up."
     , feedAuthorName  = "Mateusz Loskot"
     , feedAuthorEmail = "mateusz@loskot.net"
-    , feedRoot        = "http://mateusz.loskot.com"
+    , feedRoot        = "http://mateusz.loskot.net"
     }
 
 -- | Sort pages chronologically. This function assumes that the pages have a
