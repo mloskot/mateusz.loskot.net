@@ -6,14 +6,11 @@ slug: gdalogr-144-released
 title: GDAL/OGR 1.4.4 Released
 wordpressid: 229
 categories: open source
-tags: osgeo gdal ogr library vector raster imagery formats tr
+tags: planetosgeo,gdal,ogr,library,vector,raster
 ---
 
 Today [hot news](http://lists.osgeo.org/pipermail/gdal-dev/2007-November/015054.html) from GDAL mailing list:  
 
-
-
-> 
 The GDAL project is pleased to announce the GDAL/OGR 1.4.4 release.
 This is a bug fix release in the 1.4.x stable release series and
 adds no significant new features.
@@ -40,6 +37,3 @@ More detailed NEWS on fixes in the 1.4.4 release can be found at:
 GDAL 1.5.0, a major "new features" release, will be entering beta during
 December, and it is hoped a GDAL 1.5.0 release will be available by the end
 of year.
-
-
-

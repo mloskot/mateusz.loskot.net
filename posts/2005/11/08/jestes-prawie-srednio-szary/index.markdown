@@ -1,21 +1,17 @@
 ---
 comments: true
 date: 2005-11-08 07:56:41
-layout: post
 slug: jestes-prawie-srednio-szary
-title: "JesteĹ\x9B prawie Ĺ\x9Brednio szary"
+title: Jesteś prawie średnio szary
 wordpressid: 51
+tags: science,psychology
 categories: life
-tags: science
 ---
 
 No kruca fuks Ĺadnie, no piÄknie jak jasna...taki klops na poczÄtek dnia! [Nikt mnie nie lubi](http://testcyprysa.rezonet.com.pl/mojaszarosc.php?login=mateusz@loskot.net) :-(
 
-
 > **Wynik: 65 % w skali cyprysa**
 Ale prawie robi rĂłĹźnice.... Jest jeszcze nikĹe ĹwiateĹko w tunelu. Jest dla Ciebie szansa by byÄ bardziej lubianym. Pracuj nad sobÄ, staraj siÄ byÄ bardziej szary, a kto wie !? MoĹźe niedĹugo zasĹuĹźysz na 80% w skali cyprysa!? Na razie nie ciesz siÄ za bardzo. JesteĹ na tyle maĹo szary, Ĺźe jeszcze nie fajny, i na tyle maĹo indywidualny, Ĺźe nie uda Ci sie nikogo tym zainteresowaÄ
-
-
 
 
 [

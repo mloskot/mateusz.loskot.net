@@ -6,29 +6,17 @@ slug: rita-maps-in-the-hurricane-viewer
 title: Rita maps in the Hurricane Viewer
 wordpressid: 16
 categories: none
-tags: science
+tags: science,git,maps,environment,weather
+category: code
 ---
 
-
-New maps have been published on the [Hurricane Disaster Viewer](http://arcweb.esri.com/sc/hurricane_viewer/index.html). There are new maps presenting the situation related to the [Hurricane Rita](http://en.wikipedia.org/wiki/Hurricane_Rita).
+New maps have been published on the [Hurricane Disaster Viewer](http://arcweb.esri.com/sc/hurricane_viewer/index.html). 
+There are new maps presenting the situation related to the [Hurricane Rita](http://en.wikipedia.org/wiki/Hurricane_Rita).
 Following overlays are available:
 
-
-
-	
   * hurricane location and path
-
-	
   * population density of endangered
-
-
-	
   * flood risk
-
-
-	
   * current weather
 
-
 Situation is not good!
-
