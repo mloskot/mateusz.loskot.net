@@ -30,6 +30,8 @@ main = hakyll $ do
         compile $ pageCompiler
             >>> myMetadataA
             >>> arr(renderDateField "published" "%d %b %Y" "Unknown Date")
+            >>> arr(renderDateField "updated" "%Y-%m-%dT%H:%M:%SZ" "Unknown Date")
+            >>> arr(copyBodyToField "feedcontent")
             >>> applyTemplateCompiler "templates/post.html"
             >>> applyTemplateCompiler "templates/default.html"
             >>> relativizeUrlsCompiler
@@ -64,7 +66,6 @@ main = hakyll $ do
         >>> applyTemplateCompiler "templates/default.html"
         >>> relativizeUrlsCompiler
 
-
     -- Render index
     match "index.html" $ route idRoute
     create "index.html" $ constA mempty
@@ -84,6 +85,13 @@ main = hakyll $ do
     match  "atom.xml" $ route idRoute
     create "atom.xml" $
         requireAll_ "posts/*/*/*/*/*" >>> renderAtom feedConfiguration
+
+    -- Render Atom feeds per tag
+    create "tags" $
+        requireAll "posts/*/*/*/*/*" (\_ ps -> readTags ps :: Tags String)
+
+    match "feeds/*" $ route $ setExtension ".xml"
+    withTags "tags" (fromCapture "feeds/*") makeTagFeed
 
     -- Compile templates
     match "templates/*" $ compile templateCompiler
@@ -106,6 +114,16 @@ myMetadataA = arr (trySetField "homeurl" "http://mateusz.loskot.net")
     >>> arr (trySetField "cadcorp" "cadcorp.com")
     >>> arr (trySetField "osgeo" "osgeo.org")
 
+-- Atom and RSS feed configuration
+feedConfiguration :: FeedConfiguration
+feedConfiguration = FeedConfiguration
+    { feedTitle       = "Mateusz Loskot blog"
+    , feedDescription = "Feed of blog on hacking on, working out, living up."
+    , feedAuthorName  = "Mateusz Loskot"
+    , feedAuthorEmail = "mateusz@loskot.net"
+    , feedRoot        = "http://mateusz.loskot.net"
+    }
+
 -- | Helper functions
 --
 
@@ -118,16 +136,6 @@ addPostList = setFieldA "posts" $
         >>> require "templates/postitem.html" (\p t -> map (applyTemplate t) p)
         >>> arr mconcat
         >>> arr pageBody
-
--- RSS feed configuration
-feedConfiguration :: FeedConfiguration
-feedConfiguration = FeedConfiguration
-    { feedTitle       = "Mateusz Loskot blog"
-    , feedDescription = "RSS feed of blog on hacking on, working out, living up."
-    , feedAuthorName  = "Mateusz Loskot"
-    , feedAuthorEmail = "mateusz@loskot.net"
-    , feedRoot        = "http://mateusz.loskot.net"
-    }
 
 -- | Sort pages chronologically. This function assumes that the pages have a
 -- @year/month/day/title[.extension]@ naming scheme.
@@ -159,3 +167,48 @@ filterCategoryCode = id *** arr (filter (`isCategory` "code"))
 
 filterCategorySweat :: Compiler (Page a, [Page b]) (Page a, [Page b])
 filterCategorySweat = id *** arr (filter (`isCategory` "sweat"))
+
+-- Tags support utilities based on John Lenz's configuration
+-- with customisations applied
+-- Source: https://bitbucket.org/wuzzeb
+--
+-- | Compile a list of pages to a tag feed page
+makeTagFeed :: String -> [Page String] -> Compiler () (Page String)
+makeTagFeed tag posts = 
+        constA posts
+    >>> listToPageCompiler "templates/atom-item.xml"
+    >>> arr (\p -> (p,posts)) >>> setMaxUpdated
+    >>> myMetadataA
+    >>> arr(setField "feedtitle" (" - Posts tagged " ++ tag))
+    >>> applyTemplateCompiler "templates/atom.xml"
+
+-- | Compiler which takes two inputs: a list of pages and a page
+-- The compiler goes through the list of pages and finds the maximum updated date,
+-- and sets the "lastupdated" field in the second input page to this maximum date.
+-- Useful when combined with requireAllA
+setMaxUpdated :: Compiler (Page String, [Page String]) (Page String)
+setMaxUpdated = setFieldA "lastupdated" $ arr maxUpdated
+    where
+        maxUpdated :: [Page String] -> String
+        maxUpdated posts = maximum $ map (getField "updated") posts
+
+-- | Build a page by starting with an empty page, applying the template to each
+-- page from the input, and finally combining all pages together in the body.
+-- The metadata of the created page just contains the default fields from 'addDefaultFields'.
+listToPageCompiler :: Identifier Template -> Compiler [Page String] (Page String)
+listToPageCompiler template =
+        pageListCompiler recentFirst template
+    >>> arr fromBody
+    >>> addDefaultFields
+
+-- | Register a compiler to produce a page for each (tag, list of pages).
+--
+-- This is a useful combination of 'metaCompile' and 'tagsMap'.
+withTags :: Identifier (Tags String) -- ^ the mapping of tags to pages
+        -> (String -> Identifier (Page String)) -- ^ build an identifier for each created tag page
+        -> (String -> [Page String] -> Compiler () (Page String)) -- ^ a compiler for a specific tag page
+        -> Rules
+withTags t ident pageC =
+    metaCompile $ require_ t
+        >>> arr tagsMap
+        >>> arr (map (\(tag,ps) -> (ident tag, pageC tag ps)))
