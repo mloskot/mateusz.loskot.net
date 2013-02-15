@@ -6,7 +6,7 @@ slug: ww-iii
 title: WW III
 wordpressid: 266
 categories: life
-tags: georgia,III,russia,war,world
+tags: georgia,russia,war,world
 ---
 
 ...is no longer [hypothetical](http://en.wikipedia.org/wiki/World_War_III)

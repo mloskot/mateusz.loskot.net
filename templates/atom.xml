@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>$brand$$feedtitle$</title>
+    <link href="$homeurl$$url$" rel="self" />
+    <link href="$homeurl$" />
+    <id>$homeurl$$url$</id>
+    <author>
+        <name>$brand$</name>
+        <email>$email$</email>
+    </author>
+    <updated>$lastupdated$</updated>
+    $body$
+</feed>
