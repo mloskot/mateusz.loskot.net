@@ -2,7 +2,7 @@
 date: 2012-02-15
 title: PostGIS Raster is four years old
 category: code
-tags: postgis,database,raster,planetosgeo
+tags: postgis,database,raster,planetosgeo,planetpostgis
 ---
 
 (let's go sentimental)
