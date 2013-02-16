@@ -29,7 +29,8 @@ main = hakyll $ do
         route   $ setExtension ".html"
         compile $ pageCompiler
             >>> myMetadataA
-            >>> arr(renderDateField "published" "%d %b %Y" "Unknown Date")
+            >>> arr(renderDateField "posted" "%d %b %Y" "Unknown Date")
+            >>> arr(renderDateField "published" "%Y-%m-%dT%H:%M:%SZ" "Unknown Date")
             >>> arr(renderDateField "updated" "%Y-%m-%dT%H:%M:%SZ" "Unknown Date")
             >>> arr(copyBodyToField "feedcontent")
             >>> applyTemplateCompiler "templates/post.html"
