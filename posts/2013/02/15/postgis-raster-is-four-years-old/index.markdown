@@ -1,5 +1,5 @@
 ---
-date: 2012-02-15
+date: 2013-02-15T23:35:00Z
 title: PostGIS Raster is four years old
 description: Short history of PostGIS Raster and delayed fourth birthday celebration
 category: code
@@ -10,7 +10,6 @@ tags: postgis,database,raster,planetosgeo,planetpostgis
 
 On January 27, 2009, [Sandro Santilli][strk] did the [initial import of wktraster code][r3571] 
 into the [spike][spk] branch of the [PostGIS][pg] repository. 
-
 
 The submission followed shortly after Sandro posted to postgis-devel list 
 [call for funding][cff] for the [WKT Raster][wkt] project. The call had been 
