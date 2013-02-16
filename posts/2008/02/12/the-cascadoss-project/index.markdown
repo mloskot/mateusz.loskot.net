@@ -4,6 +4,7 @@ date: 2008-02-12 19:44:06
 layout: post
 slug: the-cascadoss-project
 title: The Cascadoss Project
+description: Short overivew of Cascadoss initiative and upcoming events
 wordpressid: 238
 categories: open source
 tags: cascados,osgeo,gmes,europ,foss4g,opensource,science,planetosgeo
@@ -14,7 +15,9 @@ category: code
 
 Yes, the Cascados **is** focused on the [Open Source](http://en.wikipedia.org/wiki/Open_Source_Definition) Software initiatives [in GIS](http://conference.osgeo.org/):
 
-> The Cascados Project aims at building up a critical mass of Open Source users within the [GMES](http://www.gmes.info/) society, which could support each other in finding open source solutions for environmental related problems.
+> The Cascados Project aims at building up a critical mass of Open Source 
+> users within the [GMES](http://www.gmes.info/) society, which could 
+> support each other in finding open source solutions for environmental related problems.
 
 and as a natural consequence of this are of interest, the Cascados project partners [have put their eyes up](http://www.cascadoss.eu/en/index.php?option=com_content&task=view&id=6&Itemid=7) to the OSGeo Foundation too. That's great.
 

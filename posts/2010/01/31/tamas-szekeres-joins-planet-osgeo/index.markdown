@@ -1,5 +1,6 @@
 ---
 title: Tamas Szekeres joins Planet OSGeo
+description: Announcement about Tamas joining the Planet OSGeo
 date: 2010-01-31 15:14:56
 category: code
 layout: post

@@ -1,6 +1,7 @@
 ---
 date: 2012-02-15
 title: PostGIS Raster regular blocking explained
+description: Notes on PostGIS Raster specification of regular blocking
 category: code
 tags: postgis,database,raster,planetosgeo
 ---

@@ -4,6 +4,7 @@ date: 2008-03-21 07:37:02
 layout: post
 slug: gdal-151-released
 title: GDAL 1.5.1 Released
+description: Announcement about new release of GDAL
 wordpressid: 241
 categories: open source
 tags: planetosgeo,gdal,ogr,release,osgeo

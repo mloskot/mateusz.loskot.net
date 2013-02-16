@@ -4,6 +4,7 @@ date: 2007-11-28 07:27:03
 layout: post
 slug: gdalogr-144-released
 title: GDAL/OGR 1.4.4 Released
+description: Announcement about new release of GDAL
 wordpressid: 229
 categories: open source
 tags: planetosgeo,gdal,ogr,library,vector,raster

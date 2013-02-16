@@ -4,6 +4,7 @@ date: 2009-12-05 18:32:19
 layout: post
 slug: frank-warmerdam-joins-planet-osgeo
 title: Frank Warmerdam joins Planet OSGeo
+description: Announcement about Frank joining the Planet OSGeo
 wordpressid: 1609
 categories: open source,programming
 tags: blog,frankwarmerdam,gdal,ogr,opensource,planetosgeo
