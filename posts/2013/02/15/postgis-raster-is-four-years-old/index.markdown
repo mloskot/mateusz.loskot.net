@@ -46,7 +46,7 @@ and the following PostGIS Raster, and I realised that three weeks ago,
 the project celebrated its fourth birthday!
 
 
-[pg]:http://postgis.org
+[pg]:http://postgis.net
 [strk]:http://strk.keybit.net/
 [pr]:http://geospatialelucubrations.blogspot.ca/
 [r3571]:http://trac.osgeo.org/postgis/browser/spike/wktraster?rev=3571
