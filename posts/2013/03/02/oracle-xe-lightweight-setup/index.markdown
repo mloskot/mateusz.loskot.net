@@ -145,7 +145,7 @@ ORA-12520: TNS:listener could not find available handler for requested type of s
 ```
 
 It turns out that the default max number of sessions is not enough for my tests,
-so I bumped it to 80
+so I bumped it to 80 processes:
 
 ```
 alter system set processes=80 scope=spfile;
