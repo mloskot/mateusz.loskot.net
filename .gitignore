@@ -7,3 +7,5 @@ hakyll
 *.hi
 *.chi
 *.chs.h
+*.sublime-project
+*.sublime-workspace
