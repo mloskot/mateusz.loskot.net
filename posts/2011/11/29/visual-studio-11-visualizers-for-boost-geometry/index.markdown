@@ -1,14 +1,16 @@
 ---
 title: Visual Studio 11 visualizers for Boost.Geometry
 date: 2011-11-29 01:12:23
+updated: 2013-03-02 00:20:23
 category: code
-comments: true
-layout: post
-slug: visual-studio-11-visualizers-for-boost-geometry
 wordpressid: 2816
-categories: programming
-tags: Barend Gehrels,boost,boost.geometry,debugger,ide,programming,visual studio,visual studio 11,visualizer
+tags: Barend Gehrels,boost,boost.geometry,visualstudio
 ---
+
+**Update 2013-03-02:** The Boost.Geometry visualizers have been released as part of 
+[C++ Debugger Visualizers for VS2012](https://cppvisualizers.codeplex.com/). 
+See [ChangeLog](https://cppvisualizers.codeplex.com/SourceControl/changeset/view/abc7d3c4b046#Changelog.txt) for details.
+
 
 Some time ago [Barend Gehrels](http://barendgehrels.blogspot.com/) blogged about [Visual Studio 2010 debugger visualizers for Boost.Geometry](http://barendgehrels.blogspot.com/2011/05/debugger-visualizers.html). Barend's templates added to `autoexp.dat` file are of great help while working with the [Boost.Geometry](www.boost.org/doc/libs/release/libs/geometry/doc/html/index.html) library in Visual Studio.
 
