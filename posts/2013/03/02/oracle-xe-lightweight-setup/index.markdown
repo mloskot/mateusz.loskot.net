@@ -181,3 +181,19 @@ sessions                                        28              30         49
 
 After these tweaks, the Oracle XE instance does not consume all RAM resources of my server
 and is still usable for my testing purposes.
+
+By the way, since this is database dedicated for testing, I don't need the 
+[Oracle recyclebin](http://www.orafaq.com/wiki/Recycle_bin) feature - I don't expect I will ever
+need to restore dropped objects created during tests. So, let's save some CPU cycles and disk space:
+
+```
+SQL> ALTER SYSTEM SET recyclebin = OFF;
+
+System altered.
+
+SQL> ALTER SESSION SET recyclebin = OFF;
+
+Session altered
+```
+
+I may keep this blog rolling and add new tips from time to time.
