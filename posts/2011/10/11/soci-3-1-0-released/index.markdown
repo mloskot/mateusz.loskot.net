@@ -4,10 +4,10 @@ date: 2011-10-11 21:21:15
 category: code
 comments: true
 layout: post
-slug: soci-3-1-1-released
+slug: soci-3-1-0-released
 wordpressid: 2206
 categories: programming
-tags: abstraction,backend,c++,database,dbms,library,maciej sobczak,project,release,rero,soci
+tags: dbms,library,soci
 ---
 
 It has been a very long journey since version 3.0.0 of SOCI was released. Namely, it's been nearly three years. The [RERO](http://en.wikipedia.org/wiki/Release_early,_release_often) philosophy didn't quite kick in somehow, but the new [SOCI 3.1.0](https://sourceforge.net/mailarchive/message.php?msg_id=28213168) is finally out.
