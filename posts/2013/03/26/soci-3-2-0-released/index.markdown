@@ -13,6 +13,8 @@ from the project and called for
 [new SOCI project leader needed](/posts/2011/11/07/new-soci-project-leader-needed/).
 Almost year later, I decided to step forward and become a new 
 [SOCI project manager](https://sourceforge.net/mailarchive/message.php?msg_id=29565142).
+Maciej still occasionally helps in the project, he may be available to provide 
+commercial support to SOCI users through his company [Inspirel](http://inspirel.com/).
 
 I would like to take this opportunity I'm writing about SOCI and thank Maciej for SOCI
 - quite a revolutionary C++ idea he came up with *decade ago*; for long-standing
