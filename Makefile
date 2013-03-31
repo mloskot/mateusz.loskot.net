@@ -28,16 +28,16 @@ hakyll-git: hakyll.hs
 else
 
 generate: hakyll
-	@./hakyll build
+	@./site build
 
 hakyll: hakyll.hs
 	@echo Building with installed Hakyll
-	@ghc --make hakyll
+	@ghc --make site
 
 endif
 
 clean:
 	@rm -rf _cache _site
-	@rm hakyll.hi hakyll.o hakyll
+	@rm site.hi site.o site
 
 .PHONY: clean distclean

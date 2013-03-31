@@ -3,6 +3,7 @@ _site
 cabal-dev
 dist
 hakyll
+site
 *.o
 *.hi
 *.chi
