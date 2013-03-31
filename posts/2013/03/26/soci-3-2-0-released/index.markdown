@@ -6,7 +6,7 @@ category: code
 tags: soci,announcement,dbms
 ---
 
-## SOCI delayed news
+## Delayed project news
 
 In November 2011, [Maciej Sobczak](http://www.msobczak.com/) announced his departure 
 from the project and called for
@@ -36,17 +36,15 @@ All SOCI development and code slinging activities take place at https://github.c
 The release downloads and mailing lists remain hosted at https://sourceforge.net/p/soci
 and the website with documentation at http://soci.sourceforge.net.
 
-## SOCI 3.2.0
+## What's new in version 3.2.0
 
 On behalf of the whole [SOCI](http://soci.sourceforge.net) team I extremely 
 pleased to announce this new release of SOCI 3.2.0 version. 
 
-The SOCI 3.2.0 source packages are available for download from SF.net: 
+The SOCI 3.2.0 source packages are available for download from SF.net: <a href ="https://sourceforge.net/projects/soci/files/soci/soci-3.2.0/">https://sourceforge.net/projects/soci/files/soci/soci-3.2.0/</a>
 
-https://sourceforge.net/projects/soci/files/soci/soci-3.2.0/
+or as ```.zip``` for the whole [3.2.0 tag](https://github.com/SOCI/soci/tree/3.2.0) directly from Git: <a href="https://github.com/SOCI/soci">https://github.com/SOCI/soci</a>.
 
-or as .zip for the whole [3.2.0 tag](https://github.com/SOCI/soci/tree/3.2.0) 
-directly from the current Git repository: https://github.com/SOCI/soci
 
 Documentation for the current version is available at http://soci.sourceforge.net/doc.html
 
@@ -60,95 +58,93 @@ with new names on every release.
 Below, I copied the relevant part from the 
 [CHANGES](https://github.com/SOCI/soci/blob/3.2.0/src/CHANGES) file:
 
----------------------------------------------------------------------------
-Version 3.2.0 differs from 3.1.0 in the following ways: 
 
-- SOCI is now organization at GitHub 
--- Git repository moved to https://github.com/SOCI/soci
--- Opened new bug tracker (SF.net tracker is read-only) 
--- Opened Wiki for FAQ and development articles 
--- Website, mailing lists and downloads remain on SourceForge.net 
--- Applied GitFlow branching model 
--- Added package maintenance repository https://github.com/SOCI/soci-pkg
+Version 3.2.0 differs from 3.1.0 in the following ways:
 
-- Core 
--- Added ```connection_parameters``` to enable support for session options 
-used by core, backends or low-level API. 
--- Added user-defined query transformation support based on function, 
-functor and lambda 
--- Fixed missing connection check and backend setup ensured for session 
--- Fixed backend initialization when used with connection pool (Core) 
--- Fixed memory leaks on exception thrown during statement preparation stage 
 
-- DB2 
--- Added new backend for IBM DB2 
+* SOCI is now organization at GitHub 
+    * Git repository moved to https://github.com/SOCI/soci
+    * Opened new bug tracker (SF.net tracker is read-only) 
+    * Opened Wiki for FAQ and development articles 
+    * Website, mailing lists and downloads remain on SourceForge.net 
+    * Applied GitFlow branching model 
+    * Added package maintenance repository https://github.com/SOCI/soci-pkg
 
-- Firebird 
--- Fixed bug in repeated statement execution 
--- Fixed issues with input parameter binding 
--- Fixed connection string parsing to handle possible white-spaces 
--- Fixed issues with C++ type ```unsigned long```
--- Fixed reading negative values into C++ type ```double```
--- Added option to fetch numeric/decimal data into string of characters 
--- Added CMake configuration 
--- Updated tests 
--- Continued regular testing on Windows and Unix platforms 
+* Core 
+    * Added ```connection_parameters``` to enable support for session options used by core, backends or low-level API. 
+    * Added user-defined query transformation support based on function, functor and lambda 
+    * Fixed missing connection check and backend setup ensured for session 
+    * Fixed backend initialization when used with connection pool (Core) 
+    * Fixed memory leaks on exception thrown during statement preparation stage 
 
-- MySQL 
--- Replaced use of type=InnoDB with engine=InnoDB 
--- Improved CMake configuration 
+* DB2 
+    * Added new backend for IBM DB2 
 
-- ODBC 
--- Added connection_parameters option ```ODBC_OPTION_DRIVER_COMPLETE``` 
--- Fixed issues in handling C++ types ```int``` and ```long``` on 64-bit architectures 
--- Added missing CMake configuration for tests 
--- Continued regular testing on Windows and Unix platforms 
+* Firebird 
+    * Fixed bug in repeated statement execution 
+    * Fixed issues with input parameter binding 
+    * Fixed connection string parsing to handle possible white-spaces 
+    * Fixed issues with C++ type ```unsigned long```
+    * Fixed reading negative values into C++ type ```double```
+    * Added option to fetch numeric/decimal data into string of characters 
+    * Added CMake configuration 
+    * Updated tests 
+    * Continued regular testing on Windows and Unix platforms 
 
-- Oracle 
--- Implemented ```statement::get_affected_rows()``` operation 
--- Use ```OCI_THREADED``` and ```OCI_ENV_NO_MUTEX``` with ```OCIEnvCreate```
--- Added numerous fixes and improvements in tests 
--- Added option to fetch numeric/decimal data into string of characters 
--- Fixed issues in binding procedure IN/OUT parameters 
+* MySQL 
+    * Replaced use of type=InnoDB with engine=InnoDB 
+    * Improved CMake configuration 
 
-- PostgreSQL 
--- Add reading of ```BYTEA``` data into ```std::string``` (not fully-featured 
+* ODBC 
+    * Added connection_parameters option ```ODBC_OPTION_DRIVER_COMPLETE``` 
+    * Fixed issues in handling C++ types ```int``` and ```long``` on 64-bit architectures 
+    * Added missing CMake configuration for tests 
+    * Continued regular testing on Windows and Unix platforms 
+
+* Oracle 
+    * Implemented ```statement::get_affected_rows()``` operation 
+    * Use ```OCI_THREADED``` and ```OCI_ENV_NO_MUTEX``` with ```OCIEnvCreate```
+    * Added numerous fixes and improvements in tests 
+    * Added option to fetch numeric/decimal data into string of characters 
+    * Fixed issues in binding procedure IN/OUT parameters 
+
+* PostgreSQL 
+    * Add reading of ```BYTEA``` data into ```std::string``` (not fully-featured 
 binary data support yet)
--- Add JSON data type support available in PostgreSQL 9.2+ 
--- Fixed incorrect assertion in ```postgresql::get_error_details```
--- Fixed premature deallocation of prepared statements
--- Fixed servers-side memory leak in prepared statements
--- Fixed memory leak of PGresult on exception thrown
--- Fixed isues in parsing complex PL/PSQL functions
+    * Add JSON data type support available in PostgreSQL 9.2+ 
+    * Fixed incorrect assertion in ```postgresql::get_error_details```
+    * Fixed premature deallocation of prepared statements
+    * Fixed servers-side memory leak in prepared statements
+    * Fixed memory leak of PGresult on exception thrown
+    * Fixed isues in parsing complex PL/PSQL functions
 
-- SQLite3 
--- Implemented ```statement::get_affected_rows()``` operation 
--- Fixed handling of database file path with spaces 
+* SQLite3 
+    * Implemented ```statement::get_affected_rows()``` operation 
+    * Fixed handling of database file path with spaces 
 
-- Building, testing and installation 
--- Marked Makefile.basic as deprecated (maintainer wanted) 
--- Cleaned numerous compilation warnings reported by various compilers 
--- Improved compilation using latest version of clang 
--- Added numerous improvements in CMake configuration 
--- Added ```SOCI_STATIC``` option to enable/disable static libraries build 
--- Fixed issues with ignored ```-DWITH_<dependency>``` options 
--- Fixed ```FindMySQL.cmake``` to allow use of mysqlclient from custom location 
--- Added support of ```SQLITE_ROOT_DIR``` variable to ```FindSQLite3.cmake``` module 
--- Fixed and tested CMake configuration on OSX 
--- Fixed and tested CMake configuration on FreeBSD 
--- Fixed and tested CMake configuration to use with Ninja 
--- Fixed building using Visual Studio 2010 
--- Added support for building using Visual Studio 2012 
--- Set up SOCI continuous integration at travis-ci.org 
--- Added Debian packaging support to [soci-pkg](https://github.com/SOCI/soci-pkg) repository 
--- Added Fedora/CentOS/RedHat packaging support to soci-pkg repository 
+* Building, testing and installation 
+    * Marked Makefile.basic as deprecated (maintainer wanted) 
+    * Cleaned numerous compilation warnings reported by various compilers 
+    * Improved compilation using latest version of clang 
+    * Added numerous improvements in CMake configuration 
+    * Added ```SOCI_STATIC``` option to enable/disable static libraries build 
+    * Fixed issues with ignored ```-DWITH_<dependency>``` options 
+    * Fixed ```FindMySQL.cmake``` to allow use of mysqlclient from custom location 
+    * Added support of ```SQLITE_ROOT_DIR``` variable to ```FindSQLite3.cmake``` module 
+    * Fixed and tested CMake configuration on OSX 
+    * Fixed and tested CMake configuration on FreeBSD 
+    * Fixed and tested CMake configuration to use with Ninja 
+    * Fixed building using Visual Studio 2010 
+    * Added support for building using Visual Studio 2012 
+    * Set up SOCI continuous integration at travis-ci.org 
+    * Added Debian packaging support to [soci-pkg](https://github.com/SOCI/soci-pkg) repository 
+    * Added Fedora/CentOS/RedHat packaging support to soci-pkg repository 
 
-- Documentation 
--- Review and update to catch up with current status quo 
--- Updated code examples 
--- Start maintenance and hosting of SOCI documentation per released version
+* Documentation 
+    * Review and update to catch up with current status quo 
+    * Updated code examples 
+    * Start maintenance and hosting of SOCI documentation per released version
 
----------------------------------------------------------------------------
 
 A complete changelog of commits 
 [generated from Git](https://github.com/SOCI/soci/issues/93#issuecomment-15434667) 
