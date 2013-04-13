@@ -9,4 +9,4 @@ ftp_dir="public_html/mateusz"
 site_dir=${1}
 [[ -d ${site_dir} ]] || { echo "Directory '${site_dir}' does not exist"; exit 1; }
 [[ -f ${site_dir}/index.html ]] || { echo "Directory '${site_dir}' is not a site"; exit 1; }
-lftp -e "mirror -v -R --only-newer --exclude feeds/ ${site_dir} ${ftp_dir}; cd ${ftp_dir}/feeds; put ${site_dir}/feeds/planetosgeo.xml; put ${site_dir}/feeds/planetpostgis.xml; bye" -u ${ftp_user} ${ftp_server}
+lftp -e "mirror -v -R --only-newer --exclude feeds/ ${site_dir} ${ftp_dir}; cd ${ftp_dir}/feeds; bye" -u ${ftp_user} ${ftp_server}
