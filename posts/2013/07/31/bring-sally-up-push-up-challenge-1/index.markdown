@@ -6,29 +6,29 @@ category: sweat
 tags: training,challenge,bodyweight
 ---
 
-Yesterday at the end of climbing session at the 
+Yesterday near the end of climbing session at the 
 [Castle Climbing](http://www.castle-climbing.co.uk/), I had a quick chat with 
-[Gaz Parry](http://www.gazparryclimbing.com) about crazy bodyweight exercises.
-Gaz was talking about this guy performing variation of push ups exercised 
-on three medicine ball along Moby's song called "Flower".
+[Gaz Parry](http://www.gazparryclimbing.com) about some crazy bodyweight exercises.
 
-I've caught the bug and looked for the famous video material as soon as I got home.
-The strong man turns out to be Lee Tiffin from the Black Sheep Fitness Academy.
+Gaz was talking about this curious challenge of push-ups performed along
+Moby's song called "Flower" where push-up reps are controlled by the phrase
+*Bring Sally Up, Bring Sally Down...*
 
-I don'infected me with the curious Bring Sally Up, Bring Sally Down Push Up Challenge. 
-So, I checked out the famous videos by 
-[Lee Tiffin](http://www.blacksheepfitnessacademy.com), and...
+I was getting hooked, then Gaz mentioned a video on YouTube with someone performing
+variation of this challenge, not on floor but on three medicine balls.
+The famous strong man turns out to be Lee Tiffin from the 
+[Black Sheep Fitness Academy](http://www.blacksheepfitnessacademy.com).
 
 > "I can do that, Hold my beer!"
 
-Here it is, my first attempt to the Bring Sally Up Push Up Challenge and...
-
-
+Obviously, I had to tried it myself. Here is footage of my first attempt to the 
+Bring Sally Up Push Up Challenge in which I fail miserably :)
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/fzTLSRGBFuE?rel=0" frameborder="0"></iframe>
 
 
 I only endured ~50% of the overall time :$
-I've learned my place now and #humble me goes back to training *\0/*
-I'll be back :っ)
+I've stood corrected about where is my place
+and #humble me goes back to training *\0/*
 
+                                           I'll be back!
