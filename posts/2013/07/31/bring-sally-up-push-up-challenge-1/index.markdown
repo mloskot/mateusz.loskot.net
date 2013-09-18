@@ -15,9 +15,12 @@ Moby's song called [Flower](http://www.youtube.com/watch?v=3sWb1iR2mzM) where
 push-up reps are controlled by the phrase *Bring Sally Up, Bring Sally Down...*
 
 I was getting hooked, then Gaz mentioned a video on YouTube with someone performing
-variation of this challenge, not on floor but on three medicine balls.
+variation of this challenge, not on floor but 
+[on three medicine balls](http://www.youtube.com/watch?v=VAEz6vg3a8E).
 The strong man turns out to be Lee Tiffin from the 
 [Black Sheep Fitness Academy](http://www.blacksheepfitnessacademy.com).
+[Here](http://www.youtube.com/watch?v=z-Wnl4X1cNo) is clip with Lee 
+performing the regular version of the challenge.
 
 > "I can do that, Hold my beer!"
 
