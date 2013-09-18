@@ -40,4 +40,5 @@ It's an evil good news of the day and I'm keen in trying it out as soon as I pol
 I also hope, Microsoft will consider to offer _the fastest development environment for C/C++ programmers_ for Linux. Namely, Visual Studio.
 
 
-Yes, I am radically open minded. _I can take on the most incredible of challenges, even [surfing an inflatable crocodile](http://www.moneysupermarket.com/c/videos/you%27re-so-moneysupermarket/0011805/)_.
+Yes, I am radically open minded. _I can take on the most incredible of challenges, 
+even **surfing an inflatable crocodile** ((link to advert of one of online supermarkets operator removed on request of the operator, funny)_.
