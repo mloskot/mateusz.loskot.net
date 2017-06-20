@@ -1,0 +1,34 @@
+# EditorConfig is awesome: http://EditorConfig.org
+#
+# NOTE: Keep settings in sync with the master .clang-format file
+#
+# top-most EditorConfig file
+root = true
+
+# Markdown/reStructuredText documentation files
+[*.{md,markdown}]
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+
+# CI configuration files
+[*.{toml,yml}]
+indent_size = 2
+indent_style = space
+trim_trailing_whitespace = true
+
+# Windows shell scripts
+[*.{cmd,bat,ps1}]
+end_of_line = crlf
+indent_size = 4
+indent_style = space
+insert_final_newline = false
+trim_trailing_whitespace = true
+
+# Unix shell scripts
+[*.sh]
+end_of_line = lf
+indent_size = 4
+indent_style = space
+insert_final_newline = false
+trim_trailing_whitespace = true
