@@ -1,0 +1,260 @@
+/*****************************************************************************/
+/* style.css - main style for mateusz.loskot.net
+/*
+/* Author: Mateusz Loskot <mateusz@loskot.net>
+/* Author: Tom Preston-Werner
+/* This CSS is originally based on Tom Preston-Werner's CSS
+/* Source: http://tom.preston-werner.com/
+/*
+/*****************************************************************************/
+
+/*****************************************************************************/
+/* Common
+/*****************************************************************************/
+
+/* Global Reset */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+html, body {
+  height: 100%;
+}
+
+body {
+  background-color: white;
+  font: 13.34px verdana, helvetica, arial, sans-serif;
+  *font-size: small;
+  text-align: center;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-size: 100%;
+}
+
+h1 {
+  margin-bottom: 1em;
+}
+
+p {
+  margin: 1em 0;
+}
+
+pre {
+    line-height: 1.2em;
+}
+
+a {
+  color: #F57F00;
+  text-decoration: none;
+}
+
+a:hover {
+  color: #121621;
+  text-decoration: underline;
+}
+
+table {
+  font-size: inherit;
+  font: 100%;
+}
+
+hr {
+  border: 0px;
+  display: block;
+  overflow: hidden;
+  background: #F57F00;
+  height: 1px;
+}
+
+blockquote {
+  background:#f9f9f9;
+  border-left:2px solid #F57F00;
+  padding:.1em 10px;
+  font-size: 85%;
+  font-weight: normal;
+  font-style: italic;
+}
+
+blockquote p {
+  display:inline;
+}
+
+/*****************************************************************************/
+/* Home
+/*****************************************************************************/
+
+.tagline {
+  font-size: 100%;
+  font-weight: normal;
+  color: #121621;
+}
+
+ul.posts {
+  list-style-type: none;
+  margin-bottom: 2em;
+}
+
+  ul.posts li {
+    line-height: 1.5em;
+  }
+
+  ul.posts span {
+    color: #666666;
+    font-family: consolas, 'lucida console', 'bitstream vera sans mono', 'courier new', monospace;
+    font-size: 80%;
+  }
+
+/*****************************************************************************/
+/* Site
+/*****************************************************************************/
+
+.site {
+  font-size: 110%;
+  text-align: justify;
+  width: 50em;
+  margin: 1em auto 2em auto;
+  line-height: 1.5em;
+}
+
+.title {
+  color: #121621;
+  font-weight: normal;
+  margin-bottom: 2em;
+  border-bottom: 2px solid #F57F00;
+  line-height: 2em;
+}
+
+.title .tagline {
+  margin-bottom: 1.75em;
+}
+
+  .site .title a {
+    color: #F57F00;
+    text-decoration: none;
+  }
+
+  .site .title a:hover {
+    color: #121621;
+    text-decoration: underline;
+  }
+
+  .site .title a.extra {
+    color: #F57F00;
+    text-decoration: none;
+    margin-right: 2em;
+  }
+
+  .site .title a.extra:hover {
+    color: #121621;
+    text-decoration: underline;
+  }
+
+  .site .meta {
+    color: #aaa;
+  }
+
+  .site .footer {
+    font-size: 80%;
+    color: #595959;
+    border-top: 2px solid #F57F00;
+    margin-top: 2em;
+    overflow: hidden;
+  }
+
+    .site .footer .contact {
+      float: left;
+      margin-right: 3em;
+    }
+
+      .site .footer .contact a {
+        color: #F57F00;
+      }
+
+      .site .footer .contact a:hover {
+        color: #121621;
+      }
+
+    .site .footer .rss {
+      margin-top: 1.1em;
+      margin-right: -.2em;
+      float: right;
+    }
+
+      .site .footer .rss img {
+        border: 0;
+      }
+
+/*****************************************************************************/
+/* Posts
+/*****************************************************************************/
+
+#post {
+
+}
+
+  /* standard */
+
+  #post pre {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    padding: 0 .4em;
+  }
+
+  #post ul,
+  #post ol {
+    margin-left: 1.35em;
+  }
+
+  #post code {
+    border: 1px solid #ddd;
+    background-color: #eef;
+    font-size: 85%;
+    padding: 0 .2em;
+  }
+
+    #post pre code {
+      border: none;
+    }
+
+  /* terminal */
+
+  #post pre.terminal {
+    border: 1px solid black;
+    background-color: #333;
+    color: white;
+  }
+
+  #post pre.terminal code {
+    background-color: #333;
+  }
+
+#related {
+  margin-top: 2em;
+}
+
+  #related h2 {
+    margin-bottom: 1em;
+  }
+
+/*****************************************************************************/
+/* Flickr badge
+ *
+ * Images are wrapped in divs classed "flickr_badge_image" with ids 
+ * "flickr_badge_imageX" where "X" is an integer specifying ordinal position.
+ * Below are some styles to get you started!
+/*****************************************************************************/
+#flickr_badge_wrapper { float: right; width: 250px; }
+.flickr_badge_image {float: right; margin: 0 0px 0px 5px;}
+.flickr_badge_image img { border: 1px solid #121621 !important;
+  -webkit-opacity: 1;
+  -moz-opacity: 1;
+  opacity: 1;
+}
+.flickr_badge_image img:hover { border: 1px solid black !important;
+  -webkit-opacity: 0.75;
+  -moz-opacity: 0.75;
+  opacity: 0.75;
+}

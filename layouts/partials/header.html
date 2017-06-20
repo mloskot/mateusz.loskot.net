@@ -1,0 +1,27 @@
+<!DOCTYPE html> 
+<html lang="{{ .Site.LanguageCode }}">
+  <head>
+    <meta charset="utf-8">
+    <base href="{{ .Site.BaseURL }}">
+    <title>{{ .Site.Title }} :: {{ .Site.Params.Tagline }}</title>
+    <link rel="stylesheet" href="{{ "/css/style.css" | relURL }}" />
+  </head>
+
+  <body>
+    <div class="site">
+      <div id="flickr_badge_wrapper">
+        <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?count=3&display=random&size=s&layout=x&source=user_tag&user=10646408%40N06&tag=mloskot"></script>
+      </div>
+
+      <div class="title">
+        <div class="tagline">
+          <a href="{{ .Site.BaseURL }}">{{ .Site.Title }}</a> :: <span class="tagline">{{ .Site.Params.Tagline }}</span>
+        </div>
+        <div class="navline">
+            &nbsp;<br />
+            <!--
+            blog::<a href="#" class="extra">code</a>
+            blog::<a href="#" class="extra">sweat</a>
+            -->
+        </div>
+    </div>

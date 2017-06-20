@@ -1,0 +1,11 @@
+{{ partial "header.html" . }}
+
+<ul class="posts">
+  {{ range first 13 .Data.Pages }}
+  <li>
+    <span><time datetime="{{ .Date }}">{{ .Date.Format "02 Jan 2006" }}</time></span> &raquo; <a href="{{ .URL }}">{{ .Title }}</a>
+  </li>
+  {{ end }}
+</ul>
+
+{{ partial "footer.html" . }}
