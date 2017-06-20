@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-09-05 18:18:44
-layout: post
 slug: productive-saturday-climbing
 title: Productive Saturday Climbing
-wordpressid: 971
 categories: climbing,life,programming
-tags: bouldering,c++,castle,climbing,design,gdal,interface,library,london,ogr,open
   source,pantera,pointer,programming,project,reference,shared_ptr,smart pointer,value,value
   object
 ---

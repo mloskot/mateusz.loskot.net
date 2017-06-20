@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-02-13 17:25:35
-layout: post
 slug: agony-of-my-windows-box
 title: Agony of my Windows box
-wordpressid: 179
 categories: none
 ---
 

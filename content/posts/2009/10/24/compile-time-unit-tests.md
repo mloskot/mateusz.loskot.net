@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-24 01:21:54
-layout: post
 slug: compile-time-unit-tests
 title: Compile-time unit tests
-wordpressid: 1357
 categories: programming
-tags: boost,boost.geometry,build,compile,compile-fail,generic geometry library,geometry,jamfile,link,link-fail,project,test,testing,unit
 ---
 
 [Boost](http://www.boost.org/) [Build V2](http://beta.boost.org/boost-build2/doc/html/index.html) includes [testing](http://beta.boost.org/boost-build2/doc/html/bbv2/builtins/testing.html) module that provides nice features for running unit tests. A unit test run means a test builds and can be executed performing checks in run-time, however, a unit test can be also based on compilation or even linking result. Yet more surprisingly, sometimes a test is expected to not to compile and such failure is considered as success. It performs [compile-time checking](http://research.microsoft.com/en-us/projects/specsharp/) in [design by contract](http://en.wikipedia.org/wiki/Design_by_contract).

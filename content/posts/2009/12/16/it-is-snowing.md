@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-12-16 11:42:45
-layout: post
 slug: it-is-snowing
 title: It is snowing
-wordpressid: 1651
 categories: life
-tags: comedy,england,fun,london,Michael McIntyre,snow,uk,winter
 ---
 
 in London!

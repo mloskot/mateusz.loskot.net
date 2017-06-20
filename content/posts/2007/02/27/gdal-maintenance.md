@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-02-27 22:25:13
-layout: post
 slug: gdal-maintenance
 title: GDAL maintenance
-wordpressid: 184
 categories: life
 ---
 

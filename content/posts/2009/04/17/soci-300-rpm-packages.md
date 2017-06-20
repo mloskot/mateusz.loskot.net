@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-04-17 00:29:04
-layout: post
 slug: soci-300-rpm-packages
 title: SOCI 3.0.0 RPM Packages
-wordpressid: 436
 categories: none
-tags: backend,boost,c++,database,dbms,fedora,library,mysql,opentrep,oracle,package,postgresql,project,rpm,sobczak,soci,sqlite,std,template
 ---
 
 [Denis Arnaud](http://denisarnaud.fedorapeople.org/) prepared RPM packages for [SOCI library version 3.0.0](http://soci.sourceforge.net/). As Denis [explains](http://sourceforge.net/mailarchive/message.php?msg_name=b4f0e550904161501j44d93780qf653f8ebf53870f5%40mail.gmail.com), these RPM packages primarily target Fedora family, but should work on other [RPM-based distributions](http://en.wikipedia.org/wiki/Category:RPM-based_Linux_distributions).

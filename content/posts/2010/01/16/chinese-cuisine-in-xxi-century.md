@@ -1,12 +1,8 @@
 ---
 title: Chinese cuisine in XXI century
 date: 2010-01-16 14:07:29
-layout: post
-comments: true
 slug: chinese-cuisine-in-xxi-century
-wordpressid: 1745
 categories: life
-tags: animal,china,important,rights
 ---
 
 > (...) when the animal's fur is not needed (mostly with cats), the animals are put in a sack, and are then cooked alive in a barrel of boiling water (...)

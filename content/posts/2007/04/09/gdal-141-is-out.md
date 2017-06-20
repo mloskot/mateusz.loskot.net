@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-04-09 19:26:40
-layout: post
 slug: gdal-141-is-out
 title: GDAL 1.4.1 is out
-wordpressid: 188
 categories: open source
 ---
 

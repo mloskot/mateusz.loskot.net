@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-05-13 21:29:10
-layout: post
 slug: qgis-tracks-on-boostcon09
 title: QGIS tracks on BoostCon'09
-wordpressid: 582
 categories: none
-tags: aspen,boost,boostcon,cdash,cmake,colorado,conference,cpack,ctest,event,Hoffman,kitware,qgis
 ---
 
 In one of presentations from this year's edition of [BoostCon](http://www.boostcon.com/), I found a small track of [Quantum GIS](http://qgis.org/) project. This is [Bill Hoffman](http://www.kitware.com/company/team/hoffman.html)'s presentation titled [A CMake-Based Software Process for Development and Integration Testing](http://www.boostcon.com/program/sessions#hoffman-king-a-cmake-based-software-process-for-development-and) ([PDF](http://www.boostcon.com/site-media/var/sphene/sphwiki/attachment/2009/05/01/cmake-kitware.pdf)) and the track is citation taken from Martin Dobias' blog post [Having fun with CMake](http://blog.qgis.org/?q=node/16):

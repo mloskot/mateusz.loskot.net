@@ -2,12 +2,8 @@
 title: Formal Review of IO and Toolbox extensions to Boost.GIL starts TOMORROW
 date: 2010-11-30 19:12:43
 category: code
-layout: post
-comments: true
 slug: formal-review-of-io-and-toolbox-extensions-to-boost-gil-starts-tomorrow
-wordpressid: 2117
 categories: programming
-tags: adobe,boost,boost.gil,christian henning,colour,extension,gil,image,programming,project,raster,rgb,rgba,toolbox
 ---
 
 I am honoured to act as a [Boost](http://boost.org) Review Manager for the proposed **Boost.GIL.IO** and **Boost.GIL.Toolbox** extensions. Today, I [announced the review](http://thread.gmane.org/gmane.comp.lib.boost.devel/211255) starting **tomorrow**:

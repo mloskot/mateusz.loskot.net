@@ -2,10 +2,7 @@
 title: OSGeo Charter Nomination for Martin Daly
 date: 2011-11-10 13:22:18
 category: code
-comments: true
-layout: post
 slug: osgeo-charter-nomination-for-martin-daly
-wordpressid: 2268
 categories: open source
 ---
 

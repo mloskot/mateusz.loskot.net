@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-04-04 00:35:33
-layout: post
 slug: see-you-in-all-see-you-in-me
 title: See you in all, see you in me...
-wordpressid: 113
 categories: life
-tags: science
 ---
 
 > You are my mother, you are

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-09-20 16:39:09
-layout: post
 slug: fresh-breeze-of-the-ubuntu-510-the-breezy-badger
 title: Fresh breeze of the Ubuntu 5.10
-wordpressid: 5
 categories: none
-tags: linux,ubuntu,hardware
 category: code
 ---
 

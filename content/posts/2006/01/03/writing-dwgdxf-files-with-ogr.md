@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-01-03 22:42:34
-layout: post
 slug: writing-dwgdxf-files-with-ogr
 title: Writing DWG/DXF files with OGR
-wordpressid: 74
 categories: none
 ---
 

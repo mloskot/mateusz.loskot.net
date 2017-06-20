@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-03-19 18:31:23
-layout: post
 slug: building-qt-4-with-visual-c-2005
 title: Building QT 4 with Visual C++ 2005
-wordpressid: 107
 categories: programming
-tags: nokia,open source,project,qgis,qt,trolltech,visual c++,visual studio,windows
 ---
 
 

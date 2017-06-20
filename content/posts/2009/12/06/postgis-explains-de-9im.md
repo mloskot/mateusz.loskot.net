@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-12-06 03:08:21
-layout: post
 slug: postgis-explains-de-9im
 title: PostGIS explains DE-9IM
-wordpressid: 1614
 categories: open source
-tags: data,database,dbms,de-9im,documentation,geography,geometry,geospatial,gis,intersection,Kevin
   Neufeld,manual,matrix,ogc,postgis,postgresql,programming,project,Regina Obe,spatial
 ---
 

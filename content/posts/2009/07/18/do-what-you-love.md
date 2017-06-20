@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-07-18 00:44:43
-layout: post
 slug: do-what-you-love
 title: Do what you love...
-wordpressid: 722
 categories: life
-tags: altitude,author,believe,canada,canadian,climbing,environment,family,honest,life,love,me,never,people,pholosophy,respect,sonnie,toronto,trotter
 ---
 
 Philosophy of the <del>day</del> year:

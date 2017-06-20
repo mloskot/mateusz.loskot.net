@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-09-26 19:21:11
-layout: post
 slug: linux-dot-com-about-geoserver
 title: Linux.com about GeoServer
-wordpressid: 282
 categories: none
-tags: article,foss4g,geoserver,justin,linux,linux.com,mapping,open source,openlayers,palk,postgis,qgis,shapefile,tiger,tutorial.howto,web,web
   mapping
 ---
 

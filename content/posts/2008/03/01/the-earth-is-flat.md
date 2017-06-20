@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-03-01 06:32:44
-layout: post
 slug: the-earth-is-flat
 title: The Earth is Flat
-wordpressid: 239
 categories: none
-tags: flat earth myth theory sphere astronomy science gps ira,science
 ---
 
 It may be surprising, but some people still believe it is. Here is an interesting debate the [Al-Fayhaa TV](http://www.alfayhaa.tv/) aired in 2007, during which [astronomy](http://en.wikipedia.org/wiki/Astronomy) researcher is arguing with [physicist](http://en.wikipedia.org/wiki/Physicist) on this subject:

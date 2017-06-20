@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-09-29 22:11:42
-layout: post
 slug: talking-about-data-races
 title: Talking about data races
-wordpressid: 1066
 categories: programming
-tags: Bartosz Milewski,book,data,data race,database,dbms,geography,geometry,gis,global,Milewski,mutability,parallel,postgis,process,processing,programming,project,safety,sharing,spatial,synchronisation,thread
 ---
 
 My countryman [Bartosz Milewski](http://bartoszmilewski.wordpress.com/) - the author of one of the best C++ introductory books - the [C++ In Action](http://www.relisoft.com/book/) posted video with very interesting talk about [Ownership Systems against Data Races](http://bartoszmilewski.wordpress.com/2009/09/22/ownership-systems-against-data-races/trackback/) (video is [here](http://www.vimeo.com/6689999)).

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-05-08 00:52:31
-layout: post
 slug: got-new-toy
 title: Got new toy
-wordpressid: 528
 categories: programming
-tags: algorithm,c++,comeau,compilation,compiler,error,example,gcc,language,libcomo,programming,sort,std,stl,template
 ---
 
 I've just got new <del>toy</del> **tool**. Since yesterday, I'm a happy owner of the most standards-conformant C++ compiler that ever existed - [Comeau C/C++](http://en.wikipedia.org/wiki/Comeau) from [Comeau Computing](http://www.comeaucomputing.com/).

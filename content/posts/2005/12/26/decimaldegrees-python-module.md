@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-12-26 14:42:38
-layout: post
 slug: decimaldegrees-python-module
 title: DecimalDegrees Python module
-wordpressid: 60
-tags: programming,gis,python,script
 category: code
 ---
 

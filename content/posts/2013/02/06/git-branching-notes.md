@@ -3,7 +3,6 @@ title: Git branching notes
 description: Collection of best practices for simple and effective Git branching
 date: 2013-02-06 23:00:00
 category: code
-tags: git,branch,merge,repository,workflow
 ---
 
 This is collection of short notes on best practices for simple and effective use of

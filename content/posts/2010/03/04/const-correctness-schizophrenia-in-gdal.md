@@ -2,12 +2,8 @@
 title: Const-correctness schizophrenia in GDAL
 date: 2010-03-04 00:23:59
 category: code
-layout: post
-comments: true
 slug: const-correctness-schizophrenia-in-gdal
-wordpressid: 1951
 categories: open source,programming
-tags: gdal,ogr,open source,programming,project
 ---
 
 [Const-correctness](http://en.wikipedia.org/wiki/Const-correctness) rants are quite common topic of chats on [#gdal](irc://irc.freenode.net/#gdal) IRC channel. Some of the pearls I've got printed in to my mind:

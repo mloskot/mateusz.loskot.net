@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-02 02:50:34
-layout: post
 slug: french-breakfast-at-google
 title: French breakfast at Google
-wordpressid: 758
 categories: life
-tags: blogging,bottin cartographes,cartographes,french,google,mapping,maps,market,monopoly,philosophy,tcmagazine,tcmagazine.com,techconnect,web
 ---
 
 [French company sues Google over its Maps service](http://www.tcmagazine.com/comments.php?id=28420&catid=6)

@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-09-25 12:21:45
-layout: post
 slug: ubuntu-launchpad-explained
 title: Ubuntu Launchpad explained
-wordpressid: 15
-tags: ubuntu,linux
 category: code
 ---
 

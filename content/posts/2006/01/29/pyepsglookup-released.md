@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-29 03:16:51
-layout: post
 slug: pyepsglookup-released
 title: PyEPSGLookup released!
-wordpressid: 94
 categories: programming
-tags: crs,programming,proj.4,project,srs
 ---
 
 Today, I released my new Python module:

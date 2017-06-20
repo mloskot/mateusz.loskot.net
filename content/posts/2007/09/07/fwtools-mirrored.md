@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-09-07 16:03:33
-layout: post
 slug: fwtools-mirrored
 title: FWTools mirrored
-wordpressid: 193
 categories: none
-tags: crs,geometry,geos,jts,microsoft,open source,open source,programming,proj.4,project,spatial,srs,windows
 ---
 
 Short announcement, today I set up small mirror for [FWTools](http://fwtools.maptools.org/) - Open Source GIS Binary Kit for Windows and Linux. It's available through HTTP under [http://fwtools.loskot.net](http://fwtools.loskot.net).

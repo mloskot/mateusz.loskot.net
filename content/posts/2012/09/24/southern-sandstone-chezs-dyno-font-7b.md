@@ -3,7 +3,6 @@ title: Southern Sandstone - Chez's Dyno - Font 7b
 description: Bouldering in High Rocks, Southern Sandstone, England.
 date: 2012-09-24
 category: sweat
-tags: bouldering,climbing,sandstone,high rocks,southern sandstone,england,uk,7b
 ---
 
 The [Chez's Dyno](http://www.ukclimbing.com/logbook/c.php?i=187693) is my first 

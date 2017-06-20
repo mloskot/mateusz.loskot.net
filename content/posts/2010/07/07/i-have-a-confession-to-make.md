@@ -3,12 +3,8 @@ title: I have a confession to make...
 description: On emotional bound with technologies
 date: 2010-07-07 11:36:14
 category: code
-layout: post
-comments: true
 slug: i-have-a-confession-to-make
-wordpressid: 2073
 category: code
-tags: dotnet,funny,java,javatar,technology,video,youtube
 ---
 
 > - Hey, what are guys up to?

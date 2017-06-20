@@ -2,10 +2,7 @@
 title: Initialise in condition, not assign
 date: 2011-09-30 01:08:55
 category: code
-comments: true
-layout: post
 slug: initialise-in-condition-not-assign
-wordpressid: 2190
 categories: programming
 ---
 

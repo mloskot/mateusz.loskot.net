@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-05 23:05:41
-layout: post
 slug: blog-like-interface-to-wtl-list
 title: Blog-like interface to WTL list
-wordpressid: 76
 categories: programming
-tags: atl,c++,evc++,library,microsoft,mobile,programming,visual c++,visual studio,windows,windows
   ce,wtl
 ---
 

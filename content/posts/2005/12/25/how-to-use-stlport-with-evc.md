@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-12-25 03:57:58
-layout: post
 slug: how-to-use-stlport-with-evc
 title: How to use STLport with eVC++
-wordpressid: 56
 category: code
-tags: cplusplus,visualstudio,microsoft,mobile,programming,stl,visualc,windows,windowsce
 ---
 
 ![STLport Logo](/images/logos/stlport-logo.gif)Today, I published my first article on the [Pocket PC Developer Network](http://www.pocketpcdn.com).

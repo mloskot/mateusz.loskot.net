@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-05-13 16:15:38
-layout: post
 slug: building-gdal-and-geos-with-vc-2005-express-edition
 title: Building GDAL and GEOS with VC++ 2005 Express Edition
-wordpressid: 124
 categories: programming
-tags: c++,geometry,geos,jts,open source,open source,programming,project,spatial,visual
   c++,visual studio
 ---
 

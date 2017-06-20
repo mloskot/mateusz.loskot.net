@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-10 13:53:41
-layout: post
 slug: co-za-cuda
 title: Co za CUDA!
-wordpressid: 1169
 categories: open source,programming
-tags: architecture,core,cpu,cuda,gdal,gpu,GT300,hardware,liblas,multiprocessing,nvidia,ogr,open
   source,parallelism,process,programming,project,threading
 ---
 

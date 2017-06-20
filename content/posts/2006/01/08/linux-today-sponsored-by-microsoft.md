@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-01-08 03:49:53
-layout: post
 slug: linux-today-sponsored-by-microsoft
 title: Linux Today sponsored by Microsoft?
-wordpressid: 79
 categories: none
 ---
 

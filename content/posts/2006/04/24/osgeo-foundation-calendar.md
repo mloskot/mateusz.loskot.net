@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-04-24 10:01:08
-layout: post
 slug: osgeo-foundation-calendar
 title: OSGeo Foundation Calendar
-wordpressid: 121
 categories: none
 ---
 

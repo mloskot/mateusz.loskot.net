@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-09-28 00:33:20
-layout: post
 slug: building-liblas-with-cmake
 title: Building libLAS with CMake
-wordpressid: 1019
 categories: open source,programming
-tags: autotools,cmake,kitware,liblas,programming,project
 ---
 
 [![libLAS - ASPRS LiDAR data translation toolset](http://liblas.org/chrome/site/liblaslogo.png)](http://liblas.org/) I almost finished crafting [CMake](http://cmake.org) configuration for [libLAS](http://liblas.org/). It is available from the repository in the [main](http://hg.liblas.org/main/) branch. It is possible to build libLAS library and command line utilities configured with most of supported dependencies: [GDAL](http://gdal.org), [GeoTIFF](http://trac.osgeo.org/geotiff/) and [SpatialIndex](http://trac.gispython.org/spatialindex). Configuration of Oracle and Boost dependencies is not ready yet. It is also possible to install libLAS run-time and compile-time components. Cool!

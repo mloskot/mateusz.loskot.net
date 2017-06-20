@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-07-28 22:03:56
-layout: post
 slug: word-of-the-day
 title: Word of the day
-wordpressid: 259
 categories: life,open source
-tags: cuil,engine,google,search
 ---
 
 mloskot says [Cuil](http://www.cuil.com/)

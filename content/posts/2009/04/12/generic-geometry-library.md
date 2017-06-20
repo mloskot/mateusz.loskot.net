@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-04-12 13:21:47
-layout: post
 slug: generic-geometry-library
 title: Generic Geometry Library
-wordpressid: 399
 categories: open source,programming
-tags: boost,boost.geometry,c++,class,generic,geometry,list,mailing,metaprogramming,open
   source,polymorphism,project,static,std,template
 ---
 

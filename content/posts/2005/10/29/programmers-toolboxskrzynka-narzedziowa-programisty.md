@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-10-29 16:01:37
-layout: post
 slug: programmers-toolboxskrzynka-narzedziowa-programisty
 title: Programmer's Toolbox
-wordpressid: 42
-tags: ubuntu,programming,cplusplus
 category: code
 ---
 

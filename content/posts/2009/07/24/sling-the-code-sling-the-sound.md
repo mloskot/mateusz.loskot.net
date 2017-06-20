@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-07-24 14:07:26
-layout: post
 slug: sling-the-code-sling-the-sound
 title: Sling the code, sling the sound
-wordpressid: 731
 categories: programming
-tags: alexandrescu,boost,boostcon,c++,drum,drums,google,iterator,movie,programming,range,stl,video,youtube
 ---
 
 C++ gurus can atomise not only particles of code but sound too ;-)

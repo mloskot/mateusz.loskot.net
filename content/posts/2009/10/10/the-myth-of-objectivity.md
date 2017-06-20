@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-10 22:46:38
-layout: post
 slug: the-myth-of-objectivity
 title: The Myth of Objectivity
-wordpressid: 1197
 categories: life,open source
-tags: c++,discussion,forum,foss,fsf,gdal ogr json geojson driver format gis geospatial
   feat,human,ignorance,linkedin,linkedin.com,myth,nature,objectivity,ogc,open source,philosophy,programming,rambling,religion,Shawn
   Owston,thoughts
 ---

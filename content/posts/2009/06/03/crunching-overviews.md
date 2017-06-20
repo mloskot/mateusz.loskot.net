@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-06-03 11:27:03
-layout: post
 slug: crunching-overviews
 title: Crunching overviews
-wordpressid: 623
 categories: none
-tags: database,dataset,dbms,dumping,gdal,gdal2wktraster,gdaladdo,geospatial,japan,loading,ogc,ogr,open
   source,overviews,postgis,processing,programming,project,pyramid,raster,spatial,wktraster
 ---
 

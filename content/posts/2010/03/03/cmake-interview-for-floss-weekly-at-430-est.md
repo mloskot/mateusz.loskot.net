@@ -2,12 +2,8 @@
 title: CMake interview for FLOSS Weekly at 4:30 EST
 date: 2010-03-03 22:36:47
 category: code
-comments: true
-layout: post
 slug: cmake-interview-for-floss-weekly-at-430-est
-wordpressid: 1936
 categories: open source,programming
-tags: Bill Hoffman,cmake,floss,kitware,programming,tv
 ---
 
 [Bill Hoffman just notified](http://www.cmake.org/pipermail/cmake/2010-March/035591.html) on the CMake mailing list:

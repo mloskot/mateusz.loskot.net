@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2012-03-03 20:12:47
 category: code
-layout: post
 slug: virgin-media-service-adventure
 title: Virgin Media service adventure
-wordpressid: 2940
 categories: life
-tags: broadband,internet,link,service,virgin media
 ---
 
 For the last two or three weeks, I've been suffering of a very poor quality broadband provided by [Virgin Media](http://virginmedia.com/) in London.

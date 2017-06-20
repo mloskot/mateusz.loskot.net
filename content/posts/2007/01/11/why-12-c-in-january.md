@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-01-11 06:33:12
-layout: post
 slug: why-12-c-in-january
 title: Why +12 C in January?
-wordpressid: 170
 categories: none
-tags: science
 ---
 
 

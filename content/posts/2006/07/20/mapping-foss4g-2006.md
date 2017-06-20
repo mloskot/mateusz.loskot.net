@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-07-20 23:09:20
-layout: post
 slug: mapping-foss4g-2006
 title: Mapping FOSS4G 2006
-wordpressid: 134
 categories: none
 ---
 

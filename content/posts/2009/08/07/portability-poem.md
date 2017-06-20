@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-07 00:55:54
-layout: post
 slug: portability-poem
 title: Portability poem
-wordpressid: 807
 categories: open source,programming
-tags: apple,c++,code,community,compiler,gcc,hacker,hints,linux,macosx,microsoft,msvc,open
   source,osx,portability,principles,programmer,standard,tips,unix,windows
 ---
 

@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-03-08 18:25:37
-layout: post
 slug: fun-in-the-open-source-code
 title: Fun in the Open Source code
-wordpressid: 185
 categories: none
 ---
 

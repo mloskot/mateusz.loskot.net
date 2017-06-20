@@ -2,10 +2,7 @@
 title: Notes on PyEval_EvalCodeEx
 date: 2011-09-24 22:45:57
 category: code
-comments: true
-layout: post
 slug: notes-on-pyeval_evalcodeex
-wordpressid: 2174
 categories: programming
 ---
 

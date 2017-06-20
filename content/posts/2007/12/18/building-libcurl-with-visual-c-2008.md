@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-12-18 00:12:25
-layout: post
 slug: building-libcurl-with-visual-c-2008
 title: Building libcurl with Visual C++ 2008
-wordpressid: 231
 categories: programming
-tags: curl,curl libcurl visual c++ compiler library building compi,ide,libcurl,library,microsoft,visual
   c++,visual studio,windows
 ---
 

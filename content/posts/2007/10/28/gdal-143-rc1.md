@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-10-28 08:14:05
-layout: post
 slug: gdal-143-rc1
 title: GDAL 1.4.3 RC1
-wordpressid: 217
 categories: open source
 ---
 

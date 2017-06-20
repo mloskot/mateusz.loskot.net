@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-10-19 17:14:39
-layout: post
 slug: open-source-geospatial-foundation-selects-tyler-mitchell
 title: Open Source Geospatial Foundation Selects Tyler Mitchell
-wordpressid: 162
 categories: none
 ---
 

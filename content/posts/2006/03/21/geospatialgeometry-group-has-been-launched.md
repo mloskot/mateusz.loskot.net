@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-03-21 23:45:07
-layout: post
 slug: geospatialgeometry-group-has-been-launched
 title: GeospatialGeometry group has been launched!
-wordpressid: 108
 categories: none
 ---
 

@@ -3,7 +3,6 @@ date: 2013-02-15T23:35:00Z
 title: PostGIS Raster is four years old
 description: Short history of PostGIS Raster and delayed fourth birthday celebration
 category: code
-tags: postgis,database,raster,planetosgeo,planetpostgis
 ---
 
 (let's go sentimental)

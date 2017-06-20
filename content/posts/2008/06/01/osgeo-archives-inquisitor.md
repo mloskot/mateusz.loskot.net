@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-06-01 19:32:48
-layout: post
 slug: osgeo-archives-inquisitor
 title: OSGeo archives inquisitor
-wordpressid: 251
 categories: open source
-tags: archive,google,inquisitor,inquisitorx,mailing list,mailman,nabble,open source,safari,searching,shortcut,spotlight,website
 ---
 
 All OSGeo mailing lists are managed by [GNU Mailman](http://www.gnu.org/software/mailman/). Mailman is a great piece of software but it lacks of user friendly search engine. In order to search, for instance, [gdal-dev archives](http://lists.osgeo.org/pipermail/gdal-dev/) I usually feed Google with a query like this:

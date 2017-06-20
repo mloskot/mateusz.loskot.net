@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-02-04 22:30:25
-layout: post
 slug: liblas-101
 title: libLAS 1.0.1
-wordpressid: 285
 categories: none
-tags: liblas,library gis lidar laser liblas release howard butler ma,programming,project
 ---
 
 Today, [Howard](http://hobu.biz/) has [announced](http://lists.osgeo.org/pipermail/liblas-devel/2009-February/000409.html) new release of [libLAS](http://liblas.org/) [1.0.1](http://liblas.org/wiki/1.0.1). The new version mostly brings update in Python bindings. Here is detailed [report](http://liblas.org/query?status=closed&group=resolution&milestone=1.0.1) of all fixes in this milestone.

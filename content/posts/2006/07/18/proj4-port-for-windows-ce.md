@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-07-18 12:53:32
-layout: post
 slug: proj4-port-for-windows-ce
 title: PROJ.4 port for Windows CE
-wordpressid: 133
 categories: none
-tags: crs,microsoft,programming,proj.4,project,srs,windows
 ---
 
 In the March 2006, when I was working in [Taxus SI Ltd.](http://www.taxussi.com.pl/) company, I started porting the PROJ.4 library to Windows CE platform. I checkouted the source code of PROJ.4 library from its CVS repository and applied changes required to build it with the [eVC++ 4.0](http://msdn.microsoft.com/mobility/othertech/eVisualc/default.aspx) compiler.

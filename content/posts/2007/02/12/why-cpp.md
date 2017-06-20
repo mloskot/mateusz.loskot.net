@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-02-12 22:22:41
-layout: post
 slug: why-cpp
 title: Why C++?
-wordpressid: 178
 categories: none
 ---
 

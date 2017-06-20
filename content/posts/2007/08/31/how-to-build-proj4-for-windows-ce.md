@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-08-31 19:35:43
-layout: post
 slug: how-to-build-proj4-for-windows-ce
 title: How to build PROJ.4 for Windows CE
-wordpressid: 191
 categories: programming
-tags: c++,crs,microsoft,programming,proj.4,project,srs,visual c++,visual studio,windows
 ---
 
 Recently, I've been asked for some help in building [PROJ.4](http://proj.maptools.org/) library for Windows CE systems, like [Windows Mobile 5.0](http://en.wikipedia.org/wiki/Windows_Mobile) for Pocket PC. So, I decided to write down all steps required to get this task done with success.

@@ -2,12 +2,8 @@
 title: Kitware Developer blog launched
 date: 2010-01-28 23:31:01
 category: code
-layout: post
-comments: true
 slug: kitware-developer-blog-launched
-wordpressid: 1784
 categories: open source,programming
-tags: apple,backend,blog,build,c++,cmake,database,dbms,Hoffman,kitware,linux,microsoft,osx,programming,project,soci,windows
 ---
 
 [![CMake - cross-platform build system](/images/logos/cmake-logo.png)](http://www.cmake.org/)A few minutes ago, [Bill Hoffman](http://mateusz.loskot.net/?p=1660) from [Kitware](http://www.kitware.com/) posted short message to the [CMake](http://www.cmake.org) project mailing list with an interesting announce:

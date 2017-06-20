@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-07-28 19:26:59
-layout: post
 slug: nasaimagesorg
 title: nasaimages.org
-wordpressid: 258
 categories: none
-tags: earth,globe,images,nasa,photography,photos,science,solar
 ---
 
 [NASA Images](http://nasaimages.org/) is

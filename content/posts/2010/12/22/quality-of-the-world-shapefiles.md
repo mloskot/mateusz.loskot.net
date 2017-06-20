@@ -2,12 +2,8 @@
 title: Quality of the World Shapefiles
 date: 2010-12-22 23:43:19
 category: code
-layout: post
-comments: true
 slug: quality-of-the-world-shapefiles
-wordpressid: 2135
 categories: open source
-tags: Barend Gehrels,boost,boost.geometry,comparison,countries,data,geodate,ggl,shapefile,vector,world
 ---
 
 [![file TM_WORLD_BORDERS_SIMPL-0.3.shp](http://lh3.ggpht.com/_6zrdK5O_LIg/TP_-VzMsgzI/AAAAAAAABYY/-q_C3OAFUX8/world5b.gif)](http://barendgehrels.blogspot.com/2010/12/free-shapefile-of-countries-of-world.html)[Barend Gehrels](http://barendgehrels.blogspot.com) from the [Boost.Geometry](http://trac.osgeo.org/ggl) project has posted an interesting analysis comparing available versions of the same vector data. It is [Shapefile](http://en.wikipedia.org/wiki/Shapefile) with borders of the World countries. The data is the same but different and sometimes the differences are very surprising.

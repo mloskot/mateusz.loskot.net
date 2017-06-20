@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-09-14 06:20:40
-layout: post
 slug: run-gdal-builders-in-a-batch
 title: Run GDAL builders in a batch
-wordpressid: 195
 categories: programming
 ---
 

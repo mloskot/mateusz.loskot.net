@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-02-07 00:03:37
-layout: post
 slug: using-liblas-with-grass
 title: Using LibLAS with GRASS
-wordpressid: 287
 categories: none
-tags: data,grass,hamish,help,liblas,lidar,manual,processing,programming,project,tutorial
 ---
 
 Hamish has [announced](http://lists.osgeo.org/pipermail/grass-user/2009-February/048716.html) a short [tutorial](http://grass.osgeo.org/wiki/LIDAR#Micro-tutorial) about how to [libLAS](http://liblas.org/) and [GRASS](http://grass.osgeo.org/) together to process LiDAR data encoded in ASPRS LAS format:

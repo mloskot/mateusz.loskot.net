@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2008-09-22 17:58:13
-layout: post
 slug: visual-c-toolkit-2003-still-in-use
 title: Visual C++ Toolkit 2003 still in use
 description: Short tutorial on how to use Visual C++ Toolkit 2003
-wordpressid: 281
 category: code
-tags: dotnet,cplusplus,gdal,geos,ide,liblas,microsoft,programming,sdk,toolkit,visualc,visualstudio,windows
 ---
 
 [![Charles Petzold's Tattoo](/images/logos/charles-petzold-tattoo.jpg)](http://www.charlespetzold.com/)In 2004, Microsoft 

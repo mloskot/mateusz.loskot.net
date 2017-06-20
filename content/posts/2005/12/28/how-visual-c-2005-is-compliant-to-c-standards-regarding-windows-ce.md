@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-12-28 22:05:00
-layout: post
 slug: how-visual-c-2005-is-compliant-to-c-standards-regarding-windows-ce
 title: How Visual C++ 2005 is compliant to C++ standards regarding Windows CE?
-wordpressid: 64
-tags: cplusplus,stl,std,microsoft,mobile,programming,visualc,visualstudio,windows,windowsce
 category: code
 ---
 

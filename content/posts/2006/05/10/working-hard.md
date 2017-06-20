@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-05-10 06:54:14
-layout: post
 slug: working-hard
 title: Working hard...
-wordpressid: 123
 categories: life
 ---
 

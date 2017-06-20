@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-04 17:13:46
-layout: post
 slug: iterators-must-go
 title: Iterators Must Go!
-wordpressid: 785
 categories: programming
-tags: alexandrescu,andrei alexandrescu,boost,c++,ide,iterator,microsoft,programming,range,stl,video,visual
   c++,visual studio,webcast
 ---
 

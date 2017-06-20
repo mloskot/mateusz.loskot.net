@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-05-26 02:25:57
-layout: post
 slug: elephants-dream-movie
 title: Elephants Dream movie
-wordpressid: 127
 categories: life
 ---
 

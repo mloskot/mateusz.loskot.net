@@ -2,12 +2,8 @@
 title: Update on SqlGeometry and POINT EMPTY in WKB
 date: 2011-10-22 23:41:46
 category: code
-comments: true
-layout: post
 slug: update-on-sqlgeometry-and-point-empty-in-wkb
-wordpressid: 2221
 categories: open source,programming
-tags: database,dbms,geometry,geospatial,microsoft,ogc,open source,postgis,programming,project,spatial,sql
   server,wkb
 ---
 

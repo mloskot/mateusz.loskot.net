@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-08-15 05:34:50
-layout: post
 slug: irans-president-blog-powered-by-microsoft
 title: Iran's President Blog Powered by Microsoft ,-)
-wordpressid: 142
 categories: life
 ---
 

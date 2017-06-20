@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-12-05 17:00:13
-layout: post
 slug: celebrating-year-one-in-london
 title: Celebrating year one in London
-wordpressid: 1594
 categories: life
-tags: cadcorp,celebration,london,mateusz loskot,mloskot,pantera,uk,united kingdom
 ---
 
 [![Celebrating year one in London,UK](http://farm3.static.flickr.com/2725/4159663919_69c9747195.jpg)](http://www.flickr.com/photos/mloskot/4159663919/)

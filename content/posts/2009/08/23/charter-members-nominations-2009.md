@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-23 12:12:11
-layout: post
 slug: charter-members-nominations-2009
 title: Charter Member Nominations 2009
-wordpressid: 895
 categories: open source
-tags: 2009,charter,charter member,chief,community,cro,election,foss,foss4g,grass,gvsig,nomination,officer,open
   source,qgis,robert szczepanek,szczepanek,szczepanek.pl
 ---
 

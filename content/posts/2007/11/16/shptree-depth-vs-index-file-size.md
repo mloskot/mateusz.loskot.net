@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-11-16 21:38:13
-layout: post
 slug: shptree-depth-vs-index-file-size
 title: SHPTree depth vs index file size
-wordpressid: 227
 categories: none
-tags: esri,esri shapefile shape shapelib spatial index tree shptre,programming,project,shapefile,shapelib
 ---
 
 This is a simple test I run to check how tree based spatial index for [Shapefile](http://en.wikipedia.org/wiki/Shapefile) influences size of index file ([.qix](http://mapserver.gis.umn.edu/cgi-bin/wiki.pl?ShpTree)). I used [OGR](http://en.wikipedia.org/wiki/GDAL) and spatial index implementation available in [Shapelib](http://shapelib.maptools.org/), in file [shptree.c](http://trac.osgeo.org/gdal/browser/trunk/gdal/ogr/ogrsf_frmts/shape/shptree.c).

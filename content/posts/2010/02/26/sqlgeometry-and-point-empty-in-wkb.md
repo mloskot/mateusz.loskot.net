@@ -3,12 +3,8 @@ title: SqlGeometry and POINT EMPTY in WKB
 description: Notes about OGC POINT EMPTY representation
 date: 2010-02-26 23:53:29
 category: code
-layout: post
-comments: true
 slug: sqlgeometry-and-point-empty-in-wkb
-wordpressid: 1914
 category: code
-tags: dotnet,ide,microsoft,ogc,postgis,programming,visualc,visualstudio,planetpostgis,planetosgeo
 ---
 
 Inspired by question [Paul Ramsey](http://www.cleverelephant.ca/index.html) asked today morning on IRC, I've inspected what kind of Well-Known-Binary output gives [SqlGeometry](http://msdn.microsoft.com/en-us/library/microsoft.sqlserver.types.sqlgeometry%28SQL.105%29.aspx) for `EMPTY` geometries of all the seven geometry types as specified in OGC SFS. The `SqlGeometry` class is available from [SQL Server System CLR Types](http://www.microsoft.com/downloads/details.aspx?FamilyId=228DE03F-3B5A-428A-923F-58A033D316E1) for .NET Framework. Here we go.

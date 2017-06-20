@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-01-23 20:02:02
-layout: post
 slug: a-bug-in-stdbasic_istream-from-visual-c
 title: A bug in std::basic_istream from Visual C++
-wordpressid: 235
 categories: programming
-tags: c++,c++ std stl library istream basic_istream visualc++ cas,ide,microsoft,programming,stl,visual
   c++,visual studio
 ---
 

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-29 20:12:17
-layout: post
 slug: detecting-visual-c-version-in-nmake-makefile
 title: Detecting Visual C++ version in NMAKE makefile
-wordpressid: 355
 categories: programming
-tags: compiler,gdal,geometry,geos,ide,jts,liblas,microsoft,msvc,nmake,ogr,open source,open
   source,programming,project,spatial,version,visual c++,visual studio,windows,_MSC_VER,_NMAKE_VER
 ---
 

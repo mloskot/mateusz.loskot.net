@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-23 06:02:52
-layout: post
 slug: sol-katz-award-call-for-nominations
 title: Sol Katz Award - Call for Nominations
-wordpressid: 274
 categories: open source
-tags: 2008,award,cape town,conference,foss4g,gfoss,open source,sol katz,south africa
 ---
 
 The [FOSS4G 2008](http://www.foss4g2008.org/) is only one month away. Traditionally, the Community gathered around [Free and Open Source Software for Geospatial](http://www.osgeo.org/) will award an individual with prestigious [Sol Katz Award](http://www.osgeo.org/solkatz):

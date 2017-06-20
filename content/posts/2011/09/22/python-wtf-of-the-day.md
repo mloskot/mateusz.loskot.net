@@ -2,10 +2,7 @@
 title: Python WTF of the day
 date: 2011-09-22 16:34:15
 category: code
-comments: true
-layout: post
 slug: python-wtf-of-the-day
-wordpressid: 2154
 categories: programming
 ---
 

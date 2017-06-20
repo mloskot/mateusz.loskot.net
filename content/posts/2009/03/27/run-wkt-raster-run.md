@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-27 19:39:55
-layout: post
 slug: run-wkt-raster-run
 title: Run WKT Raster, run!
-wordpressid: 317
 categories: none
-tags: benchmark,database,db,dbms,gdal,gdal2wktraster,geospatial,geotiff,imagery,japan,loader,observation,ogc,postgis,postgresql,programming,project,raster,spatial,statistics,testing,tiff,wkt,wktraster
 ---
 
 I have a **not-so-small** [GeoTIFF](http://trac.osgeo.org/geotiff/) raster dataset. Here is what [GDAL](http://gdal.org/) has to say about it:

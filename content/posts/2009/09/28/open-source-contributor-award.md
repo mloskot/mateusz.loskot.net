@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-09-28 22:39:22
-layout: post
 slug: open-source-contributor-award
 title: Open Source Contributor Award
-wordpressid: 1037
 categories: life,open source
-tags: dateline,Even Rouault,gdal,longtitude,ogr,ogr2ogr,open source,programming,project
 ---
 
 goes to...

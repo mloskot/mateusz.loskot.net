@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-04-10 12:25:02
-layout: post
 slug: motto-of-the-week
 title: Motto of the week
-wordpressid: 115
 categories: life
-tags: science
 ---
 
 

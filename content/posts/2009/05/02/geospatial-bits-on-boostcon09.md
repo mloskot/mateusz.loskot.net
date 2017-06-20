@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-05-02 00:31:40
-layout: post
 slug: geospatial-bits-on-boostcon09
 title: Geospatial bits on BoostCon'09
-wordpressid: 494
 categories: programming
-tags: 2009,aspen,boost,boost.geometry,boostcon,c++,colorado,compile-time,concept,conference,fair,geography,geometry,library,may,presentation,programmer,project,talk,template,us
 ---
 
 On the 3rd of May 2009, the best event dedicated to C++ programmers starts in [Aspen](http://www.boostcon.com/location/around-town), US. It is [BoostCon'09](http://www.boostcon.com/). The conference gathers developers and users of [Boost C++ Libraries](http://boost.org/).

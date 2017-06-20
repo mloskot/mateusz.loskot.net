@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2011-05-24 23:45:00
-layout: post
 slug: cliffhanger-dyno-comp-2010
 title: Cliffhanger Dyno Comp 2010
-wordpressid: 2147
 categories: climbing
 category: sweat
 ---

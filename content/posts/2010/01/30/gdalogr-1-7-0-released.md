@@ -2,12 +2,8 @@
 title: GDAL/OGR 1.7.0 Released
 date: 2010-01-30 20:28:45
 category: code
-layout: post
-comments: true
 slug: gdalogr-1-7-0-released
-wordpressid: 1814
 categories: open source
-tags: announcement,frank warmerdam,gdal,ogr,open source,postgis,programming,project,raster,release,version,wktraster
 ---
 
 [![GDAL logo](/images/logos/gdal-logo.png)](http://www.gdal.org)[Frank](http://fwarmerdam.blogspot.com/) has just posted [announcement](http://lists.osgeo.org/pipermail/gdal-announce/2010-January/000035.html) about freshly released [GDAL/OGR 1.7.0](http://trac.osgeo.org/gdal/wiki/Release/1.7.0-News):

@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2008-02-12 19:44:06
-layout: post
 slug: the-cascadoss-project
 title: The Cascadoss Project
 description: Short overivew of Cascadoss initiative and upcoming events
-wordpressid: 238
 categories: open source
-tags: cascados,osgeo,gmes,europ,foss4g,opensource,science,planetosgeo
 category: code
 ---
 

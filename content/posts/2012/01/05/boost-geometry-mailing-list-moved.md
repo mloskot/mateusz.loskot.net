@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2012-01-05 01:08:55
-layout: post
 slug: boost-geometry-mailing-list-moved
 title: Boost.Geometry mailing list moved
 category: code
-wordpressid: 2868
 categories: open source,programming
-tags: boost,boost.geometry,geometry,mailing list,osgeo,server
 ---
 
 I have moved mailing list of the Boost.Geometry library from server at 

@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-10-30 10:09:01
-layout: post
 slug: webcam-issue-solved
 title: Webcam issue solved!
-wordpressid: 43
-tags: ubuntu,linux,hardware
 category: code
 ---
 

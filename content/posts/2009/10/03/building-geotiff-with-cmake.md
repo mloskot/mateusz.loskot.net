@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-03 17:19:18
-layout: post
 slug: building-geotiff-with-cmake
 title: Building GeoTIFF with CMake
-wordpressid: 1111
 categories: open source
-tags: build,cmake,gdal,geotiff,kitware,libgeotiff,ogr,open source,programming,project
 ---
 
 I've just submitted ticket to [GeoTIFF](http://trac.osgeo.org/geotiff/) Trac system with patch providing [CMake](http://www.cmake.org) build configuration for GeoTIFF library and utility programs.

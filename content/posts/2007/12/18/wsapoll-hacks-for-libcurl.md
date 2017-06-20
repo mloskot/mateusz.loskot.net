@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-12-18 07:11:12
-layout: post
 slug: wsapoll-hacks-for-libcurl
 title: WSAPoll hacks for libcurl
-wordpressid: 232
 categories: programming
-tags: curl,gdal ogr visual c++ windows sdk winsock winsock2 api ws,ide,libcurl,library,microsoft,visual
   c++,visual studio,windows
 ---
 

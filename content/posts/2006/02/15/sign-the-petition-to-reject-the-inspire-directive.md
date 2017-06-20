@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-02-15 15:01:57
-layout: post
 slug: sign-the-petition-to-reject-the-inspire-directive
 title: Sign the Petition to reject the INSPIRE Directive
-wordpressid: 98
 categories: none
 ---
 

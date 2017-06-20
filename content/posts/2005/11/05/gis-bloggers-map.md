@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2005-11-05 01:34:49
-layout: post
 slug: gis-bloggers-map
 title: GIS Bloggers Map
-wordpressid: 49
 categories: maps,web,gis
 ---
 

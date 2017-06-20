@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-01-28 00:52:25
-layout: post
 slug: beyond-stupidity-limits
 title: Beyond stupidity limits
-wordpressid: 173
 categories: life
 ---
 

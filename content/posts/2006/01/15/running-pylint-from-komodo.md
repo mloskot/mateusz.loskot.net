@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-15 07:51:42
-layout: post
 slug: running-pylint-from-komodo
 title: Running PyLint from Komodo
-wordpressid: 81
 categories: programming
-tags: ide,komodo,programming,pylint,python
 ---
 
 ![ActiveState Komodo Logo](/images/logos/komodo-logo.gif)Thanks to John's [Get Komodo for free](http://thinkhole.org/wp/2005/12/30/get-komodo-for-free/) post I started to use [Komodo](https://www.activestate.com/Products/Komodo/) on my laptop. It's really well-done software, so I put [Vim](http://www.vim.org) away (for a while or longer :-)) and started to develop my scripts using Komodo.

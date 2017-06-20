@@ -2,12 +2,8 @@
 title: When Boost.Geometry release?
 date: 2010-02-07 00:28:42
 category: code
-layout: post
-comments: true
 slug: when-boost-geometry-release
-wordpressid: 1842
 categories: open source,programming
-tags: Barend Gehrels,boost,boost.geometry,Bruno Lalande,geometry,library,programming,project
 ---
 
 [![Generic Geometry Library (GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)The [Boost 1.42](http://www.boost.org/users/download/version_1_42_0) was released a week ago, however this release does not include [Boost.Geometry (aka GGL)](http://trac.osgeo.org/ggl/) which was [accepted](http://permalink.gmane.org/gmane.comp.lib.boost.announce/246) 2 months ago. It is nothing uncommon, though many people have been asking obvious question, why Boost.Geometry is not there and when it will be there.

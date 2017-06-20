@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-11-01 13:22:31
-layout: post
 slug: im-your-mom
 title: I'm your mom!
-wordpressid: 47
-tags: linux
 category: code
 ---
 

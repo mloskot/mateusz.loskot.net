@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-11-26 07:45:49
-layout: post
 slug: geos-300rc4-and-visual-c
 title: GEOS 3.0.0rc4 and Visual C++
-wordpressid: 228
 categories: open source,programming
-tags: c++,gis geos jts geometry topology engine algorithms,programming,visual c++,visual
   studio
 ---
 

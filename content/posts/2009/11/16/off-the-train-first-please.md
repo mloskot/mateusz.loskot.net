@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-11-16 22:25:38
-layout: post
 slug: off-the-train-first-please
 title: Off the train first, please
-wordpressid: 1562
 categories: life
-tags: british,capability,comedy,funny,Michael McIntyre,polish,quote
 ---
 
 [Michael McIntyre](http://www.michaelmcintyre.co.uk/):

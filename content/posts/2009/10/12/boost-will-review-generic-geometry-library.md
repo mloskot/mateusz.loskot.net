@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-12 21:31:57
-layout: post
 slug: boost-will-review-generic-geometry-library
 title: Boost will review Generic Geometry Library
-wordpressid: 1232
 categories: open source,programming
-tags: Barend Gehrels,boost,boost.geometry,Bruno Lalande,geometry,gtl,Hartmut Kaiser,library,polygon,project,review,submission
 ---
 
 [![Generic Geometry Library (GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)Today afternoon, [Barend Gehrels](http://geometrylibrary.geodan.nl/) oficially submitted formal request of the [Generic Geometry Library](http://trac.osgeo.org/ggl) (GGL) to [Boost C++ Libraries](http://www.boost.org/).

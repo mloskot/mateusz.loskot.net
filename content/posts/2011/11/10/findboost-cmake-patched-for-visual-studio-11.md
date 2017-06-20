@@ -2,12 +2,8 @@
 title: FindBoost.cmake patched for Visual Studio 11
 date: 2011-11-10 20:31:57
 category: code
-comments: true
-layout: post
 slug: findboost-cmake-patched-for-visual-studio-11
-wordpressid: 2274
 categories: programming
-tags: boost,cmake,kitware,programming,project
 ---
 
 My [patch](http://public.kitware.com/Bug/view.php?id=12568) updating [CMake](http://www.cmake.org) module [FindBoost.cmake](http://cmake.org/cmake/help/cmake-2-8-docs.html#module:FindBoost) for Boost C++ Libraries lookup has been [accepted and committed](http://cmake.org/gitweb?p=cmake.git;a=commitdiff;h=1c4ba48e) to the CMake Git repository. Thanks to [Brad King](http://www.kitware.com/company/team/king.html) for quick review.

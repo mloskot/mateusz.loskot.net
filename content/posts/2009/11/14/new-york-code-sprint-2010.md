@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2009-11-14 02:41:35
-layout: post
 slug: new-york-code-sprint-2010
 title: New York Code Sprint 2010
-wordpressid: 1486
 categories: life,open source,programming
 ---
 

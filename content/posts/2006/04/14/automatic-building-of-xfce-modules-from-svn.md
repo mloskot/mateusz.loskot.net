@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-04-14 22:03:10
-layout: post
 slug: automatic-building-of-xfce-modules-from-svn
 title: Automatic building of Xfce modules from SVN
-wordpressid: 119
 categories: none
 ---
 

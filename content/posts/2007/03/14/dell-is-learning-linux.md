@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-03-14 17:46:56
-layout: post
 slug: dell-is-learning-linux
 title: Dell is learning Linux
-wordpressid: 187
 categories: none
 ---
 

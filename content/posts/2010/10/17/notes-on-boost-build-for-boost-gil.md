@@ -2,12 +2,8 @@
 title: Notes on Boost.Build for Boost.GIL
 date: 2010-10-17 04:54:38
 category: code
-layout: post
-comments: true
 slug: notes-on-boost-build-for-boost-gil
-wordpressid: 2099
 categories: programming
-tags: boost,boost.build,boost.gil,christian henning,programming,project,review
 ---
 
 **Update:** [Updating Boost.Build extensions](/?p=2113)

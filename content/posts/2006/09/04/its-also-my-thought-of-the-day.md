@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-09-04 21:09:35
-layout: post
 slug: its-also-my-thought-of-the-day
 title: It's also my thought of the day
-wordpressid: 155
 categories: life
 ---
 

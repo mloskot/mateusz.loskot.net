@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-04-10 16:40:58
-layout: post
 slug: important-note-to-the-gdal-141
 title: Important note to the GDAL 1.4.1
-wordpressid: 189
 categories: open source
 ---
 

@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-10-22 00:16:18
-layout: post
 slug: web-mapping-of-cemetery
 title: Web mapping of cemetery
-wordpressid: 163
 categories: none
 ---
 

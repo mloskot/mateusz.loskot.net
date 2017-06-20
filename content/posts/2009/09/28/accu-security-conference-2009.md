@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-09-28 23:28:42
-layout: post
 slug: accu-security-conference-2009
 title: ACCU Security Conference 2009
-wordpressid: 1052
 categories: programming
-tags: accu,bletchley,bletchley park,cipher,code,conference,enigma,pgp,poland,security
 ---
 
 Let's take [the leader of](http://www.codesandciphers.org.uk/) [Colossus](http://en.wikipedia.org/wiki/Colossus_computer) reconstruction project, [the author](http://www.simonsingh.net/) of [The Code Book](http://en.wikipedia.org/wiki/The_Code_Book), [the original creator](http://www.philzimmermann.com/EN/background/index.html) of the [PGP](http://en.wikipedia.org/wiki/Pretty_Good_Privacy) e-mail encryption package and [horde of people as hungry of knowledge & fun](http://accu.org) as a bears of berries, and what you get?

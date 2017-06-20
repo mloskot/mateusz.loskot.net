@@ -2,12 +2,8 @@
 title: Quick CMake of GEOS
 date: 2010-01-16 03:52:17
 category: code
-layout: post
-comments: true
 slug: quick-cmake-of-geos
-wordpressid: 1722
 categories: open source,programming
-tags: build,cmake,CMakeLists.txt,configuration,geometry,geos,jts,kitware,linux,open source,open source,programming,project,script,spatial
 ---
 
 It's an example of b..dy quick attempt to configure [CMake](http://en.wikipedia.org/wiki/CMake)-based build of [a fairly large library](https://www.ohloh.net/p/geos) written in [C++](http://cpp-next.com/) programming language. It is [GEOS](http://trac.osgeo.org/geos/).

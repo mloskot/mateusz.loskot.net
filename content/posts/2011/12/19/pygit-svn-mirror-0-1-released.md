@@ -2,12 +2,8 @@
 title: pygit-svn-mirror 0.1 released
 date: 2011-12-19 02:13:40
 category: code
-layout: post
-comments: true
 slug: pygit-svn-mirror-0-1-released
-wordpressid: 2849
 categories: open source,programming
-tags: Eloy Durán,git,github,python,ruby,script,subversion
 ---
 
 I have been looking for easy and quick solution to mirror [Subversion](http://subversion.apache.org/) repositories in [Git](http://git-scm.com/) at [GitHub](http://github.com). With bit of reading and testing, I came up with some quite usable [workflow](http://trac.osgeo.org/gdal/wiki/UsingGitToMaintainGDALWorkflow). But, most likely due to my lack of [Git fu](http://progit.org/), I wasn't happy with it. Especially, could not find how to update Git mirrors from various locations and computers, also to allow others to do that.

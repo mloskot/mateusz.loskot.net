@@ -3,8 +3,6 @@ title: Visual Studio 11 visualizers for Boost.Geometry
 date: 2011-11-29 01:12:23
 updated: 2013-03-02 00:20:23
 category: code
-wordpressid: 2816
-tags: Barend Gehrels,boost,boost.geometry,visualstudio
 ---
 
 **Update 2013-03-02:** The Boost.Geometry visualizers have been released as part of 

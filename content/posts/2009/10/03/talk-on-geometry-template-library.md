@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-03 23:56:54
-layout: post
 slug: talk-on-geometry-template-library
 title: Talk on Geometry Template Library
-wordpressid: 1116
 categories: open source,programming
-tags: Barend Gehrels,boost,boost-geometry,boostcon,Bruno Lalande,generic,geometry,gtl,library,performance,template
 ---
 
 Another video from [BoostCon'09](http://www.boostcon.com/) conference. This time it is about the [Geometry Template Library](http://blip.tv/file/2540933) (GTL) for [STL-like](http://www.sgi.com/tech/stl/) 2D operations by Lucanus Simonson and Gyuszi Suto:

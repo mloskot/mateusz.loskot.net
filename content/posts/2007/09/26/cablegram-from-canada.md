@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-09-26 05:22:43
-layout: post
 slug: cablegram-from-canada
 title: Cablegram from Canada
-wordpressid: 196
 categories: life,open source
 ---
 

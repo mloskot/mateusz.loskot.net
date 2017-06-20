@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-01 17:13:32
-layout: post
 slug: libecwj2-33-patch-for-visual-c-90
 title: libecwj2-3.3 patch for Visual C++ 9.0
-wordpressid: 1080
 categories: open source
-tags: ecw,ermapper,fix,gdal,libecw,libecwj,library,msvc90,ogr,open source,patch,programming,project,raster,ticket,trac,visual
   c++,visual c++ 9.0
 ---
 

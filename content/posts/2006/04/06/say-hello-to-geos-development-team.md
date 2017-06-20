@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-04-06 00:33:27
-layout: post
 slug: say-hello-to-geos-development-team
 title: Say Hello! to GEOS Development Team
-wordpressid: 114
 categories: life
-tags: geometry,geos,jts,open source,open source,programming,project,spatial
 ---
 
 ![GEOS Logo](/images/logos/postgis-globe-logo.gif)_...I'm going to talk big about myself a little..._

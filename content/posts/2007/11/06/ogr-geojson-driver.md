@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-11-06 10:04:27
-layout: post
 slug: ogr-geojson-driver
 title: OGR GeoJSON Driver
-wordpressid: 224
 categories: open source
-tags: gdal ogr json geojson driver format gis geospatial feat
 ---
 
 **Update on  Nov 6th, 2007 at 3:23 pm**: [GeoJSON Driver Errata](/2007/11/06/geojson-driver-errata/)

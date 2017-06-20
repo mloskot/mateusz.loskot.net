@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-08-15 03:09:32
-layout: post
 slug: fixed-polish-locale-on-my-ubuntu-606
 title: Fixed polish locale on my Ubuntu 6.06
-wordpressid: 140
 categories: none
 ---
 

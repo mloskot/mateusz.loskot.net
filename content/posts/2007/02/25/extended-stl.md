@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-02-25 20:03:15
-layout: post
 slug: extended-stl
 title: Extended STL
-wordpressid: 183
 categories: programming
-tags: book,data,database,dbms,geography,geometry,gis,postgis,programming,project,spatial
 ---
 
 ![Extended STL](http://synesis.com.au/publishing/xstl/xstlv1-thumb.jpg)The [Extended STL](http://extendedstl.com/) is a new [C++](http://en.wikipedia.org/wiki/C++) book written by Matthew Wilson. The first volume **Collections and Iterators** will be available in June 2007. Second volume **Algorithms, Functions and Exotic Matter** been also planned but it is _still very much up in the air_. The book will discuss:

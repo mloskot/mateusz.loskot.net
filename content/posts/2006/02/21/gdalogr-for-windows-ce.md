@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-02-21 23:44:34
-layout: post
 slug: gdalogr-for-windows-ce
 title: GDAL/OGR for Windows CE
-wordpressid: 102
 categories: none
-tags: evc++,microsoft,mobile,visual c++,windows,windows ce
 ---
 
 ![GDAL Icon](http://www.gdal.org/gdalicon.png)After 22 weeks ;-) of the [initial post](http://thread.gmane.org/gmane.comp.gis.gdal.devel/5025) I'm [very glad to announce](http://thread.gmane.org/gmane.comp.gis.gdal.devel/6616) the first release of [GDAL/OGR](http://www.gdal.org) port for [Windows CE](http://en.wikipedia.org/wiki/Windows_CE).

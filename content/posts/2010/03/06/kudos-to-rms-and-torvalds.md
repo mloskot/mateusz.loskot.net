@@ -2,12 +2,8 @@
 title: Kudos to RMS and Torvalds
 date: 2010-03-06 20:08:05
 category: code
-layout: post
-comments: true
 slug: kudos-to-rms-and-torvalds
-wordpressid: 1976
 categories: life
-tags: Linus Torvalds,Richard Stallman
 ---
 
 I have just given [ohloh.net](https://www.ohloh.net/) [kudos](https://www.ohloh.net/about/kudos) to [Richard Stallman](https://www.ohloh.net/accounts/rms) and [Linus Torvalds](https://www.ohloh.net/accounts/9897).

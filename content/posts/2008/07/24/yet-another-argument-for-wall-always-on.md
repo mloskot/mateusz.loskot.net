@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-07-24 16:29:53
-layout: post
 slug: yet-another-argument-for-wall-always-on
 title: Yet another argument for -Wall always on
-wordpressid: 256
 categories: programming
-tags: -Wall,compiler,gcc,practice,printf,tips,warnings
 ---
 
 Yes, I'm _religious about writing correct and standard C/C++ code_ and the decalogue of my religion tells _do not ignore compiler warnings_. Yet another pinch to the vast jar of examples is about getting detailed warning on mixed types in [printf](http://en.wikipedia.org/wiki/Printf) format specifiers:

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-06-25 15:35:19
-layout: post
 slug: logic
 title: Logic
-wordpressid: 700
 categories: life,programming
-tags: egg,inference,logic,programmer,reasoning,sausage
 ---
 
 My wife asked me: _Buy sausages, if you'll find eggs, buy 10_. What happens next?

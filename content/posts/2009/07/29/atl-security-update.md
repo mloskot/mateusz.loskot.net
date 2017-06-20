@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-07-29 23:47:44
-layout: post
 slug: atl-security-update
 title: ATL Security Update
-wordpressid: 753
 categories: programming
-tags: active template library,atl,channel9,ide,library,microsoft,security,update,visual
   c++,visual studio,webcast,windows,wtl
 ---
 

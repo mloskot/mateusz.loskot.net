@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-09-22 00:12:41
-layout: post
 slug: i-dont-like-katrina
 title: I don't like Katrina
-wordpressid: 14
 categories: none
-tags: science,weather,environment,gis,maps
 category: code
 ---
 

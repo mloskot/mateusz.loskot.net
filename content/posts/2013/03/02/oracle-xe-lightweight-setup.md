@@ -3,7 +3,6 @@ date: 2013-03-02T22:50:00Z
 title: Oracle XE lightweight setup
 description: Notes on how to make Oracle XE on Linux run even lighter
 category: code
-tags: linux,oracle,database
 ---
 
 To support my open souce hacking, I use a budget OpenVZ Virtual Private Server from 

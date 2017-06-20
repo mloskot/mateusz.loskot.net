@@ -2,12 +2,8 @@
 title: Modular visualizers in Visual Studio 11
 date: 2011-11-22 00:58:34
 category: code
-comments: true
-layout: post
 slug: modular-visualizers-in-visual-studio-11
-wordpressid: 2797
 categories: programming
-tags: autoexp.dat,c++,debugger,defaultvis.natvis,loki,microsoft,natvis,poco,visual studio,visual studio 11,visualizer
 ---
 
 Previously, I talked about the new 

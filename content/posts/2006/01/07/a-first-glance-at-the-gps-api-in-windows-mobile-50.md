@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-07 04:31:14
-layout: post
 slug: a-first-glance-at-the-gps-api-in-windows-mobile-50
 title: A first glance at the GPS API in Windows Mobile 5.0
-wordpressid: 78
 categories: none
-tags: microsoft,windows
 ---
 
 ![Windows Mobile Logo](/images/logos/windows-mobile-logo.jpg)In the middle of 2005 Microsoft [introduced](http://www.windowsfordevices.com/news/NS2937141620.html) new [Windows Mobile 5.0](http://www.microsoft.com/windowsmobile/default.mspx).

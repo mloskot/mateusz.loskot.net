@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-06-20 14:27:10
-layout: post
 slug: osgeo-tribulum
 title: OSGeo Tribulum
-wordpressid: 658
 categories: life,open source
-tags: concern,fair play,foundation,membership,money,open source,participation,pay
   back,philosophy,projects,question,responsibility,sponsorship,thoughts
 ---
 

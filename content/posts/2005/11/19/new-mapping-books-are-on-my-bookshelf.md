@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-11-19 22:05:30
-layout: post
 slug: new-mapping-books-are-on-my-bookshelf
 title: New mapping books are on my bookshelf
-wordpressid: 55
-tags: data,database,dbms,geography,geometry,gis,postgis,programming,spatial,book
 category: code
 ---
 

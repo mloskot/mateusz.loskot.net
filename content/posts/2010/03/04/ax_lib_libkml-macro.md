@@ -2,12 +2,8 @@
 title: AX_LIB_LIBKML macro
 date: 2010-03-04 01:10:11
 category: code
-layout: post
-comments: true
 slug: ax_lib_libkml-macro
-wordpressid: 1942
 categories: open source,programming
-tags: autoconf,gdal,gnu,google,libkml,macro,ogr,open source,programming,project
 ---
 
 Recently, I was playing for a while with [Brian](http://lists.osgeo.org/pipermail/gdal-dev/2010-February/023718.html)'s new [OGR LIBKML driver](http://winkey.org/svn/libkml/) and I integrated it with [GDAL/OGR](http://www.gdal.org/ogr/) build system, so it's more convenient to build, test and use it. The complete tree is available in GDAL sandbox in [mloskot/winkey-libkml](https://svn.osgeo.org/gdal/sandbox/mloskot/winkey-libkml/). (It is just a _give it a try_-like prototype and I don't actively maintain this branch myself. Hopefully, Brian will take it over.)

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-06-25 10:32:58
-layout: post
 slug: independency
 title: (in)dependency
-wordpressid: 696
 categories: life
-tags: courage,google,independence,nda,personal,philosophy,professional,thoughts
 ---
 
 In times when independence is a deadly sin and in times of [Google-like NDA-ization](http://www.google.co.uk/search?q=google+nda) of nearly all professional activities of an individual...

@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-11-06 07:01:48
-layout: post
 slug: vim-indentation-for-c-cpp-explained
 title: Vim indentation for C/C++ explained
-wordpressid: 50
-tags: editor,programming,vim
 category: code
 ---
 

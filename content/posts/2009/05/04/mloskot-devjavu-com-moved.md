@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-05-04 22:14:21
-layout: post
 slug: mloskot-devjavu-com-moved
 title: mloskot.devjavu.com moved
-wordpressid: 505
 categories: life,programming
-tags: devjavu,down,github,hosting,Lindsay,moving,repository,service,subversion,svn
 ---
 
 [Jeff Lindsay](http://progrium.com/) announced [DevjaVu will be shutting down](http://blog.devjavu.com/2009/05/01/devjavu-will-be-shutting-down/). This is bad news of the day for me, because I've been hosting on [DevjaVu](http://www.devjavu.com/) my personal workshop repository with miscellaneous prototypes and experiments at [http://mloskot.devjavu.com/](http://mloskot.devjavu.com/).

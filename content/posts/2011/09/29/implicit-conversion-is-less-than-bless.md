@@ -2,10 +2,7 @@
 title: Implicit conversion is less than bless
 date: 2011-09-29 15:59:21
 category: code
-comments: true
-layout: post
 slug: implicit-conversion-is-less-than-bless
-wordpressid: 2181
 categories: programming
 ---
 

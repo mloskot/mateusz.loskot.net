@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-21 17:40:25
-layout: post
 slug: mac-pro-collocation-wanted
 title: Mac Pro collocation wanted
-wordpressid: 869
 categories: life,open source
-tags: apple,call,collocation,cpu,discuss,gb,ghz,hardware,hdd,hosting,intel,london,mac,mac
   pro,open source,openstreetmap,osm,request,uk,woodcrest,workstation,xeon
 ---
 

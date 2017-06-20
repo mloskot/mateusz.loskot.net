@@ -2,12 +2,8 @@
 title: Quick fix for CMake broken Visual Studio 11 .sln
 date: 2011-11-24 21:55:54
 category: code
-comments: true
-layout: post
 slug: quick-fix-for-cmake-broken-visual-studio-11-sln
-wordpressid: 2808
 categories: programming
-tags: bat,cmake,fix,project,script,solution,visual studio,visual studio 11
 ---
 
 Current [CMake 2.8.6 generates broken `.sln` files](/?p=2278) for [Visual Studio 11 Developer Preview](http://msdn.microsoft.com/en-us/vstudio/hh127353). The [bug has been fixed](http://public.kitware.com/Bug/view.php?id=12572) already in CMake upstream.

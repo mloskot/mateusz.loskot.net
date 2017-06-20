@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-24 01:06:20
-layout: post
 slug: two-words-prime-lens
 title: 'Two words: Prime Lens'
-wordpressid: 908
 categories: life
-tags: 50mm,hardware,k10d,lens,pentax,pentax-a,photography,prime,smc
 ---
 
 Today, during a short trip to [Watford](http://en.wikipedia.org/wiki/Watford), I was testing my new gadget brought to me by [weihnachtsmann](http://www.finland.de/santaclaus/) called eBay (but he asked for ten pints of [proper lager](http://www.youtube.com/watch?v=hCCzS6vEbaE), what a tank!). It is prime lens [SMC PENTAX-A 1:2 50 mm](http://www.bdimitrov.de/kmp/lenses/primes/normal/A50f2.html). It's an old lens but it's a superb piece of optical craft dated between 1985 and 1998. No modern rubbish plastic. Pure metal classic!

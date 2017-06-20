@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-02-01 07:35:21
-layout: post
 slug: about-openaerialmap-on-the-polish-web
 title: About OpenAerialMap on the Polish Web
-wordpressid: 237
 categories: none
-tags: openaerialmap oam geospatial aerial maps geodata osnews
 ---
 
 ![LinuxNews.pl logo](http://linuxnews.pl/i/logo.png)Yesterday, [Daniel KoÄ](http://pl.wikipedia.org/wiki/Wikipedysta:Kocio) - notable FOSS evangelists in Poland - announced the [OpenAerialMap](http://openaerialmap.org/) project on the [LinuxNews.pl](http://linuxnews.pl/) (mirrored at [OSNews.pl](http://osnews.pl/openaerialmap/)). The LinuxNews.pl is one of the biggest Polish online magazine devoted to FOSS news.

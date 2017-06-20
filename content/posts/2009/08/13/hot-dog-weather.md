@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-13 00:45:04
-layout: post
 slug: hot-dog-weather
 title: Hot Dog Weather
-wordpressid: 831
 categories: life
-tags: animal,benek,beno,dog,father,gdal,home,hometown,ogr,open source,opolskie,programming,project,strzelce
   opolskie
 ---
 

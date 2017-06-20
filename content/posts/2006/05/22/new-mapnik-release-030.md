@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-05-22 23:07:54
-layout: post
 slug: new-mapnik-release-030
 title: New Mapnik Release 0.3.0
-wordpressid: 126
 categories: programming
 ---
 

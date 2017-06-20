@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-11-15 04:44:57
-layout: post
 slug: traits-of-void
 title: Traits of void
-wordpressid: 1519
 categories: programming
-tags: c++,c++0x,gcc,ide,libstdc++,linux,microsoft,Pete Becker,programming,standard,std,stl,tr1,visual
   c++,visual studio
 ---
 

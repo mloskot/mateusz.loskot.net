@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-07-01 10:32:23
-layout: post
 slug: update-of-geos-project-for-vc-2005
 title: Update of GEOS project for VC++ 2005
-wordpressid: 129
 categories: programming
-tags: c++,geometry,geos,jts,open source,open source,programming,project,spatial,visual
   c++,visual studio
 ---
 

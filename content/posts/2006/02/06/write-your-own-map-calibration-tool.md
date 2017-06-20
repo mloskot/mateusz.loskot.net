@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-02-06 11:23:28
-layout: post
 slug: write-your-own-map-calibration-tool
 title: Write your own map calibration tool
-wordpressid: 96
 categories: programming
 ---
 

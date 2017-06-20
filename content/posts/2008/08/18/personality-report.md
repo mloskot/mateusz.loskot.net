@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-18 23:03:17
-layout: post
 slug: personality-report
 title: Personality Report
-wordpressid: 267
 categories: life
-tags: brainbench,personality,tests
 ---
 
 It's time to take a look [in the mirror](http://www.brainbench.com) and bare all the devilish traits of my exhibitionistic ;-) personality.

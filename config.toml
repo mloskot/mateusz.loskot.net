@@ -1,3 +1,4 @@
 baseURL = "http://mateusz.loskot.net/"
 languageCode = "en-us"
 title = "Mateusz Loskot :: hacking on, working out, living up"
+theme = "hugo-xmin"

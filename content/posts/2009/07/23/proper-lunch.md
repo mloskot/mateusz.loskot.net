@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2009-07-23 23:53:54
-layout: post
 slug: proper-lunch
 title: Proper lunch
-wordpressid: 725
 categories: life
 ---
 

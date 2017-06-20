@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-06-24 01:23:47
-layout: post
 slug: osgis-uk-2009-on-flickr
 title: OSGIS UK 2009 on Flickr
-wordpressid: 684
 categories: life,open source
-tags: conference,event,flickr,nottingham,open source,osgis,osgis 2009,osgis uk,osgis
   uk 2009,photo,pictures,report
 ---
 

@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2009-03-06 12:24:28
-layout: post
 slug: vector-of-function-pointers
 title: vector of function pointers
-wordpressid: 290
 categories: programming
 ---
 

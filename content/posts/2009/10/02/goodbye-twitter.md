@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-02 13:45:07
-layout: post
 slug: goodbye-twitter
 title: Goodbye, Twitter!
-wordpressid: 1100
 categories: life
-tags: blog,blogging,micro-blog,twitter
 ---
 
 After [231 days, 1 hour, 20 minutes and 51 seconds](/?p=289), mloskot <del>computer</del> says goodbye to [Twitter](http://twitter.com/mloskot):

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-05-01 22:10:47
-layout: post
 slug: be-strict-or
 title: Be strict or...
-wordpressid: 482
 categories: programming
-tags: c++,code,compiler,error,gcc,geometry,geos,jts,malloc,memcpy,namespace,open source,open
   source,programming,project,quality,spatial,strict
 ---
 

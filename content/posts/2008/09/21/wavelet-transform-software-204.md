@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-09-21 16:59:51
-layout: post
 slug: wavelet-transform-software-204
 title: Wavelet Transform Software 2.04
-wordpressid: 280
 categories: none
-tags: decompression,eumetsat,fixes,gdal,library,meteosat,msg,ogr,open source,patch,programming,project,release,transform,version,wavelet
 ---
 
 [![GDAL logo](/images/logos/gdal-logo.png)](http://www.gdal.org/)This post should be interesting to users of GDAL MSG driver - [Meteosat Second Generation](http://www.gdal.org/frmt_msg.html).

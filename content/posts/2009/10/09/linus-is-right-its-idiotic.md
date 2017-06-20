@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-09 22:48:39
-layout: post
 slug: linus-is-right-its-idiotic
 title: Linus is right, it's idiotic
-wordpressid: 1147
 categories: life,open source
-tags: fsf,gpl,gpl2,gpl3,license,Linus Torvalds,linux,Torvalds
 ---
 
 I had to apply [GPL](http://www.gnu.org/licenses/gpl.html) licensing to a source code I was writing. I hit on [gnu.org](http://www.gnu.org) and started reading the [HOWTO](http://www.gnu.org/licenses/gpl-howto.html)...bla bla bla...

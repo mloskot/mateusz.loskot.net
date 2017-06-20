@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2007-03-14 11:21:15
-layout: post
 slug: fdo-goes-for-python
 title: FDO goes for Python
-wordpressid: 186
 categories: programming
-tags: fdo,programming,project,python
 ---
 
 A few hours ago, guys from the core development team of [Feature Data Objects](http://fdo.osgeo.org/) submitted new cool stuff to the [FDO repository](http://trac.osgeo.org/fdo/browser) -  Python scripting support for FDO API.

@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2007-09-03 17:23:58
-layout: post
 slug: microsoft-teched-2007-events-in-spain
 title: Microsoft TechEd 2007 events in Spain
 description: Short info on the upcoming Microsoft technology conference in Spain
-wordpressid: 192
 category: code
-tags: dotnet,cplusplus,ide,microsoft,programming,visualc,visualstudio,windows
 ---
 
 This is a short announcement about two upcoming conferences for developers and IT professionals in Europe. 

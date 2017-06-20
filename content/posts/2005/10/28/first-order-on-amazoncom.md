@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-10-28 04:39:54
-layout: post
 slug: first-order-on-amazoncom
 title: First order on Amazon.com
-wordpressid: 39
-tags: book,data,database,geography,geometry,gis,postgis,programming
 category: code
 ---
 

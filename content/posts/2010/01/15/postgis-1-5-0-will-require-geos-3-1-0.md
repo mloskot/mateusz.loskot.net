@@ -2,12 +2,8 @@
 title: PostGIS 1.5.0 will require GEOS 3.1.0+
 date: 2010-01-15 19:06:58
 category: code
-layout: post
-comments: true
 slug: postgis-1-5-0-will-require-geos-3-1-0
-wordpressid: 1711
 categories: open source
-tags: beta,database,dbms,geometry,geos,geospatial,jts,ogc,open source,open source,postgis,programming,project,release,requirement,spatial
 ---
 
 ![PostGIS spatial database extension for PostgreSQL](/images/logos/postgis-globe-logo.gif)**PostGirls and PostBoys, be prepared!**

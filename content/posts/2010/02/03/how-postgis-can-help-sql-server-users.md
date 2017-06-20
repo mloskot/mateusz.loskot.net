@@ -2,12 +2,8 @@
 title: How PostGIS can help SQL Server users?
 date: 2010-02-03 21:21:24
 category: code
-layout: post
-comments: true
 slug: how-postgis-can-help-sql-server-users
-wordpressid: 1829
 categories: open source
-tags: database,dbms,geospatial,gml,ogc,opengis,postgis,programming,project,rdbms,spatial,sptial,sql,sql server,stackoverflow
 ---
 
 I may be a gonzo or it's just that today I didn't have my notorious _4th coffee_ in my favourite [Winnie The Pooh](http://www.whittard.co.uk/store/catalogue/China-P7000/Mugs-SC7002/Winnie-The-Pooh-Mug-208959.raa) cup I got from [Pantera](http://www.flickr.com/photos/mloskot/tags/pantera) on our **14th** (or 15th?) anniversary we celebrated a month ago, so...

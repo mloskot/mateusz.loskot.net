@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-11-09 07:31:32
-layout: post
 slug: veryspatial-on-the-frappr
 title: VerySpatial on the Frappr!
-wordpressid: 52
-tags: gis,blog,maps
 categories: code
 ---
 

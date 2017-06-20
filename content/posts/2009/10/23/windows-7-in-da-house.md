@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-23 22:31:46
-layout: post
 slug: windows-7-in-da-house
 title: Windows 7 in da House
-wordpressid: 1329
 categories: life
-tags: 64-bit,copy,deal,installation,legal,linux,microsoft,offer,professional,purchase,setup,student,windows,windows
   7,x64
 ---
 

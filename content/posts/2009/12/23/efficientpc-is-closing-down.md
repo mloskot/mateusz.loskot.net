@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-12-23 12:35:31
-layout: post
 slug: efficientpc-is-closing-down
 title: EfficientPC is closing down
-wordpressid: 1655
 categories: none
-tags: desktop,EfficientPC,hardware,laptop,linux
 ---
 
 [![Panasonic Toughbook C-25](http://farm3.static.flickr.com/2285/1558750896_bf935a0de8_t.jpg)](http://www.flickr.com/photos/mloskot/1558750896/)The [EfficientPC](http://www.efficientpc.co.uk/) [company](http://twitter.com/efficientpc), best known as a seller of energy efficient good-looking quietly operating Linux-based laptop and desktop computers, has just announced sad news:

@@ -2,12 +2,8 @@
 title: Preparing Quickbook for Boost.Geometry
 date: 2010-02-07 20:33:24
 category: code
-layout: post
-comments: true
 slug: preparing-quickbook-for-boost-geometry
-wordpressid: 1840
 categories: open source,programming
-tags: boost,boost.geometry,c++,concepts,documentation,geometry,library,manual,programming,project,quickbook,reference
 ---
 
 [![Generic Geometry Library (GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)I've just [started](http://lists.osgeo.org/pipermail/ggl/2010-February/000592.html) writing [Boost.Geometry](http://thread.gmane.org/gmane.comp.lib.boost.devel/197108) (aka [GGL](http://trac.osgeo.org/ggl/)) documentation in [Quickbook](http://www.boost.org/doc/tools/quickbook/index.html). It is a lightweight format and parser being developed by Boost used to prepare technical documentation for software, mainly for for [Boost C++ Libraries](http://www.boost.org). Quickbook files ([.qbk](http://www.boost.org/doc/libs/1_42_0/tools/quickbook/doc/quickbook.qbk)) are used as input for [BoostDoc](http://www.boost.org/doc/html/boostbook.html) which in turn is an extension of [DocBook](http://www.docbook.org/).

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-07-12 02:13:27
-layout: post
 slug: similar-stories
 title: Similar stories
-wordpressid: 715
 categories: life
-tags: Cornuz,jcornuz,jpeg,linux,pentax,photography,raw,story,ubuntu
 ---
 
 I'm a user of [Pentax](http://en.wikipedia.org/wiki/Pentax_K10D) hardware and I like reading [Joel Cornuz](http://jcornuz.wordpress.com/about-me/)' [blog dedicated to Linux & Photography and Pentax](http://jcornuz.wordpress.com) too. I was amazed how similar Joel's and mine Linux stories are:

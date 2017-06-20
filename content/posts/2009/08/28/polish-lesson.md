@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2009-08-28 20:55:09
-layout: post
 slug: polish-lesson
 title: Polish lesson
-wordpressid: 949
 categories: life
 ---
 

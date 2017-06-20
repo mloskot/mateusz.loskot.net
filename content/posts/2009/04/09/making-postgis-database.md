@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-04-09 11:59:57
-layout: post
 slug: making-postgis-database
 title: Make'ing PostGIS database
-wordpressid: 392
 categories: none
-tags: create,database,db,dbms,drop,geos,geospatial,gillies,gnu,install,make,makefile,ogc,postgis,programming,project,spatial,sql
 ---
 
 I've extended [Sean's idea](http://sgillies.net/blog/176/create-a-postgis-db-with-make/) of baking [PostGIS](http://postgis.refractions.net/)-enabled databases using [GNU Make](http://www.gnu.org/software/make/) a little bit and prepared new version of [Makefile.postgis](/download/projects/postgis/Makefile.postgis).

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-11-18 01:09:50
-layout: post
 slug: its-called-the-pole
 title: It's called the Poles
-wordpressid: 1564
 categories: life
-tags: comedy,Jimmy Carr,poland,poles,polish
 ---
 
 [Continuing](/?p=1562) my _watch stand-up comedy every night_ week...

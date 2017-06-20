@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-19 11:57:16
-layout: post
 slug: liblas-100-beta-2
 title: libLAS 1.0.0 Beta 2
-wordpressid: 268
 categories: none
-tags: asprs,las,liblas,library,lidar,programming,project,release,version
 ---
 
 The [libLAS](http://liblas.org/) project is getting closer to final release of 1.0.0 version. Today, Howard [announced](http://mail.hobu.net/pipermail/liblas-devel/2008-August/000196.html) that 1.0.0 Beta 2 has been released. Source package is available at [las-1.0.0b2.tar.bz2](http://liblas.org/raw-attachment/wiki/1.0.0b2/las-1.0.0b2.tar.bz2) ([MD5](http://liblas.org/raw-attachment/wiki/1.0.0b2/las-1.0.0b2.tar.bz2.md5)).

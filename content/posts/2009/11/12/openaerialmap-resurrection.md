@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-11-12 11:46:32
-layout: post
 slug: openaerialmap-resurrection
 title: OpenAerialMap Resurrection
-wordpressid: 1447
 categories: open source
-tags: aerial,call,conference,data,geodata,geospatial,imagery,map,meeting,OpenAerialMap,project,satellite,Schuyler
   Erle
 ---
 

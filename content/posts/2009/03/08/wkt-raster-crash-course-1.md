@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-08 00:51:17
-layout: post
 slug: wkt-raster-crash-course-1
 title: 'WKT Raster crash course #1'
-wordpressid: 291
 categories: life,programming
-tags: band,blob,build,cadcorp,compile,Cumming,daly,database,dataset,dbms,Erickson,funds,gcc,gdal,geospatial,image,laval,linux,Loskot,ogc,pierre,pixel,postgis,programming,project,racine,ramsey,raster,Santilli,spatial,strk,sustainability,team,wktraster
 ---
 
 Recently, a good friend of mine [Sandro](http://foo.keybit.net/~strk/) has started [spreading the story](http://blog.ominiverdi.org/index.php?/archives/69-PostGIS-Rasters.html) of **WKT Raster** project. Here, I'd like to join him and post a bunch of technical notes about how to start using tandem of [PostGIS](http://postgis.refractions.net/) and WKT Raster. This is the first post that hopefully will start a series discussing various aspects of use and development of WKT Raster extension.

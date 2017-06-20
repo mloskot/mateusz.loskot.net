@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-06 04:25:29
-layout: post
 slug: fwtools-224-for-windows
 title: FWTools 2.2.4 for Windows
-wordpressid: 264
 categories: none
-tags: crs,esri,frank,fwtools,gdal,geospatial,gis,mapserver,microsoft,ogr,package,programming,proj.4,proj4,project,shapefile,shapelib,srs,tools,warmerdam,windows
 ---
 
 Frank has just released and [announced](http://lists.maptools.org/pipermail/fwtools/2008-August/001272.html) new version of FWTools 2.2.4. It brings new versions of:

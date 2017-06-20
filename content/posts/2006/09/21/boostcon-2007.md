@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-09-21 12:38:45
-layout: post
 slug: boostcon-2007
 title: BoostCon 2007
-wordpressid: 156
 categories: none
 ---
 

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-30 22:55:37
-layout: post
 slug: crunching-wkt-rasters
 title: WKT Raster Cruncher
-wordpressid: 362
 categories: programming
-tags: benchmark,block,database,dbms,gdal.raster,gdal2wktraster,geospatial,japan,ogc,postgis,programming,project,raster,spatial,sql,tile,timing,wkt
   raster,wktraster
 ---
 

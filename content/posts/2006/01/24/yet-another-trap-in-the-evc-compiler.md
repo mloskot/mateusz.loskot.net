@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-24 21:45:42
-layout: post
 slug: yet-another-trap-in-the-evc-compiler
 title: Yet another trap in the eVC++ compiler
-wordpressid: 92
 categories: programming
-tags: c++,evc++,mobile,programming,visual c++,visual studio,windows,windows ce
 ---
 
 

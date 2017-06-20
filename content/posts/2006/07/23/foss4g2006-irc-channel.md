@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-07-23 15:00:27
-layout: post
 slug: foss4g2006-irc-channel
 title: '#foss4g2006 IRC channel'
-wordpressid: 136
 categories: none
 ---
 

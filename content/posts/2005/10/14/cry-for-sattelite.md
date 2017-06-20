@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-10-14 07:53:02
-layout: post
 slug: cry-for-sattelite
 title: Cry for Sattelite!
-wordpressid: 28
-tags: scienca,gis,maps
 category: code
 ---
 

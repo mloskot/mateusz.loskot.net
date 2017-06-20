@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-05-30 23:45:34
-layout: post
 slug: opengeology
 title: OpenGeology.pl
-wordpressid: 250
 categories: open source
-tags: foss,foss4g,fwtools,gdal,geology,open source,open source,oss,ossim,pgi,poland,polish,research,science,tomaszczyk
 ---
 
 [![](/images/logos/opengeology-pl-logo.gif)](http://opengeology.pl/)From time to time, Google helps me to find and get new _treasures_ laying deep on the Internet. Today, it dug out [OpenGeology.pl](http://opengeology.pl/) website. Apparently, it has been launched quite recently and Google [reports](http://www.google.com/search?q=opengeology.pl) very few references about it. Because it's mostly in Polish language and English version is incomplete, I will give a short overview of it here. So, what is this website about?

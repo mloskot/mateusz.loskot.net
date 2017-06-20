@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-05 00:38:40
-layout: post
 slug: i-go-commando
 title: I go commando
-wordpressid: 779
 categories: life,programming
-tags: army,cli,command line,commando,commands,edward yourdon,military,minister,mouse,poland,yourdon
 ---
 
 [![Arnold Schwarzeneger as Commando](/images/commando.jpg)](http://www.codinghorror.com/blog/archives/000825.html)No, I haven't got a [call-up](http://en.wikipedia.org/wiki/Conscription) to army. Actually, I run away from my country just in time in December 2008 :-) . However, a few months later [Minister of National Defence of Poland](http://www.wp.mil.pl/en/index/) [announced](http://www.wp.mil.pl/en/artykul/7375) [good news](http://www.telegraph.co.uk/news/worldnews/europe/poland/2505447/Poland-ends-army-conscription.html) and I hope to not to be executed by firing squad for [desertion](http://en.wikipedia.org/wiki/Desertion) when I visit my family in Poland some time in future ;-)

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-09-16 00:15:24
-layout: post
 slug: libjpeg-and-libpng-go-c
 title: libjpeg and libpng go C++
-wordpressid: 1006
 categories: programming
-tags: adobe,boost,c++,gil,iterator,libjpeg,libpng,library,range,raster,stream
 ---
 
 I've just come across an interesting project(s). It is [jpegxx and pngxx]( http://www.mr-edd.co.uk/?p=117): two (or three if [imagexx](http://bitbucket.org/edd/imagexx/) adaptors counted) thin libraries wrapping [libjpeg](http://www.ijg.org/) and [libpng](http://www.libpng.org/) with interface of C++ streams, iterators and ranges.

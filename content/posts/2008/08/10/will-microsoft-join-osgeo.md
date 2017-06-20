@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-10 02:13:20
-layout: post
 slug: will-microsoft-join-osgeo
 title: Will Microsoft join OSGeo?
-wordpressid: 265
 categories: none
-tags: collaboration,lab,market,microsoft,open source,open source,oreilly,oscon,philippines
 ---
 
 Microsoft joined the [O'Reilly's Open Source Convention](http://en.oreilly.com/oscon2008/) (OSCON) this year. Why? Because Free and Open Source Software development is [anti-American cancer](http://www.linux.com/feature/143771) and [an intellectual-property destroyer](http://www.oreillynet.com/manila/tim/stories/storyReader$167). It does seem _pretty logical_, doesn't it ;-)

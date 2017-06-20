@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-12 16:14:57
-layout: post
 slug: lambda-i-love-you
 title: Lambda, I love you!
-wordpressid: 296
 categories: programming
-tags: anonymous,connection,db,expression,fun,function,lambda,libpq,parsing,postgresql,python,short,string,tiny
 ---
 
 [I'm writing a small driver](http://twitter.com/mloskot/status/1315705612) for readint [WKT Raster](/?p=291) data from [RASTER](http://postgis.refractions.net/pipermail/postgis-devel/2009-March/005091.html) column in [PostGIS](http://postgis.refractions.net/)-enabled database and I want to report name of database I'm connected with. My reader eats connection string, and here I've fallen in love with [Python lambda](http://docs.python.org/reference/expressions.html#lambda).

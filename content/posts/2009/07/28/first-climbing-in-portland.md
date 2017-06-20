@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-07-28 17:26:25
-layout: post
 slug: first-climbing-in-portland
 title: First Climbing in Portland
-wordpressid: 737
 categories: climbing,life
-tags: 2009,climbing,crag,deep water solo,dorset,dws,england,july,mateusz,mateusz loskot,mloskot,pantera,portland,rock,roger,roger
   hill,saturday,south,trip,uk,united kingdom
 ---
 

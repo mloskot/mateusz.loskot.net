@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-24 21:27:10
-layout: post
 slug: osgeo-codepad-org
 title: osgeo.codepad.org
-wordpressid: 1379
 categories: open source,programming
-tags: codepad,codepad.org,collaboration,community,compiler,Nicolas Weber,online,open
   source,service,tool,web
 ---
 

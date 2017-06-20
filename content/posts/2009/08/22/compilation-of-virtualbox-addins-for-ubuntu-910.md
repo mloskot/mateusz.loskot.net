@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-22 17:45:04
-layout: post
 slug: compilation-of-virtualbox-addins-for-ubuntu-910
 title: Compilation of VirtualBox add-ins for Ubuntu 9.10
-wordpressid: 887
 categories: programming
-tags: '#4823,2.6.31,guest,ide,kernel,linux,microsoft,os,patch,ticket,trac,ubuntu,utf8,virtualbox,visual
   c++,visual studio,windows'
 ---
 

@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-08-15 02:36:11
-layout: post
 slug: new-ubuntu-logo
 title: New Ubuntu logo ,-)
-wordpressid: 141
 categories: none
 ---
 

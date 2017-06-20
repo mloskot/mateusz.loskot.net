@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-20 11:14:33
-layout: post
 slug: automatic-layout-of-resizable-dialogs-in-wtl
 title: Automatic Layout of Resizable Dialogs in WTL
-wordpressid: 84
 categories: none
-tags: atl,library,microsoft,windows,wtl
 ---
 
 

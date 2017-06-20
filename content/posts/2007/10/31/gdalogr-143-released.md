@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2007-10-31 18:15:59
-layout: post
 slug: gdalogr-143-released
 title: GDAL/OGR 1.4.3 Released
 description: Announcement about new release of GDAL
-wordpressid: 221
 categories: open source
-tags: planetosgeo,foss4g,osgeo,gdal,ogr,raster,vector,software,library
 ---
 
 [![The GDAL/OGR Team](http://farm2.static.flickr.com/1362/1444603686_05a792016f_s.jpg) ](http://www.flickr.com/photos/mloskot/1444603686/)Finally, the long awaited stable release of GDAL and OGR has been published. Current stable release number is **1.4.3**. There is not much of magic of [numerology](http://en.wikipedia.org/wiki/Numerology) behind this number and it just says it consists of 3rd iteration of patches to 1.4 stable release.

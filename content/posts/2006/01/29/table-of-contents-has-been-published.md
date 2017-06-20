@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-29 23:55:23
-layout: post
 slug: table-of-contents-has-been-published
 title: Table of Contents has been published
-wordpressid: 95
 categories: programming
-tags: data,database,dbms,geography,geometry,gis,postgis,programming,project,spatial
 ---
 
 ![Charles Petzold Tattoo](/images/logos/charles-petzold-tattoo.jpg)Today, [Charles Petzold](http://www.charlespetzold.com) [announced](http://www.charlespetzold.com/blog/2006/01/290357.html) that he has published [Table of Contents](http://www.charlespetzold.com/wpf/) of his new book:

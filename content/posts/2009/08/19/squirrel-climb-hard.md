@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-19 17:01:52
-layout: post
 slug: squirrel-climb-hard
 title: Squirrel, climb hard!
-wordpressid: 866
 categories: climbing,life
-tags: boulder,bouldering,climbing,fun,london,park,shoreditch,shoreditch park,squirrel,squirrelizer,uk,united
   kingdom
 ---
 

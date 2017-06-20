@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-06-28 21:45:26
-layout: post
 slug: spatial-relations-for-dummies
 title: Spatial Relations for Dummies
-wordpressid: 708
 categories: none
-tags: book,dale lutz,data,database,dbms,dummies,geography,geometry,geos,gis,howto,jo,jts,lutz,open
   source,open source,postgis,programming,project,relation,safe,safe software,spatial,tutorial
 ---
 

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-10-08 22:00:00
-layout: post
 slug: liblas-package-for-debian
 title: libLAS package for Debian
-wordpressid: 1143
 categories: open source
-tags: debian,Francesco Paolo Lovergine,liblas,linux,maintainer,package,programming,project,squeeze
 ---
 
 Francesco Paolo Lovergine [announced](http://lists.osgeo.org/pipermail/liblas-devel/2009-October/000653.html) new [libLAS](http://liblas.org) packages:

@@ -1,10 +1,7 @@
 ---
-comments: false
 date: 2006-01-21 19:45:03
-layout: post
 slug: uwtv-online-geospatial-data-sources
 title: 'UWTV: Online Geospatial Data Sources'
-wordpressid: 85
 categories: none
 ---
 

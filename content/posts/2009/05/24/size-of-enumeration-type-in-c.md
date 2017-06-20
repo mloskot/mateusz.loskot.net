@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-05-24 17:37:34
-layout: post
 slug: size-of-enumeration-type-in-c
 title: Size of enumeration type in C++
-wordpressid: 602
 categories: open source,programming
-tags: c++,enum,enumeration,ide,microsoft,template,visual c++,visual studio
 ---
 
 In [C++](http://en.wikipedia.org/wiki/C%2B%2B) [enumeration](http://www.research.att.com/~bs/glossary.html#Genumeration) is used to define set of named constants. Each enumeration is a _distinct compound type_ ([enumerated type](http://en.wikipedia.org/wiki/Enumerated_type)) and is subject to all rules of type system defined in C++ language. Internally, enumeration is represented with so called _underlying type_. The [C++ Standard](http://www.research.att.com/~bs/C++.html#standard) [ISO/IEC 14882:2003](http://www.open-std.org/jtc1/sc22/wg21/) (Section 7.1/5) specifies it as follows:

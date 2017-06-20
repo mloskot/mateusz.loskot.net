@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-09-12 17:06:03
-layout: post
 slug: cpp-committee-needs-you
 title: C++ Committee Needs You
-wordpressid: 279
 categories: none
-tags: accu,ansi,bronek,bsi,c++,committee,edg,iso,kozicki,panel
 ---
 
 [![JTC1/SC22/WG21 - The C++ Standards Committee](/images/iwantyou.jpg)](http://www.open-std.org/jtc1/sc22/wg21/)Today, [Bronek Kozicki](http://www.artima.com/cppsource/rvalue.html)  - a member of [BSI](http://www.bsi-global.com/) C++ panel - shared some bad news on [ACCU](http://accu.org/) mailing list, about sponsorship problems of [WG21](http://www.open-std.org/jtc1/sc22/wg21/) meeting in March 2009:

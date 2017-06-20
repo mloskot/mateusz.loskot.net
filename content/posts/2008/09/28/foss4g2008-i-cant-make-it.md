@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-09-28 02:02:58
-layout: post
 slug: foss4g2008-i-cant-make-it
 title: FOSS4G 2008, I can't make it
-wordpressid: 283
 categories: open source
-tags: cape town,conference,foss4g,foss4g2008,frank warmerdam,friends,gdal,howard butler,liblas,ogr,open
   source,presentation,programming,project,south africa,warmerdam,workshop
 ---
 

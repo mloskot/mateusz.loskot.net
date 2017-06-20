@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-07-29 16:18:45
-layout: post
 slug: libgeotiff-125
 title: libgeotiff 1.2.5
-wordpressid: 260
 categories: none
-tags: epsg,frank,gdal,geotiff,libgeotiff,liblas,metacrs,open source,postgis,proj4,qgis,release
 ---
 
 libgeotiff 1.2.5 has been released.

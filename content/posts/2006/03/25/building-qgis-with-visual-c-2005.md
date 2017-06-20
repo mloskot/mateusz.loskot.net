@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-03-25 16:56:41
-layout: post
 slug: building-qgis-with-visual-c-2005
 title: Building QGIS with Visual C++ 2005
-wordpressid: 111
 categories: programming
-tags: c++,microsoft,open source,programming,project,qgis,visual c++,visual studio,windows
 ---
 
 

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-01-29 03:55:28
-layout: post
 slug: std-basic_istream-fixed-in-vc9
 title: std::basic_istream fixed in VC++ 9.0
-wordpressid: 236
 categories: programming
-tags: c++,c++ stl std bug feedback visual c++ studio microsoft di,ide,microsoft,programming,stl,visual
   c++,visual studio
 ---
 

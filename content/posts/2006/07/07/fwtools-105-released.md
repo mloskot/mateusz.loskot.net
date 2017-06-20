@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-07-07 21:57:51
-layout: post
 slug: fwtools-105-released
 title: FWTools 1.0.5 Released
-wordpressid: 131
 categories: none
-tags: geometry,geos,jts,microsoft,open source,open source,programming,project,spatial,windows
 ---
 
 

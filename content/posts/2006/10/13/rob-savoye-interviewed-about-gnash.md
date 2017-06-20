@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-10-13 14:31:24
-layout: post
 slug: rob-savoye-interviewed-about-gnash
 title: Rob Savoye interviewed about Gnash
-wordpressid: 161
 categories: none
 ---
 

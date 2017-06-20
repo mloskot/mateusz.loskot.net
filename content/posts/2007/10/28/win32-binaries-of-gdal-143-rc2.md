@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2007-10-28 20:41:08
-layout: post
 slug: win32-binaries-of-gdal-143-rc2
 title: Win32 binaries of GDAL 1.4.3 RC2
-wordpressid: 219
 categories: open source
 ---
 

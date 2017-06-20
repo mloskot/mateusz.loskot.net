@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-09-29 07:37:43
-layout: post
 slug: my-webcam-inauguration
 title: My Webcam Inauguration
-wordpressid: 26
 categories: life
-tags: hardware,python,linux
 category: code
 ---
 

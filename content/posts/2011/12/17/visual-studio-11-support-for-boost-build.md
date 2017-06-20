@@ -2,12 +2,8 @@
 title: Visual Studio 11 support for Boost.Build
 date: 2011-12-17 16:57:09
 category: code
-comments: true
-layout: post
 slug: visual-studio-11-support-for-boost-build
-wordpressid: 2841
 categories: programming
-tags: bjam,boost,boost.build,build,patch,toolset,visual studio
 ---
 
 I have just submitted [patch with update for Boost.Build](https://svn.boost.org/trac/boost/ticket/6283) machinery to properly detect Visual Studio 11 (currently available as Developer Preview).

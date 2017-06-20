@@ -2,12 +2,8 @@
 title: Firefox-based attacks on irc.freenode.net
 date: 2010-01-30 04:12:25
 category: code
-layout: post
-comments: true
 slug: firefox-based-attacks-on-irc-freenode-net
-wordpressid: 1795
 categories: life,open source
-tags: Dan Goodin,firefox,freenode,Goodin,irc,linux
 ---
 
 Activity of the [OSGeo](http://www.osgeo.org) Community quite [heavily relies](http://lists.osgeo.org/pipermail/discuss/2008-August/004111.html) on the [Freenode](http://en.wikipedia.org/wiki/Freenode) [IRC](http://wiki.osgeo.org/wiki/IRC) network, so this may be an interesting news:

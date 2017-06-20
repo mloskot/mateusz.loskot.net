@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-12-03 10:05:48
-layout: post
 slug: postgis-function-support-matrix
 title: PostGIS Function Support Matrix
-wordpressid: 1588
 categories: open source
-tags: database,dbms,function,geospatial,matrix,ogc,postgis,programming,project,Regina
   Obe,spatial,support
 ---
 

@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-10-16 18:10:32
-layout: post
 slug: beauty-and-the-beast
 title: Beauty and the Beast
-wordpressid: 33
-tags: boxing,sweat
 category: sweat
 ---
 

@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-29 06:36:25
-layout: post
 slug: building-postgis-using-visual-cpp
 title: Building PostGIS using Visual C++
-wordpressid: 326
 categories: life,open source,programming
-tags: build,cmake,compile,crs,cygwin,database,dbms,geometry,geos,geospatial,ide,jts,microsoft,mingw,nmake,ogc,open
   source,open source,postgis,postgresql,programming,proj.4,proj4,project,spatial,srs,visual
   c++,visual studio,visualc++,windows,wktraster
 ---

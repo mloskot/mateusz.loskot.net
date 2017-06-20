@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-08-13 13:10:13
-layout: post
 slug: the-chat-of-the-day
 title: The chat of the day
-wordpressid: 856
 categories: life,programming
-tags: accu,agile,armstrong,developer,lifecycle,methodology,model,nasa,waterfall
 ---
 
 From today's [ACCU](http://accu.org/) diary:

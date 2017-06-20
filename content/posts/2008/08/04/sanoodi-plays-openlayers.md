@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-04 16:37:01
-layout: post
 slug: sanoodi-plays-openlayers
 title: Sanoodi plays OpenLayers
-wordpressid: 262
 categories: none
-tags: diary,flickr,google,gps,gpx,maps,route,sanoodi,service,sport,web
 ---
 
 Recently, I've been playing with [Sanoodi](http://sanoodi.com/) - _activity-based social networking website for participants in sports and leisure activities_. The idea of Sanoodi is very similar to [Sports Tracker](http://sportstracker.nokia.com) by Nokia.

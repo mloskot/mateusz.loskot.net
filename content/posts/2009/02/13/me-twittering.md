@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-02-13 00:24:38
-layout: post
 slug: me-twittering
 title: /me twittering
-wordpressid: 289
 categories: life
-tags: twitter blog web networking social Martin twitter micro
 ---
 
 Looks like I've also picked up a bug. The _Twittereus Notorious_ has caught me up - [http://twitter.com/mloskot](http://twitter.com/mloskot)

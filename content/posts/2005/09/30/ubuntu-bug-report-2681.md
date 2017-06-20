@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-09-30 15:14:23
-layout: post
 slug: ubuntu-bug-report-2681
 title: 'Ubuntu bug report #2681'
-wordpressid: 24
 categories: none
-tags: linux,ubuntu,bug,ruby,alexandria
 category: code
 ---
 

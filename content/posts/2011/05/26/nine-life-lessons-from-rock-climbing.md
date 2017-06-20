@@ -1,11 +1,8 @@
 ---
-comments: true
 date: 2011-05-26 00:08:17
-layout: post
 slug: nine-life-lessons-from-rock-climbing
 title: Nine life lessons from rock climbing
 category: sweat
-wordpressid: 2150
 categories: climbing
 ---
 

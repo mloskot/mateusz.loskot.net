@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-09-25 13:38:11
-layout: post
 slug: rita-maps-in-the-hurricane-viewer
 title: Rita maps in the Hurricane Viewer
-wordpressid: 16
 categories: none
-tags: science,git,maps,environment,weather
 category: code
 ---
 

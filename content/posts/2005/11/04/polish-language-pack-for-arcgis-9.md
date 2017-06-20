@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-11-04 19:24:20
-layout: post
 slug: polish-language-pack-for-arcgis-9
 title: Polish language pack for ArcGIS 9.1
-wordpressid: 48
-tags: gis,arcgis,esri,release
 category: code
 ---
 

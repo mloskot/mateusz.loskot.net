@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-15 06:02:21
-layout: post
 slug: using-wtl-with-visual-c-2005-express-edition
 title: Using WTL with Visual C++ 2005 Express Edition
-wordpressid: 80
 categories: programming
-tags: atl,c++,library,microsoft,programming,visual c++,visual studio,windows,wtl
 ---
 
 

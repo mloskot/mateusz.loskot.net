@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-01-20 08:28:55
-layout: post
 slug: embedded-and-mobile-videos-on-msdn-channel9
 title: Embedded and Mobile Videos on MSDN Channel9
-wordpressid: 83
 categories: programming
-tags: microsoft,windows
 ---
 
 

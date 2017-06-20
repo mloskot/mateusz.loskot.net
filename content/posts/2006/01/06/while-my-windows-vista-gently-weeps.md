@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-01-06 07:30:30
-layout: post
 slug: while-my-windows-vista-gently-weeps
 title: While My Windows Vista Gently Weeps
-wordpressid: 77
 categories: none
 ---
 

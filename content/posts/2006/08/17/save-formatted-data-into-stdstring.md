@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-08-17 14:20:28
-layout: post
 slug: save-formatted-data-into-stdstring
 title: Save formatted data into std::string
-wordpressid: 82
 categories: none
 ---
 

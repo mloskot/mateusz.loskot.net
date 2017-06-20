@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-04-16 00:37:56
-layout: post
 slug: perfect-stealing-by-geo2webcom
 title: Perfect stealing by geo2web.com
-wordpressid: 429
 categories: life
-tags: blog,chicken,content,geo2web,illegal,kichot,loukitchev,pavel,posts,quixote,steal,stealing,theft
 ---
 
 [I am pissed off](/?p=413) on what Mr [Pavel L.](http://whois.domaintools.com/geo2web.com) is doing by **stealing** tons of content of geospatial blogs around the world. As a big fun of [Don Quixote](http://en.wikipedia.org/wiki/Don_Quixote), I decided to try to reach this guy by registering to his _passing off_ geo2web site and submit a bunch of comments below posts he has **stolen** from my own website.

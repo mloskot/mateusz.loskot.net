@@ -2,12 +2,8 @@
 title: Illegal token on right side of
 date: 2010-01-27 01:13:39
 category: code
-layout: post
-comments: true
 slug: illegal-token-on-right-side-of
-wordpressid: 1755
 categories: open source,programming
-tags: adl,argument dependant lookup,c++,evil,koenig,liblas,library,lookup,macros,max,microsoft,min,programming,project,series,std,stl,substitution,template,windef.h
 ---
 
 [![libLAS - ASPRS LiDAR data translation toolset](/images/logos/liblas-logo.png)](http://liblas.org/)One of [libLAS](http://liblas.org) users [reported](http://lists.osgeo.org/pipermail/liblas-devel/2010-January/000721.html) that when  use of `#include <liblas/lasreader.hpp>` in his application compiled with [Visual C++ 10.0](http://en.wikipedia.org/wiki/Visual_C%2B%2B) from [Visual Studio 2010](http://www.microsoft.com/visualstudio/en-us/products/2010/default.mspx) cause this error:

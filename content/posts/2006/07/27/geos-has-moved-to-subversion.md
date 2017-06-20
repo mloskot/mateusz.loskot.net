@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2006-07-27 08:21:01
-layout: post
 slug: geos-has-moved-to-subversion
 title: GEOS has moved to Subversion
-wordpressid: 137
 categories: none
-tags: geometry,geos,jts,open source,open source,programming,project,spatial
 ---
 
 Yesterday, Paul Ramsey from [Refractions Research](http://www.refractions.net) [announced](http://geos.refractions.net/pipermail/geos-devel/2006-July/002477.html) that [GEOS](http://geos.refractions.net) project has moved to [Subversion](http://subversion.tigris.org) repository.

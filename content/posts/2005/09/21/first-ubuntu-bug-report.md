@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2005-09-21 14:13:29
-layout: post
 slug: first-ubuntu-bug-report
 title: First Ubuntu bug report
-wordpressid: 13
 categories: none
-tags: ubuntu,linux,bug
 category: code
 ---
 

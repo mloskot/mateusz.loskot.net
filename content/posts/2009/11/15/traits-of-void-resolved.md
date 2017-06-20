@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-11-15 20:18:30
-layout: post
 slug: traits-of-void-resolved
 title: Traits of void resolved
-wordpressid: 1539
 categories: programming
-tags: boost,c++,c++0x,gcc,ide,iso,libstdc++,microsoft,n1836,n2960,Paolo Carlini,programming,project,Stephan
   T. Lavavej,stl,tr1,visual c++,visual studio
 ---
 

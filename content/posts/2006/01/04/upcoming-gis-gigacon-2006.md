@@ -1,10 +1,7 @@
 ---
-comments: true
 date: 2006-01-04 22:09:50
-layout: post
 slug: upcoming-gis-gigacon-2006
 title: Upcoming GIS GigaCon 2006
-wordpressid: 75
 categories: none
 ---
 

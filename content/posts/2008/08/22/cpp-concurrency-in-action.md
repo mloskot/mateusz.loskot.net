@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2008-08-22 11:31:57
-layout: post
 slug: cpp-concurrency-in-action
 title: C++ Concurrency in Action
-wordpressid: 272
 categories: programming
-tags: 'Anthony Williams,book,c++,c++0x,concurency,cpp0x,cpu,data,database,dbms,geography,geometry,gis,ISBN:
   1933988770,parallel,postgis,processing,programming,project,spatial,threading'
 ---
 

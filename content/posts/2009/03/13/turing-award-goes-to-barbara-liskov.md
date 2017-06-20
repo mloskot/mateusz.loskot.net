@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-03-13 01:19:14
-layout: post
 slug: turing-award-goes-to-barbara-liskov
 title: Turing award goes to Barbara Liskov
-wordpressid: 303
 categories: programming
-tags: class,conditions,contract,definition,design,inheritance,liskov,object,oop,principle,programming,subtype,supertype,type
 ---
 
 Learning principles of [Object-Oriented Programming](http://en.wikipedia.org/wiki/Object-oriented_programming), one of the first and very important thing to understand is a definition of [subtype](http://en.wikipedia.org/wiki/Subtype). It's usually not a big problem to explain it correctly and there are a few descriptions dangling around.

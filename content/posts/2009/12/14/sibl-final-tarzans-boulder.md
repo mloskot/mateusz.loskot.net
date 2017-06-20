@@ -1,12 +1,8 @@
 ---
-comments: true
 date: 2009-12-14 01:02:16
-layout: post
 slug: sibl-final-tarzans-boulder
 title: SIBL Final Tarzan's Boulder
-wordpressid: 1648
 categories: climbing
-tags: bouldering,castle,castle climbing,climbing,league,sibl,uk
 ---
 
 [Greg on the Tarzan's Boulder](http://vimeo.com/8158790), final problem of [the Southern Indoor Bouldering League](http://www.sibl.co.uk/) competition that took place on Saturday December 12, 2009 in the [Castle Climbing](http://www.castle-climbing.co.uk/), in London:

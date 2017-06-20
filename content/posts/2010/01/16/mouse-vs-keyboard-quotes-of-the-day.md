@@ -2,12 +2,8 @@
 title: Mouse vs keyboard quotes of the day
 date: 2010-01-16 04:20:53
 category: code
-layout: post
-comments: true
 slug: mouse-vs-keyboard-quotes-of-the-day
-wordpressid: 1740
 categories: life,programming
-tags: editor,efficiency,font,ide,keyboard,menu,microsoft,programming,vim,visual c++,visual studio
 ---
 
 My two favourite quotes I've remembered from today's thread about _programming using a proportional font_ and other stuff that happened on, as busy as always, [ACCU](http://accu.org) mailing list:

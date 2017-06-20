@@ -1,13 +1,9 @@
 ---
-comments: true
 date: 2009-05-09 01:51:31
-layout: post
 slug: hi-com-hows-it-going
 title: Hi COM! How's it going?
 description: On future of COM technology
-wordpressid: 563
 category: code
-tags: dotnet,com,framework,ide,microsoft,pdc,visualc,visualstudio,windows
 ---
 
 In June 2000 at [PDC](http://en.wikipedia.org/wiki/Professional_Developers_Conference) in Orlando [Microsoft announced](http://www.microsoft.com/presspass/press/2000/Jul00/PDCDeliversPR.mspx) [.NET Framework](http://en.wikipedia.org/wiki/Microsoft_.NET#Microsoft_.NET) project. Shortly after that developers concentrated around products and technologies made by Microsoft started debate on what's the future of software development. One of questions and quite obvious was: **So does this mean that COM is dead?**. A few months later, [Don Box](http://en.wikipedia.org/wiki/Don_Box) addressed that concern in his extensive article [Is COM Dead?](http://msdn.microsoft.com/en-us/magazine/cc301471.aspx):

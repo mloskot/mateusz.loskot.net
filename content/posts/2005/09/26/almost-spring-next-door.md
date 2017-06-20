@@ -1,11 +1,7 @@
 ---
-comments: true
 date: 2005-09-26 13:37:42
-layout: post
 slug: almost-spring-next-door
 title: Almost Spring Next Door
-wordpressid: 20
-tags: blog,web,wordpress
 category: code
 ---
 
