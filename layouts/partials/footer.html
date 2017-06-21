@@ -1,30 +1,35 @@
   <div class="footer">
     <div class="contact">
-    Mateusz Loskot :: Senior Programmer @ <a href="{{ .Site.Params.Cadcorp }}">Cadcorp</a> :: Charter Member @ <a href="{{ .Site.Params.OSGeo }}">OSGeo </a> :: Open Source Cowboy<br />
+    Mateusz Loskot :: Senior Programmer @ 
+    <a href="https://{{ .Site.Params.Cadcorp }}">Cadcorp</a>
+    :: Charter Member @
+    <a href="https://{{ .Site.Params.OSGeo }}">OSGeo </a>
+    :: Open Source Cowboy<br />
     </div>
       <div class="contact">
-          {{ .Site.Params.email }} <br />
           <a href="https://{{ .Site.Params.twitter }}">{{ .Site.Params.twitter }}</a><br />
           <a href="https://{{ .Site.Params.github }}">{{ .Site.Params.github }}</a><br />
       </div>
       <div class="contact">
-          <a href="https://{{ .Site.Params.aboutme }}">{{ .Site.Params.aboutme }}</a><br />
-          <a href="https://{{ .Site.Params.gplus }}">{{ .Site.Params.gplus }}</a><br />
-          <a href="https://{{ .Site.Params.ohloh }}">{{ .Site.Params.ohloh }}</a><br />
+          <a href="https://{{ .Site.Params.flickr }}">{{ .Site.Params.flickr }}</a><br />
+          <a href="https://{{ .Site.Params.instagram }}">{{ .Site.Params.instagram }}</a><br />
       </div>
       <div class="contact">
-          <a href="https://{{ .Site.Params.flickr }}">{{ .Site.Params.flickr }}</a><br />
+          
           <a href="https://{{ .Site.Params.vimeo }}">{{ .Site.Params.vimeo }}</a><br />
           <a href="https://{{ .Site.Params.youtube }}">{{ .Site.Params.youtube }}</a>
       </div>
       <div class="contact">
-          <br />
-          Powered by <a href="https://gohugo.io">Hugo</a><br />
-          Kudos to <a href="http://hugo.loskot.net/">Hugo</a>
+          {{ .Site.Params.email }} <br />
+          Powered by <a href="https://gohugo.io">Hugo</a>
       </div>
     </div>
 
-<a href="http://{{ .Site.Params.github }}"><img style="position: absolute; top: 0; right: 0; border: 0;" src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png" alt="Fork me on GitHub"></a>
+  <a href="http://{{ .Site.Params.github }}">
+    <img style="position: absolute; top: 0; right: 0; border: 0;"
+         src="https://s3.amazonaws.com/github/ribbons/forkme_right_darkblue_121621.png"
+         alt="Fork me on GitHub">
+  </a>
 
 </body>
 </html>
