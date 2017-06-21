@@ -5,8 +5,8 @@
 # top-most EditorConfig file
 root = true
 
-# Markdown/reStructuredText documentation files
-[*.{md,markdown}]
+# Content files
+[*.{html,md,markdown}]
 indent_size = 2
 indent_style = space
 trim_trailing_whitespace = true
