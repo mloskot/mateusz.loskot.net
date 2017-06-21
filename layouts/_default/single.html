@@ -1,8 +1,11 @@
 {{ partial "header.html" . }}
+
 <div class="article-meta">
-<h1><span class="title">{{ .Title }}</span></h1>
-{{ with .Params.author }}<h2 class="author">{{ . }}</h2>{{ end }}
-{{ if .Params.date }}<h2 class="date">{{ .Date.Format "2006/01/02" }}</h2>{{ end }}
+<h1>{{ .Title }}</h1>
+
+<p class="meta">
+  {{ .Date.Format "02 Jan 2006" }}
+  {{ with .Site.Params.author }} | {{ . }} {{ end }}
 </div>
 
 <main>

@@ -6,6 +6,7 @@
     <span><time datetime="{{ .Date }}">{{ .Date.Format "02 Jan 2006" }}</time></span> &raquo; <a href="{{ .URL }}">{{ .Title }}</a>
   </li>
   {{ end }}
+  <li>&raquo; <a href="/post">All posts</a></li>
 </ul>
 
 {{ partial "footer.html" . }}
