@@ -1,0 +1,18 @@
+# .travis.yml - https://github.com/mloskot/mateusz.loskot.net
+dist: trusty
+sudo: required
+
+install:
+  - sudo apt-get install -y lftp
+  - wget -O /tmp/hugo.deb https://github.com/gohugoio/hugo/releases/download/v0.24/hugo_0.24_Linux-64bit.deb
+  - sudo dpkg -i /tmp/hugo.deb
+
+script:
+  - hugo
+
+deploy:
+  - provider: script
+    script: ./deploy.sh
+    skip_cleanup: true
+    on:
+      branch: master
