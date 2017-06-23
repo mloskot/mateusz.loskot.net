@@ -1,6 +1,6 @@
 # .travis.yml - https://github.com/mloskot/mateusz.loskot.net
 dist: trusty
-sudo: required
+sudo: enabled
 
 install:
   - sudo apt-get install -y lftp
