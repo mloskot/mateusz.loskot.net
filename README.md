@@ -1,12 +1,11 @@
 # mateusz.loskot.net
 
-Next generation of my personal website and blog
+My personal website and blog
 powered by [Hugo](https://gohugo.io/)
 and published at http://mateusz.loskot.net
 
-## Author
-
-Mateusz Łoskot
+* Author:  Mateusz Łoskot
+* Contact: `mateusz at loskot dot net`
 
 ## License
 
