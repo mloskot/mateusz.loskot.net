@@ -2,7 +2,7 @@
 date: 2006-02-15 15:01:57
 slug: sign-the-petition-to-reject-the-inspire-directive
 title: Sign the Petition to reject the INSPIRE Directive
-categories: none
+categories: [ "code" ]
 ---
 
 ![Green Globe Logo](/images/logos/greenglobe-logo.jpg)Yesterday, [Jo Walsh](http://frot.org) called on [Mapping Hacks](http://mappinghacks.com) for [signing the Petition](http://petition.publicgeodata.org) to reject the INSPIRE Directive. You can read complete Jo's story in 

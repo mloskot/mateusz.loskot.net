@@ -2,7 +2,7 @@
 date: 2009-07-28 17:26:25
 slug: first-climbing-in-portland
 title: First Climbing in Portland
-categories: climbing,life
+categories: [ "code" ]
   hill,saturday,south,trip,uk,united kingdom
 ---
 

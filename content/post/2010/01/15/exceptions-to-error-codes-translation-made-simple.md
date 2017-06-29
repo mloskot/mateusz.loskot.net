@@ -1,9 +1,9 @@
 ---
 title: Exceptions to error codes translation made simple
 date: 2010-01-15 00:33:05
-category: code
+
 slug: exceptions-to-error-codes-translation-made-simple
-categories: programming
+categories: [ "code" ]
 ---
 
 On many occasions, it is not possible or it's even forbidden to let an exception thrown to sneak out of a function. On many occasions, it is necessary to sink all exceptions in place where they may occur and translate exceptions thrown to error codes. I have observed it's not uncommon software projects stick to some rules about how they [handle exceptions](http://en.wikipedia.org/wiki/Exception_handling), like:

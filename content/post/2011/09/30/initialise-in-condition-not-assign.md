@@ -1,9 +1,9 @@
 ---
 title: Initialise in condition, not assign
 date: 2011-09-30 01:08:55
-category: code
+
 slug: initialise-in-condition-not-assign
-categories: programming
+categories: [ "code" ]
 ---
 
 I've read a lot of code polluted with assignments in condition:

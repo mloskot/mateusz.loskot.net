@@ -2,7 +2,7 @@
 date: 2008-08-23 06:02:52
 slug: sol-katz-award-call-for-nominations
 title: Sol Katz Award - Call for Nominations
-categories: open source
+categories: [ "code" ]
 ---
 
 The [FOSS4G 2008](http://www.foss4g2008.org/) is only one month away. Traditionally, the Community gathered around [Free and Open Source Software for Geospatial](http://www.osgeo.org/) will award an individual with prestigious [Sol Katz Award](http://www.osgeo.org/solkatz):

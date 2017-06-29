@@ -1,9 +1,9 @@
 ---
 title: GIS-Lab joins Planet OSGeo
 date: 2010-02-27 00:21:19
-category: code
+
 slug: gis-lab-joins-planet-osgeo
-categories: open source
+categories: [ "code" ]
 ---
 
 ![OSGeo Foundation](/images/logos/osgeo-logo.png)[Maxim Dubinin](http://silvis.forest.wisc.edu/people/dubinin.asp) syndicated [GIS-Lab](http://gis-lab.info/) blog with the [Planet OSGeo](http://planet.osgeo.org) aggregator.

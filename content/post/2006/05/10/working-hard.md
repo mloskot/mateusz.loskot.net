@@ -2,7 +2,7 @@
 date: 2006-05-10 06:54:14
 slug: working-hard
 title: Working hard...
-categories: life
+categories: [ "code" ]
 ---
 
 Recently, I was not very active on my blog. There are two reasons of that silence: small holidays - I spent last week with my parents (visiting my home after about 1.5.year :-)), second, I'm contributing to [GDAL](http://www.gdal.org) project most of my time. I'm also trying to contribute to [MapServer](http://mapserver.gis.umn.edu) ...so there is huge amount of things I have to learn. In the meantime, I'm investigating [OSGeo](http://www.osgeo.org) projects like [FDO](https://fdo.osgeo.org) or [MapGuide](https://mapguide.osgeo.org) and trying to continue my participation in [GEOS](http://geos.refractions.net) project. I'm also trying to provide substantial support to GDAL/[OGR](http://www.gdal.org/ogr/) users (e.g. regarding [Windows CE port of OGR](http://http://www.gdal.org/wince.html)) on mailing lists and #gdal IRC channel.

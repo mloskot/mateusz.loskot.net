@@ -2,7 +2,7 @@
 date: 2009-06-25 15:35:19
 slug: logic
 title: Logic
-categories: life,programming
+categories: [ "code" ]
 ---
 
 My wife asked me: _Buy sausages, if you'll find eggs, buy 10_. What happens next?

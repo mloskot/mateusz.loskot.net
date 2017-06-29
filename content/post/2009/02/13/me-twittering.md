@@ -2,7 +2,7 @@
 date: 2009-02-13 00:24:38
 slug: me-twittering
 title: /me twittering
-categories: life
+categories: [ "code" ]
 ---
 
 Looks like I've also picked up a bug. The _Twittereus Notorious_ has caught me up - [http://twitter.com/mloskot](http://twitter.com/mloskot)

@@ -2,7 +2,7 @@
 date: 2007-10-28 08:14:05
 slug: gdal-143-rc1
 title: GDAL 1.4.3 RC1
-categories: open source
+categories: [ "code" ]
 ---
 
 It's been quite a long way, but finally GDAL 1.4.3 RC1 was issued today. Initially, the 1.4.3 was planned to be final patch release for 1.4.x but _recently heard rumors_ tell me that we can expect 1.4.4 in near future.

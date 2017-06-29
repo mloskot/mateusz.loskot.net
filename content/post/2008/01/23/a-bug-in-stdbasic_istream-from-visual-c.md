@@ -2,7 +2,7 @@
 date: 2008-01-23 20:02:02
 slug: a-bug-in-stdbasic_istream-from-visual-c
 title: A bug in std::basic_istream from Visual C++
-categories: programming
+categories: [ "code" ]
   c++,visual studio
 ---
 

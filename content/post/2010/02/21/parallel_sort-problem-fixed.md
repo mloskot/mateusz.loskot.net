@@ -1,9 +1,9 @@
 ---
 title: parallel_sort problem fixed
 date: 2010-02-21 16:39:59
-category: code
+
 slug: parallel_sort-problem-fixed
-categories: programming
+categories: [ "code" ]
 ---
 
 My [problem](/?p=1891) with crashing programs using TBB has been solved. Alexey Kukanov [replied](http://software.intel.com/en-us/forums/showpost.php?p=110124) to my [question](http://software.intel.com/en-us/forums/showthread.php?t=72130) explaining that because I use TBB 2.1, thus I have to explicitly initialise the task scheduler. Without this initialization, no context (root) for tasks is created, so no tasks possible.

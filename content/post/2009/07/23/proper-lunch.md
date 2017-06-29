@@ -2,7 +2,7 @@
 date: 2009-07-23 23:53:54
 slug: proper-lunch
 title: Proper lunch
-categories: life
+categories: [ "code" ]
 ---
 
 

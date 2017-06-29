@@ -2,7 +2,7 @@
 date: 2006-09-21 12:38:45
 slug: boostcon-2007
 title: BoostCon 2007
-categories: none
+categories: [ "code" ]
 ---
 
 [![Boost C++ Libraries Logo](/images/logos/boost-logo.png)](http://www.boost.org)Today, I got a message announcing the first Boost conference - [BoostCon 2007](http://www.boost.org/more/BoostCon07.html). The event will take place in USA, Aspen, Colorado, in May 14-18, 2007.

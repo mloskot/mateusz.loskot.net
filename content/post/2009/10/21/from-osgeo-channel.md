@@ -2,7 +2,7 @@
 date: 2009-10-21 23:42:26
 slug: from-osgeo-channel
 title: 'from #osgeo channel'
-categories: life,open source
+categories: [ "code" ]
 ---
 
 A tiny discussion about climate change triggered by [FOSS4G 2009](http://2009.foss4g.org/) talks logged by seven on [#osgeo IRC channel](http://logs.qgis.org/osgeo/%23osgeo.2009-10-21.log): 

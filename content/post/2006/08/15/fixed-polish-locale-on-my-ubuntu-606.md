@@ -2,7 +2,7 @@
 date: 2006-08-15 03:09:32
 slug: fixed-polish-locale-on-my-ubuntu-606
 title: Fixed polish locale on my Ubuntu 6.06
-categories: none
+categories: [ "code" ]
 ---
 
 [![Ubuntu Linux](/images/logos/ubuntu-logo.png)](http://www.ubuntulinux.org)Today, I installed a very nice utility to generate LOC statistics for my code - [sloccount](http://www.dwheeler.com/sloccount/). Every time I run this tool, I got following message: _perl: warning: Setting locale failed._.

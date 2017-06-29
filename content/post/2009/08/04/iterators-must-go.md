@@ -2,7 +2,7 @@
 date: 2009-08-04 17:13:46
 slug: iterators-must-go
 title: Iterators Must Go!
-categories: programming
+categories: [ "code" ]
   c++,visual studio,webcast
 ---
 

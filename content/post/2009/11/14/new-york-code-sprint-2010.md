@@ -2,7 +2,7 @@
 date: 2009-11-14 02:41:35
 slug: new-york-code-sprint-2010
 title: New York Code Sprint 2010
-categories: life,open source,programming
+categories: [ "code" ]
 ---
 
 [Paul](http://blog.cleverelephant.ca/) has [announced](http://lists.osgeo.org/pipermail/tosprint/2009-November/000079.html) preparation for second edition of OSGeo [TOSprint](http://wiki.osgeo.org/wiki/Toronto_Code_Sprint_2009) event. This year edition is called [New Year Code Sprint](http://wiki.osgeo.org/wiki/New_York_Code_Sprint_2010).

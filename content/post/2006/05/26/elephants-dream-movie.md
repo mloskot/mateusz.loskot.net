@@ -2,7 +2,7 @@
 date: 2006-05-26 02:25:57
 slug: elephants-dream-movie
 title: Elephants Dream movie
-categories: life
+categories: [ "code" ]
 ---
 
 

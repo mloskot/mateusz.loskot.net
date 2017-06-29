@@ -2,7 +2,7 @@
 date: 2007-02-04 02:24:46
 slug: fdo-postgis-turning-point
 title: FDO PostGIS turning point
-categories: none
+categories: [ "code" ]
 ---
 
 More than a week ago, after longer discussion in the [FDO](http://fdo.osgeo.org/) PostGIS team ([Paul Ramsey](http://geotips.blogspot.com/), [Jason Birch](http://www.jasonbirch.com/) and [I](http://mateusz.loskot.net/)) we decided about a turning point in the development of [PostGIS](http://postgis.refractions.net/) provider for FDO. The most important part of our decision is about dropping the [Generic RDBMS](http://fdo.osgeo.org/fdordbms/index.html) framework as an intermediate API for the provider and implementing FDO core interface directly.

@@ -2,10 +2,10 @@
 title: OSGeo Thai Chapter and OTB Team join the planet
 description: Announcement about new additions to the Planet OSGeo
 date: 2010-02-23 21:55:51
-category: code
+
 slug: osgeo-thai-chapter-and-otb-team-join-the-planet
-categories: open source
-category: code
+categories: [ "code" ]
+
 ---
 
 ![OSGeo Foundation](/images/logos/osgeo-logo.png)I'm pleased to announce two new blogs 

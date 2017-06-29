@@ -2,7 +2,7 @@
 date: 2005-11-09 07:31:32
 slug: veryspatial-on-the-frappr
 title: VerySpatial on the Frappr!
-categories: code
+categories: [ "code" ]
 ---
 
 ![VerySpatial.com Logo](/images/logos/veryspatial-logo.jpg)[Recently](http://mateusz.loskot.net/2005/11/05/gis-bloggers-map/), I announced [GIS Bloggers Map](http://www.frappr.com/gisbloggers). Today, I'd like to announce another GIS users map on the [Frappr!](http://www.frappr.com).

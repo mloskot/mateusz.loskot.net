@@ -2,8 +2,8 @@
 date: 2011-05-23 22:47:47
 slug: ian-stronghill-on-the-last-hussar-f7a
 title: Ian Stronghill on The Last Hussar F7a
-categories: climbing
-category: sweat
+categories: [ "code" ]
+
 ---
 
 Another day in [Southern Sandstone](http://www.ssbouldering.co.uk/) with beautiful sunny weather allowed to have plenty of fun. Check [Southern Sandstone 21 May 2011](http://www.flickr.com/photos/mloskot/sets/72157626778795308/) photoset on my [Flickr](http://www.flickr.com/photos/mloskot/).

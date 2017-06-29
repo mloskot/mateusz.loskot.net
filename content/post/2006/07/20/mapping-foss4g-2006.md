@@ -2,7 +2,7 @@
 date: 2006-07-20 23:09:20
 slug: mapping-foss4g-2006
 title: Mapping FOSS4G 2006
-categories: none
+categories: [ "code" ]
 ---
 
 [![FOSS4G Flyer](/images/logos/foss4g2006-flyer.png)](http://www.foss4g2006.org/site/pdf/FOSS4G2006_Flyer.pdf)As you can read on the FOSS4G 2006 website [http://foss4g2006.org](http://foss4g2006.org):

@@ -2,7 +2,7 @@
 date: 2009-11-15 20:18:30
 slug: traits-of-void-resolved
 title: Traits of void resolved
-categories: programming
+categories: [ "code" ]
   T. Lavavej,stl,tr1,visual c++,visual studio
 ---
 

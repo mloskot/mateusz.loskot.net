@@ -1,9 +1,9 @@
 ---
 title: Open Source, Decoupled and Accelerated
 date: 2010-03-17 00:37:04
-category: code
+
 slug: open-source-decoupled-and-accelerated
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 All right, I confess, I've lied a bit in the topic. I'm not going to discuss any of the [Free and Open Source Software](http://en.wikipedia.org/wiki/Free_and_open_source_software) philosophies here. What I'm going to do is to smuggle an interesting discussion that I believe it may be interesting to other Open Source Software [hackers](http://catb.org/hacker-emblem/), especially projects from the C/C++ camp of the [OSGeo Foundation](http://www.osgeo.org). I would also say that subject of this discussion is quite idiomatic to the universe of [FOSS production](http://producingoss.com/). It is about a software project. A project that has grown and it has grown in many dimensions, also in parallel dimensions.

@@ -2,7 +2,7 @@
 date: 2007-02-25 20:03:15
 slug: extended-stl
 title: Extended STL
-categories: programming
+categories: [ "code" ]
 ---
 
 ![Extended STL](http://synesis.com.au/publishing/xstl/xstlv1-thumb.jpg)The [Extended STL](http://extendedstl.com/) is a new [C++](http://en.wikipedia.org/wiki/C++) book written by Matthew Wilson. The first volume **Collections and Iterators** will be available in June 2007. Second volume **Algorithms, Functions and Exotic Matter** been also planned but it is _still very much up in the air_. The book will discuss:

@@ -2,9 +2,9 @@
 title: Eclipse 4.2 throwing gtk_widget_real_map assertion failed
 description: Eclipse 4.2 throwing gtk_widget_real_map assertion failed
 date: 2012-09-14 22:04:53
-category: code
+
 slug: eclipse-4-2-throwing-gtk_widget_real_map-assertion-failed
-categories: programming
+categories: [ "code" ]
 ---
 
 Inspired by [Eclipse](http://eclipse.org/) and [CDT](http://www.eclipse.org/cdt/) recommendations [posted recently](http://lists.boost.org/Archives/boost/2012/09/196248.php) to Boost mailing list, I decided to give it a try.

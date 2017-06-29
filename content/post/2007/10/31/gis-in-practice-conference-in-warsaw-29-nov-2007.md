@@ -2,7 +2,7 @@
 date: 2007-10-31 21:20:00
 slug: gis-in-practice-conference-in-warsaw-29-nov-2007
 title: GIS in Practice Conference in Warsaw, 29 Nov 2007
-categories: none
+categories: [ "code" ]
 ---
 
 On 29 November 2007 an interesting event will take place in Warsaw, Poland. The annual [XIV GIS in Practice Conference](http://www.e-administracja.org.pl/konferencje/2007/gis/index.php) is devoted to discuss topics about space management, local community development and communal participation.

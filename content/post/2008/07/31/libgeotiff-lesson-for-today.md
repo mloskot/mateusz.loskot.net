@@ -2,7 +2,7 @@
 date: 2008-07-31 01:52:02
 slug: libgeotiff-lesson-for-today
 title: libgeotiff lesson for today
-categories: programming
+categories: [ "code" ]
 ---
 
 Doing final tests of [libLAS](http://liblas.org/) on Linux (Ubuntu 7.04), before [Hobu](http://hobu.biz/) will release 1.0.0, I attempted to build it with latest [libgeotiff 1.2.5](/?p=260). I moved my fingers on keyboard and did _./configure && make_, shortly then I saw strange looking error message:

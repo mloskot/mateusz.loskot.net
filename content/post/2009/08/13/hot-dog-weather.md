@@ -2,7 +2,7 @@
 date: 2009-08-13 00:45:04
 slug: hot-dog-weather
 title: Hot Dog Weather
-categories: life
+categories: [ "code" ]
   opolskie
 ---
 

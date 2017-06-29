@@ -1,9 +1,9 @@
 ---
 title: Interface Versioning in C++ Video
 date: 2010-10-27 21:40:22
-category: code
+
 slug: interface-versioning-in-cpp-video
-categories: programming
+categories: [ "code" ]
 ---
 
 Friends from [Skills Matter](http://skillsmatter.com/) has put [video with lecture](http://skillsmatter.com/podcast/open-source-dot-net/interface-versioning-in-c-plus-plus/zx-553) about [Interface Versioning in C++](http://accu.org/index.php/accu_branches/accu_london/accu_london_oct_2010) given by Steve Love last Thursday. The lecture was organised by London chapater of [ACCU](http://accu.org/).

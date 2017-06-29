@@ -1,9 +1,9 @@
 ---
 title: Moved twitter.com/mateuszloskot to twitter.com/mloskot
 date: 2011-12-17 17:13:14
-category: code
+
 slug: moved-twitter-commateuszloskot-to-twitter-commloskot
-categories: life
+categories: [ "code" ]
 ---
 
 Long time ago, I'd used [twitter.com/mloskot](http://twitter.com/mloskot) account which I [removed](/?p=1100). Someone had taken it over and when I decided to come back to Twitter, I had to register as [twitter.com/mateuszloskot](http://twitter.com/mateuszloskot).

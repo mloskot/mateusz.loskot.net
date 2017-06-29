@@ -2,7 +2,7 @@
 date: 2007-11-01 09:39:14
 slug: terminus-my-eyes-saver
 title: Terminus, my eyes saver
-categories: programming
+categories: [ "code" ]
 ---
 
 Every day (almost) I spend long hours in front of computer screen and terminal emulator window. Obviously, it's not comfortable nor healthy for my eyes at all. So, I decided to try to find a way to help my eyes feeling a little better, so they are not mad at me all the time.

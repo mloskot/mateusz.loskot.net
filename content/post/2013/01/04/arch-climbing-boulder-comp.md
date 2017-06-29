@@ -2,7 +2,7 @@
 title: Arch Climbing Wall Boulder Comp
 description: My first round of boulder comp at the Arch Climbing Wall
 date: 2013-01-04
-category: sweat
+
 ---
 
 I've just came back home from my first 

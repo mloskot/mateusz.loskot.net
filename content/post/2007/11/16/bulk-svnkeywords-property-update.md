@@ -2,7 +2,7 @@
 date: 2007-11-16 17:09:06
 slug: bulk-svnkeywords-property-update
 title: Bulk svn:keywords property update
-categories: programming
+categories: [ "code" ]
 ---
 
 How to set [svn:keywords](http://en.wikipedia.org/wiki/Subversion_(software)#Properties) property recursively on a set of files?

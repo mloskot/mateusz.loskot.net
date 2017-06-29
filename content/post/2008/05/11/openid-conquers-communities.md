@@ -2,7 +2,7 @@
 date: 2008-05-11 12:55:02
 slug: openid-conquers-communities
 title: OpenID conquers communities
-categories: open source
+categories: [ "code" ]
 ---
 
 ![OpenID logo](/images/logos/openid-logo.png)On May 8th, Ross Turk [posted](http://sourceforge.net/community/openid-and-good-citizenship/) on the SourceForge.net community blog: _Hey! So Iâll just blurt it out: weâve joined the OpenID Foundation!_. As Ross confirms, [OpenID](http://en.wikipedia.org/wiki/OpenID) use is becoming very popular, means users like the idea of _decentralized, free and open standard that lets users control the amount of personal information they provide_.

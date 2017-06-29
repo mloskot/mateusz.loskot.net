@@ -2,7 +2,7 @@
 date: 2009-05-04 22:14:21
 slug: mloskot-devjavu-com-moved
 title: mloskot.devjavu.com moved
-categories: life,programming
+categories: [ "code" ]
 ---
 
 [Jeff Lindsay](http://progrium.com/) announced [DevjaVu will be shutting down](http://blog.devjavu.com/2009/05/01/devjavu-will-be-shutting-down/). This is bad news of the day for me, because I've been hosting on [DevjaVu](http://www.devjavu.com/) my personal workshop repository with miscellaneous prototypes and experiments at [http://mloskot.devjavu.com/](http://mloskot.devjavu.com/).

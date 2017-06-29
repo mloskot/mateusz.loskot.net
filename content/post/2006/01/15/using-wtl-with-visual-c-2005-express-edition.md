@@ -2,7 +2,7 @@
 date: 2006-01-15 06:02:21
 slug: using-wtl-with-visual-c-2005-express-edition
 title: Using WTL with Visual C++ 2005 Express Edition
-categories: programming
+categories: [ "code" ]
 ---
 
 
@@ -13,7 +13,7 @@ After [Microsoft](http://www.microsoft.com) released [Visual C++ 2005 Express Ed
 
 
 
-So, to make the solution available to more WTL users [Baryon Lee](http://www.bbshare.com) has published a very nice article - [Using WTL with Visual C++ 2005 Express Edition](http://www.codeproject.com/wtl/WTLExpress.asp) - in which he explains complete procedure of how to install and use WTL with VC++ 2005 Express Edition. 
+So, to make the solution available to more WTL users [Baryon Lee](http://www.bbshare.com) has published a very nice article - [Using WTL with Visual C++ 2005 Express Edition](http://www.codeproject.com/wtl/WTLExpress.asp) - in which he explains complete procedure of how to install and use WTL with VC++ 2005 Express Edition.
 
 
 

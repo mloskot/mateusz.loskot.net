@@ -1,9 +1,9 @@
 ---
 title: ACCU 2010 Registrations Open
 date: 2010-01-13 00:27:14
-category: code
+
 slug: accu-2010-registrations-open
-categories: programming
+categories: [ "code" ]
 ---
 
 A few minutes ago, [ACCU](http://accu.org/) Conference Chair [Giovanni Asproni](http://www.giovanniasproni.com/) announced that registrations to [ACCU 2010](http://accu.org/index.php/conferences) conference are now open.

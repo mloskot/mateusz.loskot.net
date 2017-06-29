@@ -2,7 +2,7 @@
 date: 2006-03-21 23:45:07
 slug: geospatialgeometry-group-has-been-launched
 title: GeospatialGeometry group has been launched!
-categories: none
+categories: [ "code" ]
 ---
 
 ![Google Groups Logo](/images/logos/google-groups-logo.png)Today, _Sunburned Surveyor_ announced on the [freegis-list@intevation.de](http://intevation.de/pipermail/freegis-list/2006-March/002805.html) about new geospatial discussion group launched on [Google Groups](http://groups.google.com). The group has been called **GeospatialGeometry**. It's available on [Google Groups](http://groups.google.com) under following location:

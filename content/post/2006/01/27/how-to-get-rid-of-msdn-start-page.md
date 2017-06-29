@@ -2,7 +2,7 @@
 date: 2006-01-27 13:14:47
 title: How to get rid of MSDN Start page
 description: Useful tip on using MSDN documentation
-category: code
+
 ---
 
 Yesterday, I installed [Visual Studio 2005 Professional](http://msdn.microsoft.com/vstudio/products/vspro/default.aspx) on my laptop. Together, I installed new [MSDN Library](http://msdn.microsoft.com) too. After some minutes of playing with my new tools I noticed a very annoying thing in the new MSDN viewer. Everytime I open the viewer it displays its Start page (or default page, whatever).

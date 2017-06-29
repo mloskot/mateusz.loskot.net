@@ -2,7 +2,7 @@
 date: 2007-10-29 10:08:08
 slug: gdal-143-rc3
 title: GDAL 1.4.3 RC3
-categories: open source
+categories: [ "code" ]
 ---
 
 Hello GDAL lovers again :-). The new day today brings us fresh package with **GDAL 1.4.3 Release Candidate 3**. It consists of small fixes for annoying issue about changed data and time  of _pymod_ files. If you are interested in details of the problem, please refer to Ticket [#1954](http://trac.osgeo.org/gdal/ticket/1954) on the GDAL Trac.

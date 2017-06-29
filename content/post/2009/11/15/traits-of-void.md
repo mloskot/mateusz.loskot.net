@@ -2,7 +2,7 @@
 date: 2009-11-15 04:44:57
 slug: traits-of-void
 title: Traits of void
-categories: programming
+categories: [ "code" ]
   c++,visual studio
 ---
 

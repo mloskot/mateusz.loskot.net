@@ -1,9 +1,9 @@
 ---
 title: Building Boost with Visual Studio 11 Developer Preview
 date: 2011-11-06 21:39:11
-category: code
+
 slug: building-boost-with-visual-studio-11-developer-preview
-categories: programming
+categories: [ "code" ]
 ---
 
 Yesterday, I installed [Visual Studio 11 Developer Preview](http://www.microsoft.com/visualstudio/en-us/visual-studio-11). The new release is available for free and is usable for free until June 2012, so it's a great opportunity to try and learn what Microsoft has to offer for C++ programmers. And, it looks [it offers a lot](http://msdn.microsoft.com/en-us/library/hh409293%28v=vs.110%29.aspx), including [SCARY](http://www.open-std.org/jtc1/sc22/WG21/docs/papers/2009/n2980.pdf) features.

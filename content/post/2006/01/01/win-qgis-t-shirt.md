@@ -2,7 +2,7 @@
 date: 2006-01-01 18:59:04
 slug: win-qgis-t-shirt
 title: Win QGIS T-shirt!
-categories: none
+categories: [ "code" ]
 ---
 
 [QGIS](http://www.qgis.org) Community [has announced](http://www.qgis.org/index.php?option=com_content&task=view&id=111&Itemid=65&mosmsg=Thanks+for+your+vote%21) the contests for new name of the next QGIS release.

@@ -2,7 +2,7 @@
 date: 2006-02-06 11:23:28
 slug: write-your-own-map-calibration-tool
 title: Write your own map calibration tool
-categories: programming
+categories: [ "code" ]
 ---
 
 

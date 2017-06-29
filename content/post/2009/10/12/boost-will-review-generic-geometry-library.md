@@ -2,7 +2,7 @@
 date: 2009-10-12 21:31:57
 slug: boost-will-review-generic-geometry-library
 title: Boost will review Generic Geometry Library
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![Generic Geometry Library (GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)Today afternoon, [Barend Gehrels](http://geometrylibrary.geodan.nl/) oficially submitted formal request of the [Generic Geometry Library](http://trac.osgeo.org/ggl) (GGL) to [Boost C++ Libraries](http://www.boost.org/).

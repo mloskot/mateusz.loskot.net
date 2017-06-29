@@ -2,7 +2,7 @@
 date: 2007-12-07 02:34:50
 slug: i-love-vim
 title: I love Vim
-categories: programming
+categories: [ "code" ]
 ---
 
 ![Vim logo](/images/logos/vim-logo.gif)...for its bloody powerful simplicity that fits Unix philosophy and toolset very well and helps to achieve less and more complex tasks in very intuitive way.

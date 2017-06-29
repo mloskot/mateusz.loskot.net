@@ -1,9 +1,9 @@
 ---
 title: New GEOS source structure
 date: 2010-01-14 01:44:20
-category: code
+
 slug: new-geos-source-structure
-categories: open source
+categories: [ "code" ]
 ---
 
 Following quick [announce](http://lists.osgeo.org/pipermail/geos-devel/2010-January/004544.html) a few days ago, I [started](http://lists.osgeo.org/pipermail/geos-devel/2010-January/004552.html) shifting [GEOS](http://trac.osgeo.org/geos/) source code directories to flatten the structure a bit and to separate header files (.h) from implementation files (.cpp).

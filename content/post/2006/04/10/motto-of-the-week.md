@@ -2,7 +2,7 @@
 date: 2006-04-10 12:25:02
 slug: motto-of-the-week
 title: Motto of the week
-categories: life
+categories: [ "code" ]
 ---
 
 

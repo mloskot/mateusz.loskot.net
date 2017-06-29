@@ -2,8 +2,8 @@
 date: 2005-09-22 00:12:41
 slug: i-dont-like-katrina
 title: I don't like Katrina
-categories: none
-category: code
+categories: [ "code" ]
+
 ---
 
 People living in the [New Orleans, Louisiana](http://en.wikipedia.org/wiki/New_Orleans%2C_Louisiana) are like in a trap.  The city lies below sea level and it's still sinking (...agriculture)! Thousands of people live more than 2 metres below sea level surrounded by the waters of the Mississippi River and Lake Pontchartrai. It may seem water was waiting for an opportunity to destroy New Orleans. It happend. [Hurricane Katrina](http://en.wikipedia.org/wiki/Hurricane_Katrina) attacked on August 29, 2005. Everyone around the World knows what Katrina did to people and cities of Louisiana...

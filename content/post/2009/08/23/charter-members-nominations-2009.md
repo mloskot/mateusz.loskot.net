@@ -2,7 +2,7 @@
 date: 2009-08-23 12:12:11
 slug: charter-members-nominations-2009
 title: Charter Member Nominations 2009
-categories: open source
+categories: [ "code" ]
   source,qgis,robert szczepanek,szczepanek,szczepanek.pl
 ---
 

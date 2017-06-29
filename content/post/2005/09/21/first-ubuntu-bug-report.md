@@ -2,8 +2,8 @@
 date: 2005-09-21 14:13:29
 slug: first-ubuntu-bug-report
 title: First Ubuntu bug report
-categories: none
-category: code
+categories: [ "code" ]
+
 ---
 
 [**#15922**](https://bugzilla.ubuntu.com/show_bug.cgi?id=15922)

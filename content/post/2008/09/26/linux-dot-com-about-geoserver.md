@@ -2,7 +2,7 @@
 date: 2008-09-26 19:21:11
 slug: linux-dot-com-about-geoserver
 title: Linux.com about GeoServer
-categories: none
+categories: [ "code" ]
   mapping
 ---
 

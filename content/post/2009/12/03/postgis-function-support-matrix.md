@@ -2,7 +2,7 @@
 date: 2009-12-03 10:05:48
 slug: postgis-function-support-matrix
 title: PostGIS Function Support Matrix
-categories: open source
+categories: [ "code" ]
   Obe,spatial,support
 ---
 

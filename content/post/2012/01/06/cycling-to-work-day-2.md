@@ -2,8 +2,8 @@
 date: 2012-01-06 10:21:54
 slug: cycling-to-work-day-2
 title: Cycling to work - Day #2
-category: sweat
-categories: cycling
+
+categories: [ "code" ]
 ---
 
 Update: [Cycling to work moved to RunKeeper](/?p=2933)

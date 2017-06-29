@@ -2,7 +2,7 @@
 date: 2007-02-16 10:40:07
 slug: fdo-any-plans-for-summer
 title: FDO, any plans for summer?
-categories: programming
+categories: [ "code" ]
 ---
 
 Thanks to [Jason Birch](http://www.jasonbirch.com/nodes/) recently [calling](http://lists.osgeo.org/pipermail/fdo-internals/2007-February/000798.html) on the FDO developers [mailing list](http://lists.osgeo.org/pipermail/fdo-internals/), it's getting loudly about idea of joining the [Google Summer of Code 2007](http://google-code-updates.blogspot.com/2007/02/speaking-of-summer.html) with [Feature Data Objects](http://fdo.osgeo.org/) project.

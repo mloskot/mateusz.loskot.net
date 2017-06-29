@@ -2,7 +2,7 @@
 date: 2009-11-13 01:08:00
 slug: formal-review-of-the-generic-geometry-library-by-boost-community
 title: Formal review of the Generic Geometry Library by Boost Community
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![Generic Geometry Library (GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/) Nearly a month after sending out [request for review](/?p=1232) of the [Generic Geometry Library](http://trac.osgeo.org/ggl/) (GGL), the [Boost Community](http://www.boost.org/) [started process of formal review on November 5th](http://lists.boost.org/Archives/boost/2009/11/157963.php), according to the official [Boost reviews schedule]( ). The review is being led by [Hartmut Kaiser](http://beta.boost.org/users/people/hartmut_kaiser.html).

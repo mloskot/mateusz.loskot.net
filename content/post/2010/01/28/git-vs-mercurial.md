@@ -1,9 +1,9 @@
 ---
 title: Git vs Mercurial
 date: 2010-01-28 22:40:22
-category: code
+
 slug: git-vs-mercurial
-categories: none
+categories: [ "code" ]
 ---
 
 One of possible and reasonable answers given at [gitvsmercurial.com](http://gitvsmercurial.com)

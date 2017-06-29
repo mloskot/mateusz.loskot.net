@@ -2,7 +2,7 @@
 date: 2009-08-02 02:50:34
 slug: french-breakfast-at-google
 title: French breakfast at Google
-categories: life
+categories: [ "code" ]
 ---
 
 [French company sues Google over its Maps service](http://www.tcmagazine.com/comments.php?id=28420&catid=6)

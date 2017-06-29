@@ -2,7 +2,7 @@
 date: 2009-11-15 02:19:50
 slug: inconsistent-int64_t-definition-in-gcc
 title: Inconsistent int64_t definition in GCC?
-categories: programming
+categories: [ "code" ]
 ---
 
 While compiling programs on [Linux](http://releases.ubuntu.com/9.04/) 32-bit with[ Comeau C/C++](http://www.comeaucomputing.com/) 4.3.10.1 front-end and [GCC 4.3.3](http://gcc.gnu.org/gcc-4.3/changes.html) I encountered some [problems]( https://svn.boost.org/trac/boost/ticket/3548) using Boost Integer library, namely `boost/cstdint.hpp` header. Here we go:

@@ -2,7 +2,7 @@
 date: 2009-05-08 00:52:31
 slug: got-new-toy
 title: Got new toy
-categories: programming
+categories: [ "code" ]
 ---
 
 I've just got new <del>toy</del> **tool**. Since yesterday, I'm a happy owner of the most standards-conformant C++ compiler that ever existed - [Comeau C/C++](http://en.wikipedia.org/wiki/Comeau) from [Comeau Computing](http://www.comeaucomputing.com/).

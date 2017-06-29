@@ -2,7 +2,7 @@
 date: 2009-11-18 01:09:50
 slug: its-called-the-pole
 title: It's called the Poles
-categories: life
+categories: [ "code" ]
 ---
 
 [Continuing](/?p=1562) my _watch stand-up comedy every night_ week...

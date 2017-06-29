@@ -1,9 +1,9 @@
 ---
 title: Boost.Geometry on BoostCon'10
 date: 2010-04-09 22:38:55
-category: code
+
 slug: boost-geometry-on-boostcon10
-categories: programming
+categories: [ "code" ]
 ---
 
 [![Boost Geometry (aka Generic Geometry Library, GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)[Boost.Geometry talk](http://www.boostcon.com/program/sessions#gehrels-lalande-loskot-generic-programming-for-geometry) is [scheduled](http://www.boostcon.com/program) for [BoostCon'10](http://www.boostcon.com/) conference. Thanks to [Barend Gehrels](http://barendgehrels.blogspot.com/), [Boost.Geometry](http://trac.osgeo.org/ggl/) team will be represented on the conference.

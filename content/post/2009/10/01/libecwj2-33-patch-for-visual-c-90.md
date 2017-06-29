@@ -2,7 +2,7 @@
 date: 2009-10-01 17:13:32
 slug: libecwj2-33-patch-for-visual-c-90
 title: libecwj2-3.3 patch for Visual C++ 9.0
-categories: open source
+categories: [ "code" ]
   c++,visual c++ 9.0
 ---
 

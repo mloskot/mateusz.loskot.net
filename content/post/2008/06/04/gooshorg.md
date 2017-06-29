@@ -2,7 +2,7 @@
 date: 2008-06-04 05:36:27
 slug: gooshorg
 title: goosh.org
-categories: none
+categories: [ "code" ]
 ---
 
 [goosh.org](http://goosh.org/) is a new Web-based tool that has been [warming](http://community.zdnet.co.uk/blog/0,1000000567,10008352o-2000331758b,00.htm) [up](http://tech.slashdot.org/article.pl?sid=08/06/02/222234) the wires for last hours. The idea is really cool, though it does not work in text lynx-like browsers, as one would expect.

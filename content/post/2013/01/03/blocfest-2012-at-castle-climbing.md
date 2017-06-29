@@ -2,7 +2,7 @@
 title: Blocfest 2012 at Castle Climbing
 description: My summary of the second round of the Blocfest 2012/2013 at the Castle Climbing in London.
 date: 2013-01-03
-category: sweat
+
 ---
 
 It's been more than three weeks since last round of the [Blocfest](http://www.blocfest.co.uk/)

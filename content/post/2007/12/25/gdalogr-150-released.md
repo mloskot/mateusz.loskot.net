@@ -3,7 +3,7 @@ date: 2007-12-25 13:35:42
 slug: gdalogr-150-released
 title: GDAL/OGR 1.5.0 Released
 description: Announcement about new release of GDAL
-categories: open source
+categories: [ "code" ]
 ---
 
 [![GDAL logo](/images/logos/gdal-logo.png)](http://www.gdal.org/)Yesterday, [Frank](http://home.gdal.org/warmerda/) announced another milestone hit by [GDAL](http://www.gdal.org/):

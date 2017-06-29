@@ -2,7 +2,7 @@
 date: 2005-10-16 18:10:32
 slug: beauty-and-the-beast
 title: Beauty and the Beast
-category: sweat
+
 ---
 
 When I saw this photo (below) for the first time, I had a great laugh and it reminded me well known story titled **Beauty and the Beast**. I think it's clear which one is the Beauty and which one is the Beast :-). The very next moment, I had a pity on this poor boy [Thomas Ulrich](http://www.boxrec.com/boxer_display.php?boxer_id=007115) (on the left) that having such a pretty face, he must go and fight with _iron hammers_ of our [Tomek Adamek](http://www.boxrec.com/boxer_display.php?boxer_id=014883).

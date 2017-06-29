@@ -2,7 +2,7 @@
 date: 2006-10-21 21:56:03
 slug: my-parents-have-new-dog
 title: My parents have new dog
-categories: life
+categories: [ "code" ]
 ---
 
 [![Beno, my parents' new dog](http://farm4.static.flickr.com/3367/3262128238_7126a8764f_m.jpg)](http://www.flickr.com/photos/marekloskot/sets/72157613459109253/)Beno is my parents' has new dog :-)

@@ -2,7 +2,7 @@
 date: 2009-09-28 22:39:22
 slug: open-source-contributor-award
 title: Open Source Contributor Award
-categories: life,open source
+categories: [ "code" ]
 ---
 
 goes to...

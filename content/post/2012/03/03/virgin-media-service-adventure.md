@@ -1,9 +1,9 @@
 ---
 date: 2012-03-03 20:12:47
-category: code
+
 slug: virgin-media-service-adventure
 title: Virgin Media service adventure
-categories: life
+categories: [ "code" ]
 ---
 
 For the last two or three weeks, I've been suffering of a very poor quality broadband provided by [Virgin Media](http://virginmedia.com/) in London.

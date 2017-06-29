@@ -2,7 +2,7 @@
 date: 2009-10-23 22:31:46
 slug: windows-7-in-da-house
 title: Windows 7 in da House
-categories: life
+categories: [ "code" ]
   7,x64
 ---
 

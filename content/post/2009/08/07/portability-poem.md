@@ -2,7 +2,7 @@
 date: 2009-08-07 00:55:54
 slug: portability-poem
 title: Portability poem
-categories: open source,programming
+categories: [ "code" ]
   source,osx,portability,principles,programmer,standard,tips,unix,windows
 ---
 

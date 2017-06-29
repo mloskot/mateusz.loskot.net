@@ -2,9 +2,9 @@
 title: I have a confession to make...
 description: On emotional bound with technologies
 date: 2010-07-07 11:36:14
-category: code
+
 slug: i-have-a-confession-to-make
-category: code
+
 ---
 
 > - Hey, what are guys up to?

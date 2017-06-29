@@ -2,7 +2,7 @@
 date: 2006-08-26 08:35:02
 slug: no-patch-any-more
 title: No patch any more ,-)
-categories: none
+categories: [ "code" ]
 ---
 
 _...they won't give me any more patch._

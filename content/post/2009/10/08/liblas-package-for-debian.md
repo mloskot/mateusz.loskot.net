@@ -2,7 +2,7 @@
 date: 2009-10-08 22:00:00
 slug: liblas-package-for-debian
 title: libLAS package for Debian
-categories: open source
+categories: [ "code" ]
 ---
 
 Francesco Paolo Lovergine [announced](http://lists.osgeo.org/pipermail/liblas-devel/2009-October/000653.html) new [libLAS](http://liblas.org) packages:

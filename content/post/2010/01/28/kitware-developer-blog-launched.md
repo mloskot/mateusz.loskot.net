@@ -1,9 +1,9 @@
 ---
 title: Kitware Developer blog launched
 date: 2010-01-28 23:31:01
-category: code
+
 slug: kitware-developer-blog-launched
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![CMake - cross-platform build system](/images/logos/cmake-logo.png)](http://www.cmake.org/)A few minutes ago, [Bill Hoffman](http://mateusz.loskot.net/?p=1660) from [Kitware](http://www.kitware.com/) posted short message to the [CMake](http://www.cmake.org) project mailing list with an interesting announce:

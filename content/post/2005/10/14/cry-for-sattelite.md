@@ -2,7 +2,7 @@
 date: 2005-10-14 07:53:02
 slug: cry-for-sattelite
 title: Cry for Sattelite!
-category: code
+
 ---
 
 BBC announced that [European satellite presumed lost](http://news.bbc.co.uk/1/hi/sci/tech/4323250.stm). 

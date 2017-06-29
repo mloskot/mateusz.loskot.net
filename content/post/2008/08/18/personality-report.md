@@ -2,7 +2,7 @@
 date: 2008-08-18 23:03:17
 slug: personality-report
 title: Personality Report
-categories: life
+categories: [ "code" ]
 ---
 
 It's time to take a look [in the mirror](http://www.brainbench.com) and bare all the devilish traits of my exhibitionistic ;-) personality.

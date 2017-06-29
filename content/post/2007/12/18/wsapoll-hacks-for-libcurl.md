@@ -2,7 +2,7 @@
 date: 2007-12-18 07:11:12
 slug: wsapoll-hacks-for-libcurl
 title: WSAPoll hacks for libcurl
-categories: programming
+categories: [ "code" ]
   c++,visual studio,windows
 ---
 

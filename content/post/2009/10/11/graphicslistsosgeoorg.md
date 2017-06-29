@@ -2,7 +2,7 @@
 date: 2009-10-11 20:01:14
 slug: graphicslistsosgeoorg
 title: graphics@lists.osgeo.org
-categories: open source
+categories: [ "code" ]
 ---
 
 [Robert Szczepanek](http://robert.szczepanek.pl/) [initiated](http://trac.osgeo.org/osgeo/ticket/493) a new public mailing list that has just been added to the stack at the [OSGeo](http://osgeo.org/) [mailing lists server](http://lists.osgeo.org/) - [graphics@lists.osgeo.org](http://lists.osgeo.org/mailman/listinfo/graphics):

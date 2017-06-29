@@ -2,7 +2,7 @@
 date: 2005-09-25 12:21:45
 slug: ubuntu-launchpad-explained
 title: Ubuntu Launchpad explained
-category: code
+
 ---
 
 About week ago I joined to  [Ubuntu Polish Translators](https://launchpad.net/people/ubuntu-l10n-pl). 

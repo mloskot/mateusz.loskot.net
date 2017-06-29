@@ -2,7 +2,7 @@
 date: 2009-10-13 22:03:50
 slug: always-use-proper-cpp-integer-types
 title: Always use proper C++ integer types
-categories: programming
+categories: [ "code" ]
 ---
 
 When programming  in[ C++](http://en.wikipedia.org/wiki/C%2B%2B), it's a good idea to use proper integer types relevant to particular context. A little bit of strictness always pays back. It's not uncommon to see a tendency to ignore the integral types defined as specific to standard containers, namely [size_type](http://www.dinkumware.com/manuals/?manual=compleat&Search=string&page=string2.html#basic_string::size_type). It's available for number of standard container like `std::string` or `std::vector`. Such ignorance may get its revenge easily.

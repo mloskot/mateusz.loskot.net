@@ -2,7 +2,7 @@
 date: 2007-02-13 17:25:35
 slug: agony-of-my-windows-box
 title: Agony of my Windows box
-categories: none
+categories: [ "code" ]
 ---
 
 [![Dell twins](http://mateusz.loskot.net/gallery/_gallery_albums_store/dell/dell_twins_5.thumb.jpg)](http://mateusz.loskot.net/gallery/dell/dell_twins_5) For last 2 weeks, I've been observing a slow agony of my desktop machine running [Windows XP](http://en.wikipedia.org/wiki/Windows_XP) - random restarts and freezes, [BIOS](http://en.wikipedia.org/wiki/BIOS) settings resetting on every boot, etc. In Friday, these problems entered the final stage. In Sunday, my machine was dead.

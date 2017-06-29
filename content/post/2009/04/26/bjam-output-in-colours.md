@@ -2,7 +2,7 @@
 date: 2009-04-26 20:58:31
 slug: bjam-output-in-colours
 title: bjam output in colours
-categories: programming
+categories: [ "code" ]
 ---
 
 Recently, I've been heavily using [Boost Build](http://www.boost.org/doc/tools/build/index.html) and [bjam](http://www.boost.org/doc/tools/build/doc/html/jam/usage.html) utility for building [GGL](http://mateusz.loskot.net/?p=399) library tests on Linux, so I developed a small tool that makes it easier to visually recognize compilation output by printing bjam messages in colours.

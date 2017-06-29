@@ -1,9 +1,9 @@
 ---
 title: parallel_sort crashes on Ubuntu 9.10
 date: 2010-02-20 03:44:22
-category: code
+
 slug: parallel_sort-crashes-on-ubuntu-9-10
-categories: programming
+categories: [ "code" ]
 ---
 
 I've started to experiment with the [Intel Threading Building Blocks](http://www.threadingbuildingblocks.org/) and hit a wall trying to run a very simple example:

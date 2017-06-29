@@ -2,7 +2,7 @@
 date: 2006-07-27 08:21:01
 slug: geos-has-moved-to-subversion
 title: GEOS has moved to Subversion
-categories: none
+categories: [ "code" ]
 ---
 
 Yesterday, Paul Ramsey from [Refractions Research](http://www.refractions.net) [announced](http://geos.refractions.net/pipermail/geos-devel/2006-July/002477.html) that [GEOS](http://geos.refractions.net) project has moved to [Subversion](http://subversion.tigris.org) repository.

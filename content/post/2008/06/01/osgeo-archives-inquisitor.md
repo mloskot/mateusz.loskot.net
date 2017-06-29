@@ -2,7 +2,7 @@
 date: 2008-06-01 19:32:48
 slug: osgeo-archives-inquisitor
 title: OSGeo archives inquisitor
-categories: open source
+categories: [ "code" ]
 ---
 
 All OSGeo mailing lists are managed by [GNU Mailman](http://www.gnu.org/software/mailman/). Mailman is a great piece of software but it lacks of user friendly search engine. In order to search, for instance, [gdal-dev archives](http://lists.osgeo.org/pipermail/gdal-dev/) I usually feed Google with a query like this:

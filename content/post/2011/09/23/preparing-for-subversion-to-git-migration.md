@@ -1,9 +1,9 @@
 ---
 title: Preparing for Subversion to Git migration
 date: 2011-09-23 02:01:24
-category: code
+
 slug: preparing-for-subversion-to-git-migration
-categories: programming
+categories: [ "code" ]
 ---
 
 [GEOS](http://trac.osgeo.org/geos/) is slowly [moving to Git](http://lists.osgeo.org/pipermail/geos-devel/2011-September/005455.html), so I decided to clear the Subversion specific settings, namely the svn:keywords. The procedure is quick and based on the commands I used to perform [bulk svn:keywords property update](http://mateusz.loskot.net/?p=168).

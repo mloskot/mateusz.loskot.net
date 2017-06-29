@@ -2,7 +2,7 @@
 date: 2005-11-08 07:56:41
 slug: jestes-prawie-srednio-szary
 title: Jesteś prawie średnio szary
-categories: life
+categories: [ "code" ]
 ---
 
 No kruca fuks Ĺadnie, no piÄknie jak jasna...taki klops na poczÄ

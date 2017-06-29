@@ -2,7 +2,7 @@
 date: 2007-11-26 07:45:49
 slug: geos-300rc4-and-visual-c
 title: GEOS 3.0.0rc4 and Visual C++
-categories: open source,programming
+categories: [ "code" ]
   studio
 ---
 

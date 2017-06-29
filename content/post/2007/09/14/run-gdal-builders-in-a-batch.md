@@ -2,7 +2,7 @@
 date: 2007-09-14 06:20:40
 slug: run-gdal-builders-in-a-batch
 title: Run GDAL builders in a batch
-categories: programming
+categories: [ "code" ]
 ---
 
 In my daily work, I have to run [GDAL builders](http://buildbot.osgeo.org:8500/) very often and simultaneously. Each time I need to request new builds, I have to make 20-30 clicks. So, when it's third or fifth round of building, every click hurts :) and here comes the genius of Python language.

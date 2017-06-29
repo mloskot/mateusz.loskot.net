@@ -2,7 +2,7 @@
 date: 2008-09-28 02:02:58
 slug: foss4g2008-i-cant-make-it
 title: FOSS4G 2008, I can't make it
-categories: open source
+categories: [ "code" ]
   source,presentation,programming,project,south africa,warmerdam,workshop
 ---
 

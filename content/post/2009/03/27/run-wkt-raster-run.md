@@ -2,7 +2,7 @@
 date: 2009-03-27 19:39:55
 slug: run-wkt-raster-run
 title: Run WKT Raster, run!
-categories: none
+categories: [ "code" ]
 ---
 
 I have a **not-so-small** [GeoTIFF](http://trac.osgeo.org/geotiff/) raster dataset. Here is what [GDAL](http://gdal.org/) has to say about it:

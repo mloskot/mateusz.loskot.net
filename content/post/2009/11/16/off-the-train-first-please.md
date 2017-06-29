@@ -2,7 +2,7 @@
 date: 2009-11-16 22:25:38
 slug: off-the-train-first-please
 title: Off the train first, please
-categories: life
+categories: [ "code" ]
 ---
 
 [Michael McIntyre](http://www.michaelmcintyre.co.uk/):

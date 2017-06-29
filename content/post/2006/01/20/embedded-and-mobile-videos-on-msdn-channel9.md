@@ -2,7 +2,7 @@
 date: 2006-01-20 08:28:55
 slug: embedded-and-mobile-videos-on-msdn-channel9
 title: Embedded and Mobile Videos on MSDN Channel9
-categories: programming
+categories: [ "code" ]
 ---
 
 
@@ -16,7 +16,7 @@ categories: programming
 Mike announces new **Chris Muench video** which currently is in the MSDN Channel 9 queue:
 
 
-> I was talking with Chris Muench from Siemens a few days ago, we recorded a video for MSDN Channel 9 on Direct3D programming - one of the comments Chris makes in the video is how "new" developers are only being taught the higher level development languages (Java/C#/VB) without knowing lower level languages which bring you closer to the hardware and also help you better understand what's happening in the system. 
+> I was talking with Chris Muench from Siemens a few days ago, we recorded a video for MSDN Channel 9 on Direct3D programming - one of the comments Chris makes in the video is how "new" developers are only being taught the higher level development languages (Java/C#/VB) without knowing lower level languages which bring you closer to the hardware and also help you better understand what's happening in the system.
 
 
 

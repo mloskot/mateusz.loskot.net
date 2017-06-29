@@ -2,7 +2,7 @@
 date: 2006-01-29 03:16:51
 slug: pyepsglookup-released
 title: PyEPSGLookup released!
-categories: programming
+categories: [ "code" ]
 ---
 
 Today, I released my new Python module:

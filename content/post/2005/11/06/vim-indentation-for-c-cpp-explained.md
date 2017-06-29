@@ -2,7 +2,7 @@
 date: 2005-11-06 07:01:48
 slug: vim-indentation-for-c-cpp-explained
 title: Vim indentation for C/C++ explained
-category: code
+
 ---
 
 ![Vim logo](/images/logos/vim-logo.gif)In today's early morning post, I'm going give a short crash course about [Vim](http://www.vim.org) settings for [indentation](http://en.wikipedia.org/wiki/Indentation). Every [programmer](http://en.wikipedia.org/wiki/Programmer) knows how source code indentation important is. There is no discussion about it. Vim, my favourite text editor, provides programmer with rich indetation features set. You can customize almost all aspects of code formating. So, let's see what kind of indentation features Vim provides and how they affect indentation.

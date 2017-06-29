@@ -2,7 +2,7 @@
 date: 2006-08-15 05:34:50
 slug: irans-president-blog-powered-by-microsoft
 title: Iran's President Blog Powered by Microsoft ,-)
-categories: life
+categories: [ "code" ]
 ---
 
 I'm not a politics fun at all and when I launched this website I decided to not to talk about politics here. However yet, I can't abstain from post something funny, or may be sad. You will judge if you want.

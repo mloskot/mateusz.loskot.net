@@ -2,7 +2,7 @@
 date: 2009-10-02 13:45:07
 slug: goodbye-twitter
 title: Goodbye, Twitter!
-categories: life
+categories: [ "code" ]
 ---
 
 After [231 days, 1 hour, 20 minutes and 51 seconds](/?p=289), mloskot <del>computer</del> says goodbye to [Twitter](http://twitter.com/mloskot):

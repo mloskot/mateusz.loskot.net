@@ -2,7 +2,7 @@
 date: 2006-08-29 12:07:52
 slug: new-edition-of-atl-internals-book
 title: New edition of ATL Internals book
-categories: programming
+categories: [ "code" ]
 ---
 
 [![ATL Internals cover image](http://www.informit.com/ShowCover.asp?isbn=0321159624&type=c)](http://www.informit.com/bookstore/product.asp?isbn=0321159624)Every programmer using [ATL](http://en.wikipedia.org/wiki/Active_Template_Library) and [WTL](http://en.wikipedia.org/wiki/Windows_Template_Library) knows that [ATL Internals](http://www.informit.com/bookstore/product.asp?isbn=0321159624) is a must-read book providing comprehensive background information about [ATL](http://msdn.microsoft.com/library/default.asp?url=/library/en-us/vccore/html/_atl_ATL_Article_Overview.asp).

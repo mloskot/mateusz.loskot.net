@@ -1,9 +1,9 @@
 ---
 title: Microsoft Announces SQL Server ODBC Driver for Linux!
 date: 2011-10-28 13:48:59
-category: code
+
 slug: microsoft-announces-sql-server-odbc-driver-for-linux
-categories: life,open source
+categories: [ "code" ]
 ---
 
 Thanks to my, hopefully, open minded attitude, I sometimes let myself to dive into _unknown_ with honest hope to find _unexpected_.

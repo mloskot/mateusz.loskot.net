@@ -2,7 +2,7 @@
 date: 2009-10-25 14:06:02
 slug: como-adventures-with-boost-cstdint-hpp
 title: como adventures with boost/cstdint.hpp
-categories: programming
+categories: [ "code" ]
 ---
 
 While compiling a program that uses [boost/cstdint.hpp](http://www.boost.org/doc/libs/release/libs/integer/cstdint.htm) from [Boost Integer Library](http://www.boost.org/doc/libs/release/libs/integer/index.html):

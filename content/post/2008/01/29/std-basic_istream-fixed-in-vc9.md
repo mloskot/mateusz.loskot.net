@@ -2,7 +2,7 @@
 date: 2008-01-29 03:55:28
 slug: std-basic_istream-fixed-in-vc9
 title: std::basic_istream fixed in VC++ 9.0
-categories: programming
+categories: [ "code" ]
   c++,visual studio
 ---
 

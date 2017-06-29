@@ -2,7 +2,7 @@
 date: 2009-08-29 13:42:17
 slug: liblas-moved-to-new-repository
 title: libLAS moved to new repository
-categories: none
+categories: [ "code" ]
 ---
 
 [![libLAS - ASPRS LiDAR data translation toolset](http://liblas.org/chrome/site/liblaslogo.png)](http://liblas.org/) Hobu [proposed motion](http://lists.osgeo.org/pipermail/liblas-devel/2009-August/000587.html) to migrate libLAS source code repository from [Subversion](http://subversion.tigris.org/) to [Mercurial](http://mercurial.selenic.com/wiki/). The motion has been approved and Hobu [completed](http://lists.osgeo.org/pipermail/liblas-devel/2009-August/000590.html) the mgration.

@@ -2,7 +2,7 @@
 date: 2008-05-09 12:29:25
 slug: postgis-provider-for-fdo-update
 title: PostGIS provider for FDO update
-categories: open source
+categories: [ "code" ]
 ---
 
 During last weeks, a lot of fresh bits have been contributed to the [PostGIS](http://postgis.refractions.net/) provider for [FDO](http://fdo.osgeo.org/) Open Source. The great part of this work was committed by Bruno Scott and his colleagues. Bruno has recently [joined the FDO development team](http://lists.osgeo.org/pipermail/fdo-internals/2008-April/002069.html). I'd like to express _my deep gratitude_ to Bruno for his _fantastic help_ in improving the PostGIS provider. The provider has got better shape and stability.

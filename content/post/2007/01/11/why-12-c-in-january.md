@@ -2,7 +2,7 @@
 date: 2007-01-11 06:33:12
 slug: why-12-c-in-january
 title: Why +12 C in January?
-categories: none
+categories: [ "code" ]
 ---
 
 

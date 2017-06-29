@@ -2,7 +2,7 @@
 date: 2008-08-23 05:29:44
 slug: geourlinfo-is-down
 title: geourl.info is down
-categories: none
+categories: [ "code" ]
 ---
 
 Front page of [http://geourl.info](http://geourl.info/) has been welcoming visitors with _Offline_ message for a few days. Anyone has an idea what's going on with the [geourl.info](http://geourl.info/) service?

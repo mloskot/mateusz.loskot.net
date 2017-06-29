@@ -1,9 +1,9 @@
 ---
 title: Boost.GIL IO and Toolbox extensions accepted into Boost
 date: 2011-01-27 21:43:06
-category: code
+
 slug: boost-gil-io-and-toolbox-extensions-accepted-into-boost
-categories: programming
+categories: [ "code" ]
 ---
 
 I have just [announced](http://lists.boost.org/boost-announce/2011/01/0281.php) results of the [formal review](/?p=2131) of **IO** and **Toolbox** extensions for [Boost Generic Image Library](http://boost.org/doc/libs/release/libs/gil/doc/index.html) (GIL). Shortly, formally, the review concluded with 1 NO and 7 YES votes what means both extensions have been accepted into [Boost C++ Libraries](http://boost.org/libs/).

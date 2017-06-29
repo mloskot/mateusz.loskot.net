@@ -2,7 +2,7 @@
 date: 2009-09-05 18:18:44
 slug: productive-saturday-climbing
 title: Productive Saturday Climbing
-categories: climbing,life,programming
+categories: [ "code" ]
   source,pantera,pointer,programming,project,reference,shared_ptr,smart pointer,value,value
   object
 ---

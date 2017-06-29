@@ -2,7 +2,7 @@
 date: 2008-07-29 16:18:45
 slug: libgeotiff-125
 title: libgeotiff 1.2.5
-categories: none
+categories: [ "code" ]
 ---
 
 libgeotiff 1.2.5 has been released.

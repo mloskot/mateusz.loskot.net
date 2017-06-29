@@ -2,7 +2,7 @@
 date: 2012-02-15
 title: PostGIS Raster regular blocking explained
 description: Notes on PostGIS Raster specification of regular blocking
-category: code
+
 ---
 
 I have been involved in PostGIS Raster development for almost four years now,

@@ -2,7 +2,7 @@
 date: 2009-08-21 17:40:25
 slug: mac-pro-collocation-wanted
 title: Mac Pro collocation wanted
-categories: life,open source
+categories: [ "code" ]
   pro,open source,openstreetmap,osm,request,uk,woodcrest,workstation,xeon
 ---
 

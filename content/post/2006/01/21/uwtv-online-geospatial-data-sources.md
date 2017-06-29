@@ -2,7 +2,7 @@
 date: 2006-01-21 19:45:03
 slug: uwtv-online-geospatial-data-sources
 title: 'UWTV: Online Geospatial Data Sources'
-categories: none
+categories: [ "code" ]
 ---
 
 

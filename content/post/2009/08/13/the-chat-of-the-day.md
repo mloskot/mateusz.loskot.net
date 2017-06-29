@@ -2,7 +2,7 @@
 date: 2009-08-13 13:10:13
 slug: the-chat-of-the-day
 title: The chat of the day
-categories: life,programming
+categories: [ "code" ]
 ---
 
 From today's [ACCU](http://accu.org/) diary:

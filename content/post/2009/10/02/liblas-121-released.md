@@ -2,7 +2,7 @@
 date: 2009-10-02 19:29:05
 slug: liblas-121-released
 title: libLAS 1.2.1 Released
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![libLAS - ASPRS LiDAR data translation toolset](/images/logos/liblas-logo.png)](http://liblas.org/) Howard just posted [announcement](http://lists.osgeo.org/pipermail/liblas-devel/2009-October/000647.html) about patch of [libLAS 1.2.1](http://liblas.org/wiki/1.2.1) release.

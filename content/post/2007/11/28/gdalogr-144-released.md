@@ -3,7 +3,7 @@ date: 2007-11-28 07:27:03
 slug: gdalogr-144-released
 title: GDAL/OGR 1.4.4 Released
 description: Announcement about new release of GDAL
-categories: open source
+categories: [ "code" ]
 ---
 
 Today [hot news](http://lists.osgeo.org/pipermail/gdal-dev/2007-November/015054.html) from GDAL mailing list:  

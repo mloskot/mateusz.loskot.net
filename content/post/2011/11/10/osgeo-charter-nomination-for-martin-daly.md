@@ -1,9 +1,9 @@
 ---
 title: OSGeo Charter Nomination for Martin Daly
 date: 2011-11-10 13:22:18
-category: code
+
 slug: osgeo-charter-nomination-for-martin-daly
-categories: open source
+categories: [ "code" ]
 ---
 
 [This month](http://www.osgeo.org/node/1244), OSGeo Foundation is conducting annual election of new [OSGeo Charter Members](http://www.osgeo.org/charter_members).

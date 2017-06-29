@@ -2,7 +2,7 @@
 date: 2007-03-14 17:46:56
 slug: dell-is-learning-linux
 title: Dell is learning Linux
-categories: none
+categories: [ "code" ]
 ---
 
 [![Designed For Linux Icon under GPL](/images/logos/designed_for_linux_logo.png)/>](http://www.kde-files.org/content/show.php?content=50908)Recently, it's been quite loudly about Dell plans related to Linux operating system. First, we were told that [Pre-Installed Linux On Dells are Coming](http://linux.slashdot.org/article.pl?sid=07/02/25/2110219). This message made happy every fun of Dell laptops, including me.

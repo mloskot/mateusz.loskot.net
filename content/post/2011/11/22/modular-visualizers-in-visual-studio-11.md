@@ -1,9 +1,9 @@
 ---
 title: Modular visualizers in Visual Studio 11
 date: 2011-11-22 00:58:34
-category: code
+
 slug: modular-visualizers-in-visual-studio-11
-categories: programming
+categories: [ "code" ]
 ---
 
 Previously, I talked about the new 

@@ -2,7 +2,7 @@
 date: 2006-02-21 23:44:34
 slug: gdalogr-for-windows-ce
 title: GDAL/OGR for Windows CE
-categories: none
+categories: [ "code" ]
 ---
 
 ![GDAL Icon](http://www.gdal.org/gdalicon.png)After 22 weeks ;-) of the [initial post](http://thread.gmane.org/gmane.comp.gis.gdal.devel/5025) I'm [very glad to announce](http://thread.gmane.org/gmane.comp.gis.gdal.devel/6616) the first release of [GDAL/OGR](http://www.gdal.org) port for [Windows CE](http://en.wikipedia.org/wiki/Windows_CE).

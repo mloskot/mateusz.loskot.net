@@ -2,7 +2,7 @@
 date: 2009-10-06 20:30:50
 slug: postgis-empty
 title: ST_PostGIS(EMPTY)  => ?
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 ![PostGIS spatial database extension for PostgreSQL](/images/logos/postgis-globe-logo.gif) Having problems with understanding semantic of [EMPTY](http://postgis.org/documentation/manual-1.4/ST_IsEmpty.html) geometry?

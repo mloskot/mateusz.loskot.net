@@ -2,7 +2,7 @@
 date: 2008-05-30 23:45:34
 slug: opengeology
 title: OpenGeology.pl
-categories: open source
+categories: [ "code" ]
 ---
 
 [![](/images/logos/opengeology-pl-logo.gif)](http://opengeology.pl/)From time to time, Google helps me to find and get new _treasures_ laying deep on the Internet. Today, it dug out [OpenGeology.pl](http://opengeology.pl/) website. Apparently, it has been launched quite recently and Google [reports](http://www.google.com/search?q=opengeology.pl) very few references about it. Because it's mostly in Polish language and English version is incomplete, I will give a short overview of it here. So, what is this website about?

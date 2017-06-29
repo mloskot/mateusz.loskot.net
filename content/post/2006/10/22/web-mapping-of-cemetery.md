@@ -2,7 +2,7 @@
 date: 2006-10-22 00:16:18
 slug: web-mapping-of-cemetery
 title: Web mapping of cemetery
-categories: none
+categories: [ "code" ]
 ---
 
 Today, I found an innovative or even surprising example of [web mapping](http://www.oreilly.com/catalog/webmapping/) use. On the website of [Cemeteries in Szczecin](http://cmentarze.szczecin.pl), there is an example of how web mapping technologies can be used to map cemetery. Unfortunately, the website is in [Polish langauge](http://en.wikipedia.org/wiki/Polish_language) only but I believe using maps is pretty language-less.

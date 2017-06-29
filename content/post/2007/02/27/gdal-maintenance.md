@@ -2,7 +2,7 @@
 date: 2007-02-27 22:25:13
 slug: gdal-maintenance
 title: GDAL maintenance
-categories: life
+categories: [ "code" ]
 ---
 
 [![GDAL logo](/images/logos/gdal-logo.png)](http://www.gdal.org/)[Frank Warmerdam](http://home.gdal.org/~warmerda/) announced on the [OSGeo](http://www.osgeo.org) website, in the [GDAL Project Maintainer Contracted](http://www.osgeo.org/node/278) news, that I've started _general GDAL maintenance and support activities_. In fact, it will be a continuation, because I have been involved in [GDAL](http://www.gdal.org/) project since March 2006, or a bit longer.

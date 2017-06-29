@@ -3,8 +3,8 @@ date: 2008-02-12 19:44:06
 slug: the-cascadoss-project
 title: The Cascadoss Project
 description: Short overivew of Cascadoss initiative and upcoming events
-categories: open source
-category: code
+categories: [ "code" ]
+
 ---
 
 ![Cascados Logo](/images/logos/cascados-logo.png)In this post, I'm going to spread a word about the [Cascados](http://www.cascadoss.eu/) project. The project is founded by the [European Commission](http://en.wikipedia.org/wiki/European_Commission) in frame of the [Sixth Framework Programme](http://ec.europa.eu/research/fp6/index_en.cfm) and is focused on development of _a trans-national cascade training programme on **Open Source GIS** & Remote Sensing software for environmental applications_. The **Cascados** project is formed by a number of [partners](http://www.cascadoss.eu/en/index.php?option=com_content&task=view&id=3&Itemid=4) from Belgium, Czech Republic, Hungary and Poland.  More detailed information can be found on the project website (multilingual) recently launched at the [http://cascadoss.eu/](http://cascadoss.eu/)

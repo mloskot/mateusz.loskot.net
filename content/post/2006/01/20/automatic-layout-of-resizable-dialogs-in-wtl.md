@@ -2,7 +2,7 @@
 date: 2006-01-20 11:14:33
 slug: automatic-layout-of-resizable-dialogs-in-wtl
 title: Automatic Layout of Resizable Dialogs in WTL
-categories: none
+categories: [ "code" ]
 ---
 
 

@@ -1,9 +1,9 @@
 ---
 title: Using Git with GDAL repository
 date: 2010-02-13 22:15:26
-category: code
+
 slug: using-git-with-gdal-repository
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 I have mirrored Subversion [trunk](http://svn.osgeo.org/gdal/trunk/) of GDAL repository on [Gitorious](http://gitorious.org/) -  a free hosting for collaborating on distributed open source projects. It is available as [svn-trunk](http://gitorious.org/gdal/svn-trunk) repository of [gdal](http://gitorious.org/gdal/) project.

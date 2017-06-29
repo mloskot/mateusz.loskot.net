@@ -2,7 +2,7 @@
 date: 2006-01-24 21:45:42
 slug: yet-another-trap-in-the-evc-compiler
 title: Yet another trap in the eVC++ compiler
-categories: programming
+categories: [ "code" ]
 ---
 
 

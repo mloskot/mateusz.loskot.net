@@ -2,7 +2,7 @@
 date: 2006-07-01 10:32:23
 slug: update-of-geos-project-for-vc-2005
 title: Update of GEOS project for VC++ 2005
-categories: programming
+categories: [ "code" ]
   c++,visual studio
 ---
 

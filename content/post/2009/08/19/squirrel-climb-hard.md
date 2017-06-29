@@ -2,7 +2,7 @@
 date: 2009-08-19 17:01:52
 slug: squirrel-climb-hard
 title: Squirrel, climb hard!
-categories: climbing,life
+categories: [ "code" ]
   kingdom
 ---
 

@@ -2,7 +2,7 @@
 date: 2007-10-28 18:57:20
 slug: gdal-143-rc2
 title: GDAL 1.4.3 RC2
-categories: open source
+categories: [ "code" ]
 ---
 
 This is **very important update** to the _GDAL 1.4.3 Release Candidate 1_ published yesterday. I **screwed** and generated GDAL 1.4.3 RC1 packages with sources from **trunk**, so users found it surprising when they encountered a bunch of new features and drivers. On the other hand, it was a pre-announcement of the GDAL 1.5.0 release :-P

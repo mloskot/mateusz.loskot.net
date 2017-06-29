@@ -2,7 +2,7 @@
 title: Hakyll posts in folders
 description: Switched file-based posts to folder-based
 date: 2012-12-15
-category: code
+
 ---
 
 I applied another quick improvement to my [Hakyll](http://jaspervdj.be/hakyll/)

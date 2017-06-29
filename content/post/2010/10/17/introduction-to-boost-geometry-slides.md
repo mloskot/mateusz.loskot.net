@@ -1,9 +1,9 @@
 ---
 title: Introduction to Boost Geometry slides
 date: 2010-10-17 00:04:05
-category: code
+
 slug: introduction-to-boost-geometry-slides
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![Boost Geometry (aka Generic Geometry Library, GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)Slides of my very gentle [introduction](/?p=2064) to [Boost Geometry](http://trac.osgeo.org/ggl/) library are now available to [download](http://2010.foss4g.org/presentations_show.php?id=3785) from the [FOSS4G 2010](http://2010.foss4g.org/) website.

@@ -2,7 +2,7 @@
 date: 2009-07-18 00:44:43
 slug: do-what-you-love
 title: Do what you love...
-categories: life
+categories: [ "code" ]
 ---
 
 Philosophy of the <del>day</del> year:

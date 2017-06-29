@@ -1,9 +1,9 @@
 ---
 title: Where is my donut?
 date: 2010-03-14 03:56:31
-category: code
+
 slug: where-is-my-donut
-categories: none
+categories: [ "code" ]
 ---
 
 I'm reading [Darren's](http://darrencope.com/) post about [The Geography of Tim Hortons](http://darrencope.com/2010/03/11/the-geography-of-tim-hortons/). It's interesting. It's fun. The geospatial-enabled fast food consumption seems to be well aligned with the recent prophecies about [what's lucrative now](http://twitter.com/timoreilly/status/10186975174), apart from donuts. It could be interesting to compare the Hortons' trend with country-level version of [this map](http://thestar.blogs.com/maps/2009/08/map-of-the-week-obesity.html). Perhaps, [ST_Overlaps](http://postgis.org/documentation/manual-svn/ST_Overlaps.html) would return false, but [ST_Intersection](http://postgis.org/documentation/manual-svn/ST_Intersection.html) would likely return a pretty large geometry.

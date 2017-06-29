@@ -2,7 +2,7 @@
 date: 2009-06-20 14:27:10
 slug: osgeo-tribulum
 title: OSGeo Tribulum
-categories: life,open source
+categories: [ "code" ]
   back,philosophy,projects,question,responsibility,sponsorship,thoughts
 ---
 

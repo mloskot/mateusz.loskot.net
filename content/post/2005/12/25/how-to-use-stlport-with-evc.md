@@ -2,7 +2,7 @@
 date: 2005-12-25 03:57:58
 slug: how-to-use-stlport-with-evc
 title: How to use STLport with eVC++
-category: code
+
 ---
 
 ![STLport Logo](/images/logos/stlport-logo.gif)Today, I published my first article on the [Pocket PC Developer Network](http://www.pocketpcdn.com).

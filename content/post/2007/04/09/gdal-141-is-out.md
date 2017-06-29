@@ -2,7 +2,7 @@
 date: 2007-04-09 19:26:40
 slug: gdal-141-is-out
 title: GDAL 1.4.1 is out
-categories: open source
+categories: [ "code" ]
 ---
 
 [![GDAL logo](/images/logos/gdal-logo.png)](http://www.gdal.org/)Today, [Frank released](http://lists.osgeo.org/pipermail/gdal-announce/2007-April/000005.html) new stable version of GDAL 1.4.1. This new release includes fixes and improvements only, but no new features comparing to version 1.4.0.

@@ -2,7 +2,7 @@
 date: 2013-04-13T01:30:00Z
 title: SOCI 3.2.1 released
 description: Announcement of new version of SOCI library
-category: code
+
 ---
 
 A few weeks after [SOCI 3.2.0 release](/posts/2013/03/26/soci-3-2-0-released/),

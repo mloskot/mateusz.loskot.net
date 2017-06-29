@@ -2,7 +2,7 @@
 date: 2009-04-12 13:21:47
 slug: generic-geometry-library
 title: Generic Geometry Library
-categories: open source,programming
+categories: [ "code" ]
   source,polymorphism,project,static,std,template
 ---
 

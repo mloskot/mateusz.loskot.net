@@ -2,7 +2,7 @@
 date: 2008-07-28 22:03:56
 slug: word-of-the-day
 title: Word of the day
-categories: life,open source
+categories: [ "code" ]
 ---
 
 mloskot says [Cuil](http://www.cuil.com/)

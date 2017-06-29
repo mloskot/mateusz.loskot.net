@@ -2,7 +2,7 @@
 date: 2009-10-25 01:25:58
 slug: testing-liblas-with-cmake
 title: Testing libLAS with CMake
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![libLAS - ASPRS LiDAR data translation toolset](/images/logos/liblas-logo.png)](http://liblas.org/) As a part of [CMake configuration for libLAS](http://liblas.org/ticket/52), I've enabled support CTest. It is CMake test driver program that can be used to run automated tests and perform continuous integration. I also registered [libLAS](http://liblas.org) at [CDash](http://my.cdash.org/) testing server.

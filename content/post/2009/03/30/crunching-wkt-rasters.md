@@ -2,7 +2,7 @@
 date: 2009-03-30 22:55:37
 slug: crunching-wkt-rasters
 title: WKT Raster Cruncher
-categories: programming
+categories: [ "code" ]
   raster,wktraster
 ---
 

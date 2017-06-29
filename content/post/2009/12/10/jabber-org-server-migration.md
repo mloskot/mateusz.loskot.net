@@ -2,7 +2,7 @@
 date: 2009-12-10 23:34:14
 slug: jabber-org-server-migration
 title: jabber.org server migration
-categories: life
+categories: [ "code" ]
 ---
 
 ![Jabber.org](http://www.jabber.org/wp-content/themes/carrington-blog/images/logo.png) If you are user of the excellent [XMPP](http://xmpp.org/) service at jabber.org you may be interested in this [announcement](http://www.jabber.org/2009/12/server-migration-coming-soon/) - you should also [receive it](https://stpeter.im/index.php/2009/12/09/server-migration-update/) directly to your JID from [Peter Saint-Andre](https://stpeter.im/) - our precious [master of puppets](http://en.wikipedia.org/wiki/Master_of_Puppets):

@@ -1,9 +1,9 @@
 ---
 title: Python sys.stdout redirection in C++
 date: 2011-12-01 01:30:25
-category: code
+
 slug: python-sys-stdout-redirection-in-cpp
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 Lately, I have been [embedding Python interpreter](http://docs.python.org/py3k/extending/embedding.html) and implementing plenty of Python extensions in C++ using [plain C API](http://docs.python.org/py3k/c-api/index.html) provided by Python 3. One of common challenges at C/C++ level is to intercept output sent to `sys.stdout` or `sys.stderr` by Python functions like `print`. [Python Embedding/Extending FAQ](http://docs.python.org/py3k/faq/extending.html) suggests common solution based on Python code:

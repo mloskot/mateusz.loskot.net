@@ -2,7 +2,7 @@
 date: 2008-08-04 16:37:01
 slug: sanoodi-plays-openlayers
 title: Sanoodi plays OpenLayers
-categories: none
+categories: [ "code" ]
 ---
 
 Recently, I've been playing with [Sanoodi](http://sanoodi.com/) - _activity-based social networking website for participants in sports and leisure activities_. The idea of Sanoodi is very similar to [Sports Tracker](http://sportstracker.nokia.com) by Nokia.

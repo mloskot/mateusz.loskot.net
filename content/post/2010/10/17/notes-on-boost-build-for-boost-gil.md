@@ -1,9 +1,9 @@
 ---
 title: Notes on Boost.Build for Boost.GIL
 date: 2010-10-17 04:54:38
-category: code
+
 slug: notes-on-boost-build-for-boost-gil
-categories: programming
+categories: [ "code" ]
 ---
 
 **Update:** [Updating Boost.Build extensions](/?p=2113)

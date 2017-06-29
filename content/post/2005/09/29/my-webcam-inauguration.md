@@ -2,8 +2,8 @@
 date: 2005-09-29 07:37:43
 slug: my-webcam-inauguration
 title: My Webcam Inauguration
-categories: life
-category: code
+categories: [ "code" ]
+
 ---
 
 Today, I managed to put my webcam online. [Here](http://mateusz.loskot.net/webcam/) is the webcam page.

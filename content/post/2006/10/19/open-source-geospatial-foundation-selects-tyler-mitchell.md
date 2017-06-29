@@ -2,7 +2,7 @@
 date: 2006-10-19 17:14:39
 slug: open-source-geospatial-foundation-selects-tyler-mitchell
 title: Open Source Geospatial Foundation Selects Tyler Mitchell
-categories: none
+categories: [ "code" ]
 ---
 
 Five minutes ago, I received a great announcement saying the OSGeo hired Tyler Mitchell as an executive director:

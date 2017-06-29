@@ -2,7 +2,7 @@
 date: 2009-05-07 20:16:17
 slug: postgis-in-action
 title: PostGIS In Action
-categories: open source
+categories: [ "code" ]
 ---
 
 It really must be very hot and fresh news, so the virtual <del>devil</del> spirit of social networking hasn't fished it out yet and also Google (check [this](http://en.wikipedia.org/wiki/Google) if you haven't heard yet about this local family company) lists [less than 15 pages](http://www.google.com/search?q=%22PostGIS+in+Action%22).

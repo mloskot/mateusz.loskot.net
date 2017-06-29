@@ -2,7 +2,7 @@
 date: 2006-03-19 18:31:23
 slug: building-qt-4-with-visual-c-2005
 title: Building QT 4 with Visual C++ 2005
-categories: programming
+categories: [ "code" ]
 ---
 
 

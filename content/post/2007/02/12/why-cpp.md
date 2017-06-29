@@ -2,7 +2,7 @@
 date: 2007-02-12 22:22:41
 slug: why-cpp
 title: Why C++?
-categories: none
+categories: [ "code" ]
 ---
 
 Recently, [Piotr Wyderski](http://www.ii.uni.wroc.pl/~wyderski/) - a friend who I know virtually from the [pl.comp.lang.c](http://groups.google.com/group/pl.comp.lang.c) newsgroup - posted [a very nice summary](http://groups.google.pl/group/pl.comp.lang.c/browse_thread/thread/9e3d3e867243a7d3/21b4a03d282294e5#21b4a03d282294e5) aptly expressing _why I use C++ programming language_.

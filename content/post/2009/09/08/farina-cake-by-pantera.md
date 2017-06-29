@@ -2,7 +2,7 @@
 date: 2009-09-08 21:20:43
 slug: farina-cake-by-pantera
 title: Farina cake by Pantera
-categories: life
+categories: [ "code" ]
 ---
 
 This is recipe for delicious cake based on [Petit Beurre](http://en.wikipedia.org/wiki/Leibniz-Keks) biscuits and [farina](http://en.wikipedia.org/wiki/Farina_(food)). The recipe was originally invented by my love [Pantera](http://www.flickr.com/photos/mloskot/tags/pantera). So, let's make it [CC BY-SA](http://creativecommons.org/licenses/by-sa/3.0/) :-)

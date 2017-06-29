@@ -2,7 +2,7 @@
 date: 2008-08-22 11:31:57
 slug: cpp-concurrency-in-action
 title: C++ Concurrency in Action
-categories: programming
+categories: [ "code" ]
   1933988770,parallel,postgis,processing,programming,project,spatial,threading'
 ---
 

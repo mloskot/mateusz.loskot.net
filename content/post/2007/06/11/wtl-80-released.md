@@ -2,7 +2,7 @@
 date: 2007-06-11 17:25:24
 slug: wtl-80-released
 title: WTL 8.0 Released
-categories: programming
+categories: [ "code" ]
 ---
 
 Today, Nenad StefanoviÄ announced new release of [Windows Template Library](http://en.wikipedia.org/wiki/Windows_Template_Library) - the best robust GUI toolkit for all versions of Windows operating system, for C++ programmers:

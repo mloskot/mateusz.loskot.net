@@ -2,7 +2,7 @@
 date: 2009-03-23 23:05:18
 slug: postgis-svn-moved
 title: PostGIS SVN moved
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [Paul](http://www.cleverelephant.ca/) just [announced](http://postgis.refractions.net/pipermail/postgis-devel/2009-March/005284.html) that [Subversion](http://subversion.tigris.org/) repository of [PostGIS](http://postgis.refractions.net/) source code has moved to [OSGeo](http://www.osgeo.org) server. The new URL of SVN is: [http://svn.osgeo.org/postgis/](http://svn.osgeo.org/postgis/).

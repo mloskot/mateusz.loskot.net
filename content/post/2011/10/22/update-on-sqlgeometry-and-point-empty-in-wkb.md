@@ -1,10 +1,9 @@
 ---
 title: Update on SqlGeometry and POINT EMPTY in WKB
 date: 2011-10-22 23:41:46
-category: code
+
 slug: update-on-sqlgeometry-and-point-empty-in-wkb
-categories: open source,programming
-  server,wkb
+categories: [ "code" ]
 ---
 
 Long time ago I discussed about how [SqlGeometry handles POINT EMPTY in ](http://mateusz.loskot.net/?p=1914)[WKB](http://en.wikipedia.org/wiki/Well-known_text) format. The [SqlGeometry](http://msdn.microsoft.com/en-us/library/microsoft.sqlserver.types.sqlgeometry%28SQL.105%29.aspx) states the definition of OGC `GEOMETRY` type for Microsoft SQL Server. Shortly, the message was that SqlGeometry implicitly casts `POINT EMPTY` to `MULTIPOINT EMPTY` geometry when generating WKB output. [PostGIS](http://www.postgis.org) casts as well, but does it in a consistent way, in my opinion, outputting `GEOMETRYCOLLECTION`.
@@ -16,7 +15,7 @@ Following those findings, I assumed it is not quite correct, or I didn't like th
 Recently, I have received a couple of comments from Microsoft to my report. The comments are attached to the report linked above, but I paste them below for completeness and archive:
 
 
-> Our development team for the spatial data types tells me that it is not 
+> Our development team for the spatial data types tells me that it is not
 > possible to use a single value for the WKB format of any spatial data type.
 > For the POINT EMPTY, the WKB format does not allow empty points,
 > so we are outputting a MULTIPOINT with zero elements.

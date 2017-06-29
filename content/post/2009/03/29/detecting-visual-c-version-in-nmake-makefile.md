@@ -2,7 +2,7 @@
 date: 2009-03-29 20:12:17
 slug: detecting-visual-c-version-in-nmake-makefile
 title: Detecting Visual C++ version in NMAKE makefile
-categories: programming
+categories: [ "code" ]
   source,programming,project,spatial,version,visual c++,visual studio,windows,_MSC_VER,_NMAKE_VER
 ---
 

@@ -2,7 +2,7 @@
 date: 2007-12-18 00:12:25
 slug: building-libcurl-with-visual-c-2008
 title: Building libcurl with Visual C++ 2008
-categories: programming
+categories: [ "code" ]
   c++,visual studio,windows
 ---
 

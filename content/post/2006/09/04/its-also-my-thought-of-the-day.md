@@ -2,7 +2,7 @@
 date: 2006-09-04 21:09:35
 slug: its-also-my-thought-of-the-day
 title: It's also my thought of the day
-categories: life
+categories: [ "code" ]
 ---
 
 

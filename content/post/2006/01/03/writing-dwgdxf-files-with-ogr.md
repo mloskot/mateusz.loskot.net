@@ -2,7 +2,7 @@
 date: 2006-01-03 22:42:34
 slug: writing-dwgdxf-files-with-ogr
 title: Writing DWG/DXF files with OGR
-categories: none
+categories: [ "code" ]
 ---
 
 ![GDAL Icon](http://www.gdal.org/gdalicon.png)Today, [Frank Warmerdam](http://ww.gdal.org) announced about new [OGR](http://www.gdal.org/ogr/) **writing** driver for DWG and DXF files. Here is what Frank sent on the [gdal-dev@lists.maptools.org](http://lists.maptools.org/mailman/listinfo/gdal-dev/):

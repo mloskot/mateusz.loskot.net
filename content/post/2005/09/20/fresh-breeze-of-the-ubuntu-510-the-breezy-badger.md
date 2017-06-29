@@ -2,8 +2,8 @@
 date: 2005-09-20 16:39:09
 slug: fresh-breeze-of-the-ubuntu-510-the-breezy-badger
 title: Fresh breeze of the Ubuntu 5.10
-categories: none
-category: code
+categories: [ "code" ]
+
 ---
 
 About two weeks ago I got new laptop - Acer Aspire 5021. Nice gadget for fun and work. Because 3 months ago I moved from Debian to Ubuntu 5.04 _Hoary_ I decided to install Ubuntu on my new laptop too. Before Acer I used Aristo (ASUSTek-like) laptop. It was PIII 700MHz with 256+128 MB RAM. Not a rocket at all. On this Aristo FT-9550 I also run Slackware. I haven't said, but my first Linux distribution was Slackware - the beauty of simplicity. I stop using Slackware because of TGZ packages. I needed to have possibility to update my system frequently from the Net, that's why I felt in love with debs.
@@ -15,7 +15,7 @@ I downloaded [Ubuntu 5.10 (Breezy Badger) Preview](http://se.releases.ubuntu.com
 
 So, what am I gonna to do?
 There is still old-good Ubuntu Hoary CD in my desk - "Hoary" the Great please come and help.
-Shortly, I installed Ubuntu Hoary first. Then, after first boot, I edited ```/etc/apt/sources.list``` to 
+Shortly, I installed Ubuntu Hoary first. Then, after first boot, I edited ```/etc/apt/sources.list``` to
 use Breezy repositiories (the procedure is explained in the [Hoary 5.04 Guide](http://ubuntuguide.org)).
 Next, I executed well-known magic commands:
 

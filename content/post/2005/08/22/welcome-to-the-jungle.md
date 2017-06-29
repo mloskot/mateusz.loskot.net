@@ -2,7 +2,7 @@
 date: 2005-08-22 17:14:46
 slug: welcome-to-the-jungle
 title: Welcome to the Jungle!
-categories: life
+categories: [ "code" ]
 ---
 
 I lanuched my [website/blog](http://mateusz.loskot.net) about more than month ago, but I had had no time to put any content here. Tonight, I sat down and write a few chapters about me. If you are curious what I scribbled read [About](http://mateusz.loskot.net/about/) section.

@@ -2,7 +2,7 @@
 date: 2009-08-26 22:44:22
 slug: tortoise
 title: Tortoise*
-categories: life,programming
+categories: [ "code" ]
 ---
 
 After diversity of operating systems, diversity of versions of diversity of compilers and forks of forks of favourite...forks of projects, contributors to the [world](http://freeopensourcesoftware.org/) of [Free and Open Source Software](http://en.wikipedia.org/wiki/Free_and_open_source_software) got _Yet Another Nail in Their Asses_ (YANTA with [tm](http://en.wikipedia.org/wiki/Trademark) by [myself](http://www.flickr.com/photos/mloskot/3666098103/)). It is the variety of [revision control systems](http://en.wikipedia.org/wiki/Revision_Control_System) and their clients developers need to install to be able to do their job. In the past the choice was clear [CVS](http://en.wikipedia.org/wiki/Concurrent_Versions_System) and later [Subversion](http://en.wikipedia.org/wiki/Subversion_(software)).

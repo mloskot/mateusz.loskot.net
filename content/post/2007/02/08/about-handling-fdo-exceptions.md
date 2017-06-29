@@ -2,7 +2,7 @@
 date: 2007-02-08 18:36:16
 slug: about-handling-fdo-exceptions
 title: About handling FDO exceptions
-categories: none
+categories: [ "code" ]
 ---
 
 Every one who has played with [Feature Data Objects](http://fdo.osgeo.org/) (FDO) using C++ knows that FDO uses exceptions pretty intensively. Therefore, it's important to understand how to [handle exceptions](http://en.wikipedia.org/wiki/Exception_handling) thrown by FDO properly and effectively. A good introductory about exceptions handling can be found in [The FDO Developer's Guide](http://fdo.osgeo.org/documentation.html) document, under _Development Practices_ and _Exception Handling_ nodes. I'll focus on practical examples here.

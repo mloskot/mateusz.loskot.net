@@ -2,8 +2,7 @@
 date: 2006-01-05 23:05:41
 slug: blog-like-interface-to-wtl-list
 title: Blog-like interface to WTL list
-categories: programming
-  ce,wtl
+categories: [ "code" ]
 ---
 
 ![WTL Logo](/images/logos/wtl-logo.jpg)Today, I encoutered a very new for me Web gadget - [blog-like interaface](http://blog.gmane.org/gmane.comp.windows.wtl) to [wtl@yahoogroups.com](http://groups.yahoo.com/group/wtl) - [Windows Template Library](http://wtl.sourceforge.net) support list. It's really cool! It also provides [RSS feed](http://rss.gmane.org/gmane.comp.windows.wtl) to WTL list, so now I can add it as a channel to my [Thunderbird](http://www.thunderbird.pl) aggregator.

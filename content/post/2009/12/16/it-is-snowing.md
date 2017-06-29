@@ -2,7 +2,7 @@
 date: 2009-12-16 11:42:45
 slug: it-is-snowing
 title: It is snowing
-categories: life
+categories: [ "code" ]
 ---
 
 in London!

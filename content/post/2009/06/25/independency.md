@@ -2,7 +2,7 @@
 date: 2009-06-25 10:32:58
 slug: independency
 title: (in)dependency
-categories: life
+categories: [ "code" ]
 ---
 
 In times when independence is a deadly sin and in times of [Google-like NDA-ization](http://www.google.co.uk/search?q=google+nda) of nearly all professional activities of an individual...

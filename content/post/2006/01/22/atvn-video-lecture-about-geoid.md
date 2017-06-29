@@ -2,7 +2,7 @@
 date: 2006-01-22 22:02:25
 slug: atvn-video-lecture-about-geoid
 title: 'ATVN: Video lecture about Geoid'
-categories: none
+categories: [ "code" ]
 ---
 
 

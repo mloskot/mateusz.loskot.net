@@ -2,7 +2,7 @@
 date: 2009-10-10 22:46:38
 slug: the-myth-of-objectivity
 title: The Myth of Objectivity
-categories: life,open source
+categories: [ "code" ]
   feat,human,ignorance,linkedin,linkedin.com,myth,nature,objectivity,ogc,open source,philosophy,programming,rambling,religion,Shawn
   Owston,thoughts
 ---

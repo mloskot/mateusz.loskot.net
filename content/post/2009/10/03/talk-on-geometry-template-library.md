@@ -2,7 +2,7 @@
 date: 2009-10-03 23:56:54
 slug: talk-on-geometry-template-library
 title: Talk on Geometry Template Library
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 Another video from [BoostCon'09](http://www.boostcon.com/) conference. This time it is about the [Geometry Template Library](http://blip.tv/file/2540933) (GTL) for [STL-like](http://www.sgi.com/tech/stl/) 2D operations by Lucanus Simonson and Gyuszi Suto:

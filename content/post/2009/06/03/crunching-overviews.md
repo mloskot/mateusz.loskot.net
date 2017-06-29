@@ -2,7 +2,7 @@
 date: 2009-06-03 11:27:03
 slug: crunching-overviews
 title: Crunching overviews
-categories: none
+categories: [ "code" ]
   source,overviews,postgis,processing,programming,project,pyramid,raster,spatial,wktraster
 ---
 

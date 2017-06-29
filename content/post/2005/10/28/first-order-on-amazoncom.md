@@ -2,7 +2,7 @@
 date: 2005-10-28 04:39:54
 slug: first-order-on-amazoncom
 title: First order on Amazon.com
-category: code
+
 ---
 
 Three days ago I ordered two books on [Amazon.com](http://www.amazon.com). In 24 hours after I placed my order I got a message from Amazon with confirmation that my credit card has been authorized. Hurray! Amazon also confirmed _order has shipped_. Nice, isn't it. I said to my self: In two weeks you will smell your brand new books at home. But what's that? Amazon inform me in their message that **estimated delivery date: December 16, 2005**. Hm, how could it be - let me ask. Don't you have any aricrafts there, in USA?

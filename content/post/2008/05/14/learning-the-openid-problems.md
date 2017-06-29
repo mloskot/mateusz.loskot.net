@@ -2,7 +2,7 @@
 date: 2008-05-14 12:09:48
 slug: learning-the-openid-problems
 title: Learning the OpenID problems
-categories: none
+categories: [ "code" ]
 ---
 
 ![OpenID logo](/images/logos/openid-logo.png)Continuing [my recent discussion](/2008/05/11/openid-conquers-communities/) about [OpenID](http://openid.net/) and considering OpenID usage for authenticating to [OSGeo services](http://wiki.osgeo.org/wiki/OpenID), I wanted to make a short review of its disadvantages. The OpenID advantages are [well-known](http://en.wikipedia.org/wiki/OpenID) and can be described with a short statement:

@@ -2,7 +2,7 @@
 date: 2008-05-25 10:42:49
 slug: colormake-on-mac-os-x
 title: colormake on Mac OS X
-categories: programming
+categories: [ "code" ]
 ---
 
 I have just discovered [colormake](http://bre.klaki.net/programs/colormake/) utility - a simple wrapper around [make](http://www.gnu.org/software/make/) to colorize its output.

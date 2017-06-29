@@ -2,7 +2,7 @@
 title: Moving posts from WordPress to Hakyll
 description: Using exitwp utility to migrate blog posts from WordPress to Markdown format for Hakyll
 date: 2013-01-06
-category: code
+
 ---
 
 In my [Powered by Hakyll](/posts/2012/12/03/powered-by-hakyll/) announcement, I promised to explain

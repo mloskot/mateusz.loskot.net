@@ -2,8 +2,8 @@
 date: 2011-05-26 00:08:17
 slug: nine-life-lessons-from-rock-climbing
 title: Nine life lessons from rock climbing
-category: sweat
-categories: climbing
+
+categories: [ "code" ]
 ---
 
 In this short talk from [TED](http://www.ted.com/), a veteran rock climber Matthew Childs shares nine pointers for rock climbing:

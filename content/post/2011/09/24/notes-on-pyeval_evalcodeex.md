@@ -1,9 +1,9 @@
 ---
 title: Notes on PyEval_EvalCodeEx
 date: 2011-09-24 22:45:57
-category: code
+
 slug: notes-on-pyeval_evalcodeex
-categories: programming
+categories: [ "code" ]
 ---
 
 Recently, I tried to [figure out](http://mail.python.org/pipermail/python-list/2011-September/1280749.html) what is the actual result of [PyEval_EvalCodeEx](http://docs.python.org/release/3.2/c-api/veryhigh.html#PyEval_EvalCodeEx) call from the [Python C API](http://docs.python.org/release/3.2/c-api/). The documentation is less than sparse. Obviously, the function returns result of expression evaluation. The result is returned as pointer to `PyObject`, but the type has a bit opaque nature, so means nothing without querying and inspecting underlying data.

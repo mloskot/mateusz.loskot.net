@@ -1,9 +1,9 @@
 ---
 title: Implicit conversion is less than bless
 date: 2011-09-29 15:59:21
-category: code
+
 slug: implicit-conversion-is-less-than-bless
-categories: programming
+categories: [ "code" ]
 ---
 
 A quick example on how frivolous and to all appearances useful design of a C++ class can kick the rear aspect of your personality hard. In Unicode-enabled code using `wchar_t` as character data carrier:

@@ -2,7 +2,7 @@
 date: 2007-11-06 15:23:57
 slug: geojson-driver-errata
 title: GeoJSON Driver Errata
-categories: open source
+categories: [ "code" ]
 ---
 
 In my today announcement of the [OGR GeoJSON Driver](/2007/11/06/ogr-geojson-driver/), I stated as follows:

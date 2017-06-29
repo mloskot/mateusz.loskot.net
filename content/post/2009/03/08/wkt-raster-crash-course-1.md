@@ -2,7 +2,7 @@
 date: 2009-03-08 00:51:17
 slug: wkt-raster-crash-course-1
 title: 'WKT Raster crash course #1'
-categories: life,programming
+categories: [ "code" ]
 ---
 
 Recently, a good friend of mine [Sandro](http://foo.keybit.net/~strk/) has started [spreading the story](http://blog.ominiverdi.org/index.php?/archives/69-PostGIS-Rasters.html) of **WKT Raster** project. Here, I'd like to join him and post a bunch of technical notes about how to start using tandem of [PostGIS](http://postgis.refractions.net/) and WKT Raster. This is the first post that hopefully will start a series discussing various aspects of use and development of WKT Raster extension.

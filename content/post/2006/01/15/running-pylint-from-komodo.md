@@ -2,7 +2,7 @@
 date: 2006-01-15 07:51:42
 slug: running-pylint-from-komodo
 title: Running PyLint from Komodo
-categories: programming
+categories: [ "code" ]
 ---
 
 ![ActiveState Komodo Logo](/images/logos/komodo-logo.gif)Thanks to John's [Get Komodo for free](http://thinkhole.org/wp/2005/12/30/get-komodo-for-free/) post I started to use [Komodo](https://www.activestate.com/Products/Komodo/) on my laptop. It's really well-done software, so I put [Vim](http://www.vim.org) away (for a while or longer :-)) and started to develop my scripts using Komodo.
@@ -48,56 +48,56 @@ Here is a step by step explanation how to add **Run PyLint** command to the Tool
 
 
 
-    
+
   * Prerequisites:
-    
-        
+
+
     * Download and install [PyLint](http://www.logilab.org/projects/pylint)
 
-        
+
     * Check **Install** section in the README file and learn how to make pylint.bat visible in your PATH
 
-    
-    
 
-    
-    
+
+
+
+
   * Open **Toolbox** by selecting **View** > **Tabs** > **Toolbox**
 
 
-    
+
   * Inside the Toolbox add **New Command...** from right-click context menu. You can create your own Toolbox folder first and add command to it.
 
-    
-    
-  * In the **Add Command** dialog box give following settings:    
-        
-        
+
+
+  * In the **Add Command** dialog box give following settings:
+
+
     * **Command** tab:
-            
-            
+
+
       * In the first text box give command name
 
-            
+
       * In the **Command** text box put: _pylint %f_
 
-            
+
       * In the **Advanced Options** frame, in **Run in** drop-down box select: **Command Output Tab**
 
-            
-        
 
-        
+
+
+
     * **Key Binding** tab:
-            
-            
+
+
       * Assign **New Key Sequence** as you like e.g. **CTRL + L, CTRL + P**
 
-            
-        
 
-        
-    
+
+
+
+
 
 
 

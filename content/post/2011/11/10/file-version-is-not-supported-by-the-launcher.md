@@ -1,9 +1,9 @@
 ---
 title: File version is not supported by the launcher
 date: 2011-11-10 23:01:04
-category: code
+
 slug: file-version-is-not-supported-by-the-launcher
-categories: programming
+categories: [ "code" ]
 ---
 
 **UPDATE**: This bug (see below) [has been fixed](http://cmake.org/gitweb?p=cmake.git;a=commitdiff;h=f0d66ab4) a few days ago. The fix is available in CMake git repo and should be release in the upcoming CMake 2.8.7 release.

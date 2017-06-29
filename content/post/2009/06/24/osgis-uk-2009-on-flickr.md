@@ -2,7 +2,7 @@
 date: 2009-06-24 01:23:47
 slug: osgis-uk-2009-on-flickr
 title: OSGIS UK 2009 on Flickr
-categories: life,open source
+categories: [ "code" ]
   uk 2009,photo,pictures,report
 ---
 

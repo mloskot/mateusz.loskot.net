@@ -2,7 +2,7 @@
 date: 2006-01-06 07:30:30
 slug: while-my-windows-vista-gently-weeps
 title: While My Windows Vista Gently Weeps
-categories: none
+categories: [ "code" ]
 ---
 
 ![Windows Vista Logo](/images/logos/windows-vista-logo.png)How do you think, what kind of sounds will you hear emitted from [Windows Vista](http://www.microsoft.com/windowsvista/default.aspx)?

@@ -2,7 +2,7 @@
 date: 2009-10-24 21:27:10
 slug: osgeo-codepad-org
 title: osgeo.codepad.org
-categories: open source,programming
+categories: [ "code" ]
   source,service,tool,web
 ---
 

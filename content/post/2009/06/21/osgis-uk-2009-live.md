@@ -2,7 +2,7 @@
 date: 2009-06-21 21:06:36
 slug: osgis-uk-2009-live
 title: OSGIS UK 2009 Live
-categories: open source
+categories: [ "code" ]
 ---
 
 Tomorrow early morning I'm leaving to Nottingham to attend the [OSGIS UK 2009](http://www.opensourcegis.org.uk/) conference. It's been long time since [FOSS4G 2007](http://2007.foss4g.org/) and I didn't make it to [Cape Town](http://conference.osgeo.org/index.php/foss4g/2008) last year, so I'm looking forward to meet FOSS4G and OSGeo folks in UK.

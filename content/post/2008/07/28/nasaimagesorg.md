@@ -2,7 +2,7 @@
 date: 2008-07-28 19:26:59
 slug: nasaimagesorg
 title: nasaimages.org
-categories: none
+categories: [ "code" ]
 ---
 
 [NASA Images](http://nasaimages.org/) is

@@ -2,7 +2,7 @@
 date: 2009-09-10 23:41:25
 slug: libopenlr-org-anyone
 title: libopenlr.org anyone?
-categories: none
+categories: [ "code" ]
 ---
 
 [Slashgeo forwarded](http://technology.slashgeo.org/technology/09/09/10/1125210.shtml) an interesting news about [OpenLR](http://www.tomtom.com/page/openLR) initiative by [TomTom](http://www.tomtom.com/). A part of it is an open industry standard. Another part of it is an open source code library which is coming soon.

@@ -1,9 +1,9 @@
 ---
 title: Boost.Geometry and macros made by Apple
 date: 2010-03-10 01:48:39
-category: code
+
 slug: cc-macros-made-by-apple
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [![Boost Geometry (aka Generic Geometry Library, GGL)](/images/logos/ggl-logo.png)](http://trac.osgeo.org/ggl/)I have no pleasure continuing my [macros are evil tales](/&p=1755) but the life of C++ programmer eagerly wants to writes add another chapter to the story. Today, it's time to rant on [Apple](http://www.apple.com) and its [XCode](http://en.wikipedia.org/wiki/XCode).

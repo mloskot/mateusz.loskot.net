@@ -1,9 +1,9 @@
 ---
 title: WOGIS 2010 Conference by OSGeo Poland
 date: 2010-01-17 18:21:19
-category: code
+
 slug: wogis-2010-conference-by-osgeo-poland
-categories: open source
+categories: [ "code" ]
 ---
 
 ![OSGeo Foundation](/images/logos/osgeo-logo.png)Tomasz Kubik from[ OSGeo Polish Chapter](http://www.osgeo.org/pl) [announced](http://lists.osgeo.org/pipermail/discuss/2010-January/006628.html) [WOGIS 2010](http://www.gislab.up.wroc.pl/wogis2010/en/?page=1) conference:

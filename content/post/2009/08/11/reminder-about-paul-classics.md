@@ -2,7 +2,7 @@
 date: 2009-08-11 17:17:10
 slug: reminder-about-paul-classics
 title: Reminder about Paul's Classics
-categories: open source
+categories: [ "code" ]
 ---
 
 It's nothing new, but a reminder of brilliant and [completely unbiased overview of MapServer](http://s3.cleverelephant.ca/geoweb-mapserver.pdf) by [Paul Ramsey](http://blog.cleverelephant.ca/). If you haven't enjoy it yet, do it now!

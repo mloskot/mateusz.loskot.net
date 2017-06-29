@@ -2,8 +2,8 @@
 date: 2012-01-05 01:08:55
 slug: boost-geometry-mailing-list-moved
 title: Boost.Geometry mailing list moved
-category: code
-categories: open source,programming
+
+categories: [ "code" ]
 ---
 
 I have moved mailing list of the Boost.Geometry library from server at 

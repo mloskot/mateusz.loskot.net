@@ -2,7 +2,7 @@
 date: 2009-11-12 11:46:32
 slug: openaerialmap-resurrection
 title: OpenAerialMap Resurrection
-categories: open source
+categories: [ "code" ]
   Erle
 ---
 

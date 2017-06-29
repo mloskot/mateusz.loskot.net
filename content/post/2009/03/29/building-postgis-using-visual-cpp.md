@@ -2,7 +2,7 @@
 date: 2009-03-29 06:36:25
 slug: building-postgis-using-visual-cpp
 title: Building PostGIS using Visual C++
-categories: life,open source,programming
+categories: [ "code" ]
   source,open source,postgis,postgresql,programming,proj.4,proj4,project,spatial,srs,visual
   c++,visual studio,visualc++,windows,wktraster
 ---

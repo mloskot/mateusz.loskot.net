@@ -2,7 +2,7 @@
 date: 2008-07-26 00:06:30
 slug: juggling-svn-keywords
 title: Juggling SVN keywords
-categories: programming
+categories: [ "code" ]
 ---
 
 When working in a team and maintaining large source code repositories, it's [easy to forget to set svn:keywords property](http://trac.osgeo.org/gdal/ticket/1998) for newly added file or update the property when adding new keywords to files.

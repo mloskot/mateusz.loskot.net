@@ -2,7 +2,7 @@
 date: 2013-07-31T23:30:00Z
 title: Bring Sally Up, Bring Sally Down - Push Up Challenge - Take #1
 description: First attempt to Bring Sally Up, Bring Sally Down Push Up Challenge
-category: sweat
+
 ---
 
 Yesterday near the end of climbing session at the 

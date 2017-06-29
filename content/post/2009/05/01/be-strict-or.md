@@ -2,7 +2,7 @@
 date: 2009-05-01 22:10:47
 slug: be-strict-or
 title: Be strict or...
-categories: programming
+categories: [ "code" ]
   source,programming,project,quality,spatial,strict
 ---
 

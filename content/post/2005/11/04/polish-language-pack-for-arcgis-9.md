@@ -2,7 +2,7 @@
 date: 2005-11-04 19:24:20
 slug: polish-language-pack-for-arcgis-9
 title: Polish language pack for ArcGIS 9.1
-category: code
+
 ---
 
 [ESRI Polska](http://www.esripolska.com.pl) announces about [polish langauge pack](http://www.esripolska.com.pl/index.php?option=com_content&task=view&id=329&Itemid=1) to the [ArcGIS 9.1](http://www.esri.com/software/arcgis/). How nice! Particularly, ArcGIS 9.1 is very expansive software and I think all its polish users has to fall to their knees with thanksgiving prayers for this localization. [ESRI](http://www.esri.com) seems to be very serious company but they have big problems with providing polish manuals or books about their software on polish market for years. Well, may be ESRI should follow Open Source Software example as usually well translated and well documented in many languages.

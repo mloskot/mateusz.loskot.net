@@ -2,7 +2,7 @@
 date: 2006-02-15 18:45:07
 slug: free-it-ebooks-from-apresscom
 title: Free IT eBooks from APress.com
-categories: programming
+categories: [ "code" ]
 ---
 
 

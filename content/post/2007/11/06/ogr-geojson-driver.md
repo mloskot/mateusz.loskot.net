@@ -2,7 +2,7 @@
 date: 2007-11-06 10:04:27
 slug: ogr-geojson-driver
 title: OGR GeoJSON Driver
-categories: open source
+categories: [ "code" ]
 ---
 
 **Update on  Nov 6th, 2007 at 3:23 pm**: [GeoJSON Driver Errata](/2007/11/06/geojson-driver-errata/)

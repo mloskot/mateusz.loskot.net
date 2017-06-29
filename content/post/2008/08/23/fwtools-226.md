@@ -2,7 +2,7 @@
 date: 2008-08-23 14:04:23
 slug: fwtools-226
 title: FWTools 2.2.6
-categories: none
+categories: [ "code" ]
   source,programming,proj.4,proj4,project,release,shapefile,shapelib,spatial,srs
 ---
 

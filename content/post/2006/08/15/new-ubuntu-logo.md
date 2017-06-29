@@ -2,7 +2,7 @@
 date: 2006-08-15 02:36:11
 slug: new-ubuntu-logo
 title: New Ubuntu logo ,-)
-categories: none
+categories: [ "code" ]
 ---
 
 [![Ubuntu Linux](/images/logos/ubuntu-logo.png)](http://www.ubuntulinux.org)While ago I was trying to find some nice Ubuntu logo I could put on my website. I opened Google and submitted it with following query: _+ubuntu +logo_. At the third position of results I saw quite encouraging title:

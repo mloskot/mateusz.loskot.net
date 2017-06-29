@@ -1,9 +1,9 @@
 ---
 title: Mouse vs keyboard quotes of the day
 date: 2010-01-16 04:20:53
-category: code
+
 slug: mouse-vs-keyboard-quotes-of-the-day
-categories: life,programming
+categories: [ "code" ]
 ---
 
 My two favourite quotes I've remembered from today's thread about _programming using a proportional font_ and other stuff that happened on, as busy as always, [ACCU](http://accu.org) mailing list:

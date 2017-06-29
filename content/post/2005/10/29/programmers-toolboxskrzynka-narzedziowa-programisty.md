@@ -2,7 +2,7 @@
 date: 2005-10-29 16:01:37
 slug: programmers-toolboxskrzynka-narzedziowa-programisty
 title: Programmer's Toolbox
-category: code
+
 ---
 
 Whatever you do, you need to know what kind of tools you need. 

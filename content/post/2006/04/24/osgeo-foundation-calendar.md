@@ -2,7 +2,7 @@
 date: 2006-04-24 10:01:08
 slug: osgeo-foundation-calendar
 title: OSGeo Foundation Calendar
-categories: none
+categories: [ "code" ]
 ---
 
 If you're interested in upcoming meetings and events from [Open Source Geospatial Foundation](https://www.osgeo.org), you can now bookmark [Foundation Calendar](http://wiki.osgeo.org/index.php/Foundation_Calendar) page on the [OSGeo Wiki](http://http://wiki.osgeo.org)

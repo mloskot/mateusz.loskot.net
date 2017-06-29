@@ -2,7 +2,7 @@
 date: 2005-11-05 01:34:49
 slug: gis-bloggers-map
 title: GIS Bloggers Map
-categories: maps,web,gis
+categories: [ "code" ]
 ---
 
 [![Check out our Frappr!](http://www.frappr.com/i/frapper_sticker.gif)](http://www.frappr.com/gisbloggers)

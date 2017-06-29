@@ -2,7 +2,7 @@
 date: 2006-02-08 07:16:12
 slug: the-garden-of-eden
 title: The Garden of Eden
-categories: none
+categories: [ "code" ]
 ---
 
 Yesterday, I read on the [CNN.com](http://cnn.com) about revelation from [Foja mountains](http://local.google.com/?t=h&ll=-3.272146,138.592529&spn=5.284909,10.305176&t=h) in [Indonesia](http://en.wikipedia.org/wiki/Indonesia):

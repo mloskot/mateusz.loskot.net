@@ -2,7 +2,7 @@
 date: 2009-07-29 23:47:44
 slug: atl-security-update
 title: ATL Security Update
-categories: programming
+categories: [ "code" ]
   c++,visual studio,webcast,windows,wtl
 ---
 

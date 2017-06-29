@@ -2,7 +2,7 @@
 date: 2008-08-21 16:53:56
 slug: wkb-hex-decoder-in-c
 title: WKB hex decoder in C++
-categories: life,programming
+categories: [ "code" ]
 ---
 
 In [PostGIS](http://www.postgis.org/) world, I often need to construct geometry from Well-Known-Binary (WKB) or [PostGIS EWKB](http://www.postgis.org/documentation/manual-1.3/ch04.html) stream encoded as hex stream. It's easy to do if I have access to PostgreSQL/PostGIS client which accepts SQL queries:

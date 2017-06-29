@@ -2,7 +2,7 @@
 date: 2009-12-09 13:27:45
 slug: gdal-meets-edina
 title: GDAL meets EDINA
-categories: open source,programming
+categories: [ "code" ]
 ---
 
 [Martin Daly](http://blog.lostinspatial.com) has started posting on [A Higher Education](http://blog.lostinspatial.com/2009/12/09/a-higher-education-part-2/) with details about use case of [GDAL](http://www.gdal.org/) to serve large datasets through Web:

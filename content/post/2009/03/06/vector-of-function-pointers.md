@@ -2,7 +2,7 @@
 date: 2009-03-06 12:24:28
 slug: vector-of-function-pointers
 title: vector of function pointers
-categories: programming
+categories: [ "code" ]
 ---
 
 This is just a small tip on how to define a vector of function pointers in C++ and how to call functions stored in it:

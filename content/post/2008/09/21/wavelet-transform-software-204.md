@@ -2,7 +2,7 @@
 date: 2008-09-21 16:59:51
 slug: wavelet-transform-software-204
 title: Wavelet Transform Software 2.04
-categories: none
+categories: [ "code" ]
 ---
 
 [![GDAL logo](/images/logos/gdal-logo.png)](http://www.gdal.org/)This post should be interesting to users of GDAL MSG driver - [Meteosat Second Generation](http://www.gdal.org/frmt_msg.html).

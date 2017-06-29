@@ -2,7 +2,7 @@
 date: 2009-12-06 03:08:21
 slug: postgis-explains-de-9im
 title: PostGIS explains DE-9IM
-categories: open source
+categories: [ "code" ]
   Neufeld,manual,matrix,ogc,postgis,postgresql,programming,project,Regina Obe,spatial
 ---
 

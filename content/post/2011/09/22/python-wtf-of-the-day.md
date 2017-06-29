@@ -1,9 +1,9 @@
 ---
 title: Python WTF of the day
 date: 2011-09-22 16:34:15
-category: code
+
 slug: python-wtf-of-the-day
-categories: programming
+categories: [ "code" ]
 ---
 
 Update: The rant has been [suspended](https://twitter.com/#!/mateuszloskot/status/117001180999196672), temporarily.

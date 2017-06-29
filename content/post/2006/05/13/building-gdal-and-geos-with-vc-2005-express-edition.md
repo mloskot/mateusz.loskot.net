@@ -2,7 +2,7 @@
 date: 2006-05-13 16:15:38
 slug: building-gdal-and-geos-with-vc-2005-express-edition
 title: Building GDAL and GEOS with VC++ 2005 Express Edition
-categories: programming
+categories: [ "code" ]
   c++,visual studio
 ---
 

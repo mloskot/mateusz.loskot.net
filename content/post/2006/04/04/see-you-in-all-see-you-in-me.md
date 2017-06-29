@@ -2,7 +2,7 @@
 date: 2006-04-04 00:35:33
 slug: see-you-in-all-see-you-in-me
 title: See you in all, see you in me...
-categories: life
+categories: [ "code" ]
 ---
 
 > You are my mother, you are

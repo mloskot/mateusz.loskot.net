@@ -2,7 +2,7 @@
 date: 2009-07-24 14:07:26
 slug: sling-the-code-sling-the-sound
 title: Sling the code, sling the sound
-categories: programming
+categories: [ "code" ]
 ---
 
 C++ gurus can atomise not only particles of code but sound too ;-)

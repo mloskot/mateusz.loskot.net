@@ -2,7 +2,7 @@
 date: 2009-06-28 21:45:26
 slug: spatial-relations-for-dummies
 title: Spatial Relations for Dummies
-categories: none
+categories: [ "code" ]
   source,open source,postgis,programming,project,relation,safe,safe software,spatial,tutorial
 ---
 

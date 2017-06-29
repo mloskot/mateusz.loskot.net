@@ -2,7 +2,7 @@
 date: 2007-01-28 00:52:25
 slug: beyond-stupidity-limits
 title: Beyond stupidity limits
-categories: life
+categories: [ "code" ]
 ---
 
 ...[US troops easily cross stupidity limits](http://www.glumbert.com/media/iraqidog) without even trying to think about it for a second. I can't comment this movie, but **what the f**k for...?**

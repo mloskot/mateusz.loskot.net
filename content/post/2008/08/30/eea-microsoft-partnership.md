@@ -2,7 +2,7 @@
 date: 2008-08-30 12:07:26
 slug: eea-microsoft-partnership
 title: EEA / Microsoft partnership
-categories: none
+categories: [ "code" ]
 ---
 
 It is 3 months old news, but I've found it very recently. In the middle of May 2008, [European Environment Agency](http://www.eea.europa.eu/) [announced](http://www.eea.europa.eu/highlights/eea-and-microsoft-will-bring-environmental-information-to-your-fingertips) they [signed a partnership](http://www.microsoft.com/emea/presscentre/pressreleases/14052008_EEAClarityVision.mspx) with [Microsoft](http://www.microsoft.com). The aim of this collaboration is (or was) to create ''an environmental information platform'' based on Microsoft's [Virtual Earth](http://www.microsoft.com/VirtualEarth/).

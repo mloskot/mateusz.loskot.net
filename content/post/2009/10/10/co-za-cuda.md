@@ -2,7 +2,7 @@
 date: 2009-10-10 13:53:41
 slug: co-za-cuda
 title: Co za CUDA!
-categories: open source,programming
+categories: [ "code" ]
   source,parallelism,process,programming,project,threading
 ---
 

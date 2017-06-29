@@ -2,7 +2,7 @@
 date: 2008-03-02 00:46:59
 slug: welcome-to-canada
 title: Welcome to Canada!
-categories: none
+categories: [ "code" ]
 ---
 
 ![Flag of Canada](/images/canada-flag.jpg)Today is a **wonderful day**! The Canadian minister of immigration and citizenship Diane Finley announced that citizens of Poland, Hungary, Slovakia and Lithuania can _travel to Canada and remain there for 3 months without a visa_.

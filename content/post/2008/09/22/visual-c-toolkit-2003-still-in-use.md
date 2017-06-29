@@ -3,7 +3,7 @@ date: 2008-09-22 17:58:13
 slug: visual-c-toolkit-2003-still-in-use
 title: Visual C++ Toolkit 2003 still in use
 description: Short tutorial on how to use Visual C++ Toolkit 2003
-category: code
+
 ---
 
 [![Charles Petzold's Tattoo](/images/logos/charles-petzold-tattoo.jpg)](http://www.charlespetzold.com/)In 2004, Microsoft 

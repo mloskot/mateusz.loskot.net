@@ -1,9 +1,9 @@
 ---
 title: Firefox-based attacks on irc.freenode.net
 date: 2010-01-30 04:12:25
-category: code
+
 slug: firefox-based-attacks-on-irc-freenode-net
-categories: life,open source
+categories: [ "code" ]
 ---
 
 Activity of the [OSGeo](http://www.osgeo.org) Community quite [heavily relies](http://lists.osgeo.org/pipermail/discuss/2008-August/004111.html) on the [Freenode](http://en.wikipedia.org/wiki/Freenode) [IRC](http://wiki.osgeo.org/wiki/IRC) network, so this may be an interesting news:

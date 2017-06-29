@@ -2,8 +2,8 @@
 date: 2012-01-05 23:16:44
 slug: roberts-rules-of-boost-testing
 title: Robert's rules of Boost testing
-category: code
-categories: open source,programming
+
+categories: [ "code" ]
 ---
 
 By the way of trying to figure out [how to make tests building faster?](http://lists.boost.org/Archives/boost/2011/12/189026.php) (I will post about it later), I have learned some interesting practices regarding Boost testing in general. Especially, [Robert Ramey shared](http://lists.boost.org/Archives/boost/2011/12/189045.php) his best practices, worth to look at really. New release of Boost will be released [next week](http://www.boost.org/community/index.html), so I'm testing [Boost.Geometry](http://www.boost.org/libs/geometry/) library and it is a good opportunity to apply some of Robert's rules.

@@ -2,7 +2,7 @@
 date: 2005-11-11 19:36:07
 slug: prosiaczek-odpalil-swoj-blog
 title: Prosiaczek odpalił swój blog
-categories: life
+categories: [ "code" ]
 ---
 
 ParÄ dni temu moja Ĺźonka Panterka przyniosĹa do domciu prosiaczka, czyli Ĺwinke morkskÄ

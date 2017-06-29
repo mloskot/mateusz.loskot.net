@@ -2,7 +2,7 @@
 date: 2006-03-25 16:56:41
 slug: building-qgis-with-visual-c-2005
 title: Building QGIS with Visual C++ 2005
-categories: programming
+categories: [ "code" ]
 ---
 
 

@@ -2,7 +2,7 @@
 date: 2006-05-22 23:07:54
 slug: new-mapnik-release-030
 title: New Mapnik Release 0.3.0
-categories: programming
+categories: [ "code" ]
 ---
 
 ![Mapnik Logo](/images/logos/mapnik-logo.png)Today, Artem Pavlenko - the leader of [Mapnik](http://www.mapnik.org) project - announced new release of Mapnik 0.3.0. _Mapnik is a [Free](http://www.mapnik.org/licence/) Toolkit for developing mapping applications._ New version brings rich set of new features.

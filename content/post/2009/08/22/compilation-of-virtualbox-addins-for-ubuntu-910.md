@@ -2,7 +2,7 @@
 date: 2009-08-22 17:45:04
 slug: compilation-of-virtualbox-addins-for-ubuntu-910
 title: Compilation of VirtualBox add-ins for Ubuntu 9.10
-categories: programming
+categories: [ "code" ]
   c++,visual studio,windows'
 ---
 

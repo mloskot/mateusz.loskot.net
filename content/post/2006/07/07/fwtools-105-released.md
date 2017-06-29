@@ -2,7 +2,7 @@
 date: 2006-07-07 21:57:51
 slug: fwtools-105-released
 title: FWTools 1.0.5 Released
-categories: none
+categories: [ "code" ]
 ---
 
 

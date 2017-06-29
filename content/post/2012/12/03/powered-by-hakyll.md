@@ -2,7 +2,7 @@
 title: Powered by Hakyll
 description: Switched my website from WordPress to Hakyll
 date: 2012-12-03
-category: code
+
 ---
 
 I decided to learn some [Haskell](http://www.haskell.org/). So, I wanted to find a 
