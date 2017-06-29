@@ -1,4 +1,4 @@
-# mateusz.loskot.net
+# mateusz.loskot.net [![Build Status](https://travis-ci.org/mloskot/mateusz.loskot.net.svg?branch=master)](https://travis-ci.org/mloskot/mateusz.loskot.net)
 
 My personal website and blog
 powered by [Hugo](https://gohugo.io/)
