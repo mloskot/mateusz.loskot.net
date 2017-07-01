@@ -3,4 +3,4 @@
 set -e
 # deployment via FTPS
 echo "Deploying public folder..."
-lftp -e 'set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no; mirror -eRv public .; quit;' -u $FTP_BREXITKNEESHOT:$FTP_FUCKYOUNESTLE $FTP_WHEREBLACKHOLESUN
+lftp -e 'set ftp:ssl-force true; set ftp:ssl-protect-data true; set ssl:verify-certificate no; mirror --exclude tmp/ --exclude-glob ".ftpquota" --exclude-glob ".htaccess" -eRv public .; quit;' -u $FTP_BREXITKNEESHOT:$FTP_FUCKYOUNESTLE $FTP_WHEREBLACKHOLESUN
