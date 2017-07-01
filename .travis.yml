@@ -13,7 +13,7 @@ script:
 
 deploy:
   provider: script
-  script: "$TRAVIS_BUILD_DIR/scripts/deploy.sh"
+  script: "./scripts/deploy.sh"
   skip_cleanup: true
   on:
     branch: master
