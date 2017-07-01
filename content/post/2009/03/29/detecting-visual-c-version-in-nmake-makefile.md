@@ -3,14 +3,13 @@ date: 2009-03-29 20:12:17
 slug: detecting-visual-c-version-in-nmake-makefile
 title: Detecting Visual C++ version in NMAKE makefile
 categories: [ "code" ]
-  source,programming,project,spatial,version,visual c++,visual studio,windows,_MSC_VER,_NMAKE_VER
 ---
 
 Traditionally when building [GDAL/OGR](http://www.gdal.org/), [GEOS](http://trac.osgeo.org/geos/) or [libLAS](http://www.liblas.org/) using [NMAKE](http://msdn.microsoft.com/en-us/library/dd9y37ha(VS.71).aspx) users specify version of [Visual C++ compiler](http://en.wikipedia.org/wiki/Visual_C%2B%2B) being used as value of `MSVC_VER` [macro](http://msdn.microsoft.com/en-us/library/wc38eeb4(VS.71).aspx). This macros is not required but it's recommended, so NMAKE can compose best possible set of compilation and linking flags for particular version of [Visual C++](http://msdn.microsoft.com/en-us/library/60k1461a(VS.80).aspx). For instance, command specifying [Visual C++ 8.0](http://msdn.microsoft.com/en-us/library/bw65k95a(VS.80).aspx) ([Visual Studio 2005](http://msdn.microsoft.com/en-us/library/ms950416.aspx)) looks like this:
 
 
 
-    
+
     nmake -f makefile.vc MSVC_VER=1400
 
 
@@ -28,7 +27,7 @@ Recently, I [hacked libLAS makefiles](http://liblas.org/changeset/1140) (and GEO
 
 
 
-    
+
     !IF "$(_NMAKE_VER)" == ""
     MSVC_VER = 4.0
     !ERROR *** Prehistoric version of Visual C++
@@ -51,7 +50,7 @@ Recently, I [hacked libLAS makefiles](http://liblas.org/changeset/1140) (and GEO
     !ELSEIF "$(_NMAKE_VER)" == "8.00.50727.762"
     MSVC_VER = 8.0
     MSC_VER = 1400
-    !ELSEIF "$(_NMAKE_VER)" == "9.00.21022.08" 
+    !ELSEIF "$(_NMAKE_VER)" == "9.00.21022.08"
     MSVC_VER = 9.0
     MSC_VER = 1500
     !ELSEIF "$(_NMAKE_VER)" == "9.00.30729.01"
@@ -71,7 +70,7 @@ Later macros `MSVC_VER` and `MSC_VER` can be used to report Visual C++ version:
 
 
 
-    
+
     !IF "$(MSVC_VER)" == "0.0" && "$(MSC_VER)" == "0"
     !MESSAGE *** Cannot determined Visual C++ version
     !ERROR *** Aborting make job

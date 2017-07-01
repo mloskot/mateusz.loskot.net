@@ -3,8 +3,6 @@ date: 2009-03-29 06:36:25
 slug: building-postgis-using-visual-cpp
 title: Building PostGIS using Visual C++
 categories: [ "code" ]
-  source,open source,postgis,postgresql,programming,proj.4,proj4,project,spatial,srs,visual
-  c++,visual studio,visualc++,windows,wktraster
 ---
 
 I don't like [MinGW](http://www.mingw.org/). I've been dreaming about building [PostGIS](http://postgis.refractions.net/) using [Visual C++](http://msdn.microsoft.com/en-us/visualc/) - the **native** development toolset for Windows platform - without being forced to install Unix-like environment inside Windows. Finally, I've got motivated enough and decided to make my dreams reality, so here is the story.
@@ -29,14 +27,14 @@ Short note on directories layout using for projects downloaded directly from rep
 
 
 Building GEOS using Visual C++ is quite an easy task:
-    
+
     D:\dev\geos\_svn\trunk> svn co http://svn.osgeo.org/geos/trunk .
     D:\dev\geos\_svn\trunk> autogen.bat
     D:\dev\geos\_svn\trunk> nmake /f makefile.vc
 
 Building PROJ.4 is even easier:
 
-```    
+```
 D:\dev\proj4\_svn\trunk> svn co http://svn.osgeo.org/metacrs/proj/trunk/proj .
 D:\dev\proj4\_svn\trunk> nmake /f makefile.vc
 ```
@@ -56,7 +54,7 @@ However, more patches were required as well as I had to prepare complete solutio
 
 This is [status](http://svnbook.red-bean.com/en/1.5/svn.ref.svn.c.status.html) summary reported by [svn]() for my working copy of PostGIS trunk:
 
-```    
+```
 D:\dev\postgis\_svn\trunk>svn st
 A      postgis_config.h.in.vc
 M      liblwgeom\lex.yy.c
@@ -85,7 +83,7 @@ A      build\msvc80\postgis_dll\postgis_dll.vcproj
 A      build\msvc80\bootstrap
 A      build\msvc80\bootstrap\bootstrap.vcproj
 D:\dev\postgis\_svn\trunk>
-``` 
+```
 
 ### Building PostGIS binaries
 
@@ -99,7 +97,7 @@ I think the easiest way to try this building procedure is to download the packag
 
   4. Here, you need to verify and update (if your paths are different) four macros with locations of the PostGIS dependencies. Here are the macros with paths I used ([screenshot](http://www.flickr.com/photos/mloskot/3394521036/)):
 
-```   
+```
 GEOS_SRC_ROOT = D:\dev\geos\_svn\trunk
 PROJ4_SRC_ROOT = D:\dev\proj\_svn\trunk
 POSTGRESQL_SRC_ROOT = D:\dev\postgresql\postgresql-8.3.6
@@ -117,16 +115,16 @@ Everything is configured and ready to build: _Build -> Build Solution_ or hit _F
 Now, it's time to install all binaries:
 
   1. Install GEOS libraries (DLL):
-    
+
     D:\dev\geos\_svn\trunk>copy source\geos.dll "c:\Program Files\PostgreSQL\8.3\bin"
     D:\dev\geos\_svn\trunk>copy source\geos_c.dll "c:\Program Files\PostgreSQL\8.3\bin"
 
   2. Install PROJ.4 library (DLL):
-    
+
     D:\dev\proj\_svn\trunk>copy src\proj.dll "c:\Program Files\PostgreSQL\8.3\bin"
 
   3. Intall PostGIS library (DLL):
-    
+
     D:\dev\postgis\_svn\trunk>copy build\msvc80\debug\postgis-1.4.dll "c:\Program Files\PostgreSQL\8.3\lib"
 
 
@@ -150,20 +148,20 @@ As a shortcut, I generated `postgis.sql` on my Linux box (based on SVN trunk r39
 
 All components are in place: binaries installed in PostgreSQL 8.3.6 directory, main SQL script prepared in `trunk\postgis\postgis.sql` and original version of `trunk\spatial_ref_sys.sql` file provided by SVN trunk. Moving on to create PostGIS-enaled database called _test_:
 
-```   
+```
 C:\Program Files\PostgreSQL\8.3>createdb -E UTF-8 -O mloskot test
 ```
 
 It seems it's not necessary to first enable PL/pgSQL langauge:
 
-```   
+```
 C:\Program Files\PostgreSQL\8.3>createlang plpgsql test
 createlang: language "plpgsql" is already installed in database "test"
 ```
 
 So, you can skip to loading PostGIS extensions:
 
-```    
+```
 C:\Program Files\PostgreSQL\8.3>psql -d test -f d:\dev\postgis\_svn\trunk\postgis\postgis.sql
 BEGIN
 psql:d:/dev/postgis/_svn/trunk/postgis/postgis.sql:34: NOTICE:  type "spheroid" is not yet defined
@@ -181,7 +179,7 @@ COMMIT
 
 and definition of [Spatial Reference Systems](http://spatialreference.org):
 
-```   
+```
 C:\Program Files\PostgreSQL\8.3>psql -d test -f d:\dev\postgis\_svn\trunk\spatial_ref_sys.sql
 BEGIN
 INSERT 0 1
@@ -193,7 +191,7 @@ VACUUM
 
 If every step explained above succeeded, the _test_ database has been enabled with PostGIS features. Simple version check can confirm that it is:
 
-```    
+```
 C:\Program Files\PostgreSQL\8.3>psql -d test -c "SELECT postgis_version();"
             postgis_version
 ---------------------------------------
@@ -203,13 +201,13 @@ C:\Program Files\PostgreSQL\8.3>psql -d test -c "SELECT postgis_version();"
 
 For development purposes, to be sure in 100% I use my own build of PostGIS, I redefined value of build date macro in `trunk\postgis_config.h.in.vc`:
 
-```    
+```
 #define POSTGIS_BUILD_DATE "2009-03-29 (MSVC)"
 ```
 
 and _MSVC_ tag is reported as expected:
 
-```   
+```
 C:\Program Files\PostgreSQL\8.3>psql -d test -c "SELECT postgis_lib_build_date();"
     postgis_lib_build_date
 ------------------------

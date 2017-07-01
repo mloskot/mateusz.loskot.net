@@ -3,7 +3,6 @@ date: 2009-03-30 22:55:37
 slug: crunching-wkt-rasters
 title: WKT Raster Cruncher
 categories: [ "code" ]
-  raster,wktraster
 ---
 
 I've been playing with some [nice amount of pixels](/?p=317) using [WKT Raster](/?p=291) engine recently. Today, I tiled the `japan.tif` ([gdalinfo](http://gdal.org/gdalinfo.html) output is [here](/?p=317)) using 3 different sizes of tile block. All the work was done using [gdal2wktraster.py](http://svn.osgeo.org/postgis/spike/wktraster/scripts/gdal2wktraster.py) loader available from WKT Raster [repository](http://svn.osgeo.org/postgis/spike/wktraster/). Below, I included more interesting numbers which may be helpful for others who will decide to juggle [rasters in PostGIS](http://postgis.refractions.net/support/wiki/index.php?WKTRasterHomePage) [database](http://www.postgresql.org/).
@@ -22,21 +21,21 @@ Tiling schemes applied on `japan.tif` file:
 
   1. Using [natural block size](http://gdal.org/classGDALRasterBand.html) reported by [GDAL](http://gdal.org/) gives 700 tiles, 14000 x 20 pixels each:
 
-    
+
     gdal2wktraster.py -r japan.tif -t japan -o japan.sql -k
 
 
 
   2. Using block size 100 x 100 pixels gives 140 x 140 = 19600 tiles:
 
-    
+
     gdal2wktraster.py -r japan.tif -t japan_100 -o japan_100.sql -k -m 100x100
 
 
 
   3. Using block size 200 x 200 pixels gives 70 x 70 = 4900 tiles:
 
-    
+
     gdal2wktraster.py -r japan.tif -t japan_100 -o japan_200.sql -k -m 200x200
 
 
@@ -48,7 +47,7 @@ Sizes of all `.sql` text files produced are close to 1.2 GB. The timing for gdal
 
 
 
-    
+
     psql -d japan -f japan_100.sql
 
 

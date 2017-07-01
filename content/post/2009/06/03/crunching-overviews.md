@@ -3,7 +3,6 @@ date: 2009-06-03 11:27:03
 slug: crunching-overviews
 title: Crunching overviews
 categories: [ "code" ]
-  source,overviews,postgis,processing,programming,project,pyramid,raster,spatial,wktraster
 ---
 
 Continuing [my tale](/?p=362) about loading big raster datasets into [PostGIS](http://trac.osgeo.org/postgis/) database with [WKT Raster](http://trac.osgeo.org/postgis/wiki/WKTRaster) extension, I'd like to post an update about experience with processing overviews.
@@ -17,7 +16,7 @@ For testing purposes, I built excessive number of overviews for [japan.tif](/?p=
 
 
 
-    
+
     $ gdaladdo -r average japan.tif 2 4 8 16 32 64 128
 
 
@@ -29,7 +28,7 @@ The command above produced 7 overviews with the following dimensions:
 
 
 
-    
+
     $ gdalinfo japan_2_4_8_16_32_128.tif | grep -m 1 Ov
     Overviews: 7000x7000, 3500x3500, 1750x1750, 875x875, 438x438, 219x219, 110x110
 
@@ -44,7 +43,7 @@ Next, I loaded the whole dataset into [PostGIS and WKT Raster enabled database](
 
 
 
-    
+
     $ gdal2wktraster.py -r japan.tif -t japan_rb_128 \
       -o japan_rb_128.sql \
       --index --srid 4326 -k -m 128x128 -O -M -v
@@ -64,7 +63,7 @@ You can find meaning of all the switches by displaying usage message:
 
 
 
-    
+
     $ gdal2wktraster.py -h
 
 
@@ -76,7 +75,7 @@ After, literally, **two hours** of crunching [Japan](http://en.wikipedia.org/wik
 
 
 
-    
+
     ------------------------------------------------------------
      Summary of GDAL to WKT Raster processing:
     ------------------------------------------------------------
@@ -106,17 +105,17 @@ The SQL file with japan.tif dump is ready to load into the database, but first e
 
 
 
-    
+
     CREATE TABLE raster_overviews (
       o_table_catalog character varying(256) NOT NULL,
       o_table_schema character varying(256) NOT NULL,
       o_table_name character varying(256) NOT NULL,
-      o_column character varying(256) NOT NULL, 
-      r_table_catalog character varying(256) NOT NULL, 
+      o_column character varying(256) NOT NULL,
+      r_table_catalog character varying(256) NOT NULL,
       r_table_schema character varying(256) NOT NULL,
       r_table_name character varying(256) NOT NULL,
       r_column character varying(256) NOT NULL,
-      out_db boolean NOT NULL, 
+      out_db boolean NOT NULL,
       overview_factor integer NOT NULL,
       CONSTRAINT raster_overviews_pk
       PRIMARY KEY (o_table_catalog, o_table_schema, o_table_name, o_column))
@@ -147,7 +146,7 @@ Now, everything is ready to load the data.
 
 
 
-    
+
     psql -d japan -f japan_rb_128.sql
 
 

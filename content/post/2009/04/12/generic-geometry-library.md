@@ -3,7 +3,6 @@ date: 2009-04-12 13:21:47
 slug: generic-geometry-library
 title: Generic Geometry Library
 categories: [ "code" ]
-  source,polymorphism,project,static,std,template
 ---
 
 Two months ago Barend Gehrels [announced](http://lists.osgeo.org/pipermail/discuss/2009-February/005002.html) on the [OSGeo Discuss](http://lists.osgeo.org/mailman/listinfo/discuss) list ongoing [Open Source](http://www.opensource.org/) project called [Generic Geometry Library](http://geometrylibrary.geodan.nl/), GGL in short.

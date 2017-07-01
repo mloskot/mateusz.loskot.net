@@ -3,7 +3,6 @@ date: 2009-08-04 17:13:46
 slug: iterators-must-go
 title: Iterators Must Go!
 categories: [ "code" ]
-  c++,visual studio,webcast
 ---
 
 I've already [announced](http://mateusz.loskot.net/?p=731) the brilliant and provocative presentation given by [Andrei Alexandrescu](http://erdani.org/) titled [Iterators Must Go!](http://www.boostcon.com/site-media/var/sphene/sphwiki/attachment/2009/05/08/iterators-must-go.pdf).

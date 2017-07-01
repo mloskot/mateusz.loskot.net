@@ -3,7 +3,6 @@ date: 2008-01-23 20:02:02
 slug: a-bug-in-stdbasic_istream-from-visual-c
 title: A bug in std::basic_istream from Visual C++
 categories: [ "code" ]
-  c++,visual studio
 ---
 
 **Update:** I submitted this problem to the Microsoft [Connect](https://connect.microsoft.com/default.aspx) and the Feedback ID is [323765](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=323765)
@@ -27,21 +26,21 @@ Shortly, in the [std::basic_istream](http://msdn2.microsoft.com/en-us/library/x5
 Here is the buggy implementation copied (stripping unimportant lines) from the <[istream](http://msdn2.microsoft.com/en-us/library/5cy6dc9z.aspx)> header, by default installed in _c:\program files\microsoft visual studio 8\vc\include\istream_, near **lines 309-326**:
 
 
-    
-    
+
+
     _Myt& operator>>(unsigned long __w64& _Val)
     { // extract an unsigned long
       ios_base::iostate _State = ios_base::goodbit;
       const sentry _Ok(*this);
-    
+
       if (_Ok)
       {  // state okay, use facet to extract
          const _Nget& _Nget_fac = _USE(ios_base::getloc(), _Nget);
-    
+
          _Nget_fac.get(_Iter(_Myios::rdbuf()), _Iter(0),
             *this, _State, (unsigned long)_Val);
       }
-    
+
       _Myios::setstate(_State);
       return (*this);
     }
@@ -55,7 +54,7 @@ Here is the buggy implementation copied (stripping unimportant lines) from the <
 
 In the code above, bug is in the line where [std::num_get](http://msdn2.microsoft.com/en-us/library/b5k1kd13.aspx)::get function is called. The 5th parameter is casted from reference to nonreference type:
 
-    
+
     (unsigned long)_Val
 
 
@@ -71,8 +70,8 @@ and, from the [C++ Language Standard](http://www.open-std.org/jtc1/sc22/wg21/)/3
 Next, the _std::num_get::get_ function call tries to bind the rvalue to reference to non-const type, according to its prototype:
 
 
-    
-    
+
+
     // C++ Standard/22.2.2.1 - std::num_get class members
     _InIt get(_InIt _First, _InIt _Last,
       ios_base& _Iosbase, ios_base::iostate& _State,
@@ -98,16 +97,16 @@ However, the C++ Standard/8.5.3 defines that
 The simplest solution is to fix the invalid cast, so the buggy line:
 
 
-    
+
     _Nget_fac.get(_Iter(_Myios::rdbuf()), _Iter(0),
       *this, _State, (unsigned long)_Val);
 
 
 
-reads 
+reads
 
 
-    
+
     _Nget_fac.get(_Iter(_Myios::rdbuf()), _Iter(0),
       *this, _State, (unsigned long&)_Val);
 

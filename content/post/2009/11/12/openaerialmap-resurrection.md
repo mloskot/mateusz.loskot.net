@@ -3,7 +3,6 @@ date: 2009-11-12 11:46:32
 slug: openaerialmap-resurrection
 title: OpenAerialMap Resurrection
 categories: [ "code" ]
-  Erle
 ---
 
 Quick forward of [important announcement](http://openaerialmap.org/pipermail/talk_openaerialmap.org/2009-November/000124.html) to all who care about future of the [OpenAerialMap](http://openaerialmap.org) project.

@@ -3,7 +3,6 @@ date: 2009-06-24 01:23:47
 slug: osgis-uk-2009-on-flickr
 title: OSGIS UK 2009 on Flickr
 categories: [ "code" ]
-  uk 2009,photo,pictures,report
 ---
 
 I've just finished uploading photos taken on the [OSGIS UK 2009](http://www.opensourcegis.org.uk/) in Nottingham, so [here is the set](http://www.flickr.com/photos/mloskot/sets/72157620410984670/).
@@ -18,13 +17,13 @@ I've re-re-re-learned the lesson [that light conditions](http://www.dcmag.co.uk/
 
 
 
-_you are awesome_  
+_you are awesome_
 
-_you have awesome camera_  
+_you have awesome camera_
 
-_but it's useless_  
+_but it's useless_
 
-_without (proper) lens_  
+_without (proper) lens_
 
 
 

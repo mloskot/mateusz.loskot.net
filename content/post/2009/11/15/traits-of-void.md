@@ -3,7 +3,6 @@ date: 2009-11-15 04:44:57
 slug: traits-of-void
 title: Traits of void
 categories: [ "code" ]
-  c++,visual studio
 ---
 
 Long time ago, I reported bug to [Visual C++ 9.0](http://en.wikipedia.org/wiki/Visual_C%2B%2B) (Visual Studio 2008 SP1) complaining that [has_trivial_destructor applied to void returns true](https://connect.microsoft.com/VisualStudio/feedback/ViewFeedback.aspx?FeedbackID=458570) (ID:458570). I also discussed it with folks on [comp.std.c++](http://groups.google.com/group/comp.std.c++/browse_thread/thread/01381d52adc619d6/) where, among quite different voices, [Pete Becker](http://en.wikipedia.org/wiki/Pete_Becker) writes:
@@ -21,7 +20,7 @@ and later concludes:
 
 
 
-> Under the current standard, using the name std::is_pod requires a diagnostic. So if you want to be literal, both compilers are "wrong". Nevertheless, neither is really "wrong", they just implement different non-standard versions of is_pod. 
+> Under the current standard, using the name std::is_pod requires a diagnostic. So if you want to be literal, both compilers are "wrong". Nevertheless, neither is really "wrong", they just implement different non-standard versions of is_pod.
 
 
 
@@ -39,7 +38,7 @@ Today, I got back to this issue for a while a little extending my test program t
 
 
 
-    
+
     <span class="cp">#include <iostream></span>
     <span class="cp">#include <tr1/type_traits></span>
     <span class="kt">int</span> <span class="n">main</span><span class="p">()</span>
@@ -59,9 +58,9 @@ and compiled it with [GCC 4.4.1](http://gcc.gnu.org/gcc-4.4/changes.html):
 
 
 
-    
+
     $ g++ -Wall -pedantic -std=c++0x void.cpp
-    $ ./a.out 
+    $ ./a.out
     1
     1
     0

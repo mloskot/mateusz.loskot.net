@@ -3,7 +3,6 @@ date: 2009-06-20 14:27:10
 slug: osgeo-tribulum
 title: OSGeo Tribulum
 categories: [ "code" ]
-  back,philosophy,projects,question,responsibility,sponsorship,thoughts
 ---
 
 The [OSGeo Fundation](http://www.osgeo.org/) is driven by [volunteer](http://wiki.osgeo.org/wiki/Category:OSGeo_Member) [manpower](http://wiki.osgeo.org/wiki/Project_Stats) and [sponsorship](http://www.osgeo.org/sponsorship/opportunities). The [OSGeo Foundation](http://www.osgeo.org/content/foundation/about.html) is a proxy body that transfers [contributions](http://wiki.osgeo.org/wiki/OSGeo_Budget_2009) from [sponsors](http://www.osgeo.org/content/sponsorship/sponsors.html) to <del>activities</del> initiatives and projects that perform under the umbrella of OSGeo, to the OSGeo members. The [OSGeo members](http://www.osgeo.org/) (right column) are free to raise funds on their own. Some projects do it very well, some don't do it at all (and it's not any fault, it just happens). However, all participants are eligible to accept OSGeo support in the same way, scale, etc. For instance, all members use **OSGeo brand**, [OSGeo infrastructure](http://wiki.osgeo.org/wiki/Category:Infrastructure), [OSGeo marketing](http://wiki.osgeo.org/wiki/Category:Marketing) efforts and many more. The OSGeo Foundation membership is a [value](http://wiki.osgeo.org/wiki/OSGeo_Mission). Period.

@@ -3,7 +3,6 @@ date: 2009-07-28 17:26:25
 slug: first-climbing-in-portland
 title: First Climbing in Portland
 categories: [ "code" ]
-  hill,saturday,south,trip,uk,united kingdom
 ---
 
 Last Saturday, [Pantera](http://www.flickr.com/photos/mloskot/tags/pantera/), my friend [Roger](http://www.ukclimbing.com/forums/profile.php?id=32379) and [I](http://www.ukclimbing.com/forums/profile.php?id=99771), we spent a wonderful day on the [Isle of Portland](http://en.wikipedia.org/wiki/Isle_of_Portland).

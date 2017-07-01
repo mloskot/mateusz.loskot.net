@@ -3,7 +3,6 @@ date: 2008-09-28 02:02:58
 slug: foss4g2008-i-cant-make-it
 title: FOSS4G 2008, I can't make it
 categories: [ "code" ]
-  source,presentation,programming,project,south africa,warmerdam,workshop
 ---
 
 ...school, **job**, trips, move, army, **school**, move, **new job**...lots of things have been happening in my life with speed of light, so I've had to change most of my plans, especially those about traveling. And, I can't make it to attend the [FOSS4G 2008](http://foss4g2008.org/) conference.

@@ -3,7 +3,6 @@ date: 2008-08-22 11:31:57
 slug: cpp-concurrency-in-action
 title: C++ Concurrency in Action
 categories: [ "code" ]
-  1933988770,parallel,postgis,processing,programming,project,spatial,threading'
 ---
 
 By the beginning of the year 2009, new must-read book for C++ hackers is rolling around. Anthony Williams is writing book titled: [C++ Concurrency in Action](http://www.manning.com/williams/) (ISBN: 1933988770):

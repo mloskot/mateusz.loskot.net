@@ -3,7 +3,6 @@ date: 2009-11-15 20:18:30
 slug: traits-of-void-resolved
 title: Traits of void resolved
 categories: [ "code" ]
-  T. Lavavej,stl,tr1,visual c++,visual studio
 ---
 
 It looks like I've got clarified status of the [traits of void](/?p=1519) type. I [posted my question to libstdc++](http://gcc.gnu.org/ml/libstdc++/2009-11/msg00041.html) where [Paolo Carlini](http://blogs.oracle.com/pcarlini/) kindly [provided me what the bits](http://gcc.gnu.org/ml/libstdc++/2009-11/msg00042.html) I have been [missing](http://groups.google.com/group/comp.std.c++/browse_thread/thread/01381d52adc619d6/). Now, all the puzzles are in place:
@@ -27,7 +26,7 @@ The TR1 document in section 4.9 states:
 
 
 
-    
+
     <span class="n">is_pod</span><span class="o"><</span><span class="n">T</span><span class="o">>::</span><span class="n">value</span> <span class="o">>=</span>
        <span class="p">(</span><span class="n">is_scalar</span><span class="o"><</span><span class="n">T</span><span class="o">>::</span><span class="n">value</span> <span class="o">||</span> <span class="n">is_void</span><span class="o"><</span><span class="n">T</span><span class="o">>::</span><span class="n">value</span><span class="p">);</span>
 
