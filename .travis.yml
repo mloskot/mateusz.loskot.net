@@ -1,5 +1,5 @@
 # .travis.yml - https://github.com/mloskot/mateusz.loskot.net
-language: python
+language: ruby
 dist: trusty
 sudo: enabled
 
