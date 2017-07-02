@@ -3,7 +3,8 @@
 <ul class="posts">
   {{ range first 13 .Data.Pages }}
   <li>
-    <span><time datetime="{{ .Date }}">{{ .Date.Format "02 Jan 2006" }}</time></span> &raquo; <a href="{{ .URL }}">{{ .Title }}</a>
+    <span><time datetime="{{ .Date }}">{{ .Date.Format "02 Jan 2006" }}</time></span>
+    &raquo; <a href="{{ .URL }}">{{ .Title }}</a>
   </li>
   {{ end }}
   <li>&raquo; <a href="/post">All posts</a></li>
