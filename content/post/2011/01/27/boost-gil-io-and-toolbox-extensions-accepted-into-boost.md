@@ -1,7 +1,6 @@
 ---
 title: Boost.GIL IO and Toolbox extensions accepted into Boost
 date: 2011-01-27 21:43:06
-
 slug: boost-gil-io-and-toolbox-extensions-accepted-into-boost
 categories: [ "code" ]
 ---
@@ -13,7 +12,7 @@ The task has been finished, but the mission is still ongoing. [Lubomir Bourdev](
 
 
 > The problem with I/O is that you can never declare success.
-> All we can hope for is push the boundary as much as we can, and leave the rest for the next update. 
+> All we can hope for is push the boundary as much as we can, and leave the rest for the next update.
 
 
 Christian Henning has done great job developing the extensions and reviewers confirmed it. It was pleasure for me to manage the [review process](http://www.boost.org/community/review_schedule.html).

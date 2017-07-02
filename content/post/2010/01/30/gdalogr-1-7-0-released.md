@@ -1,8 +1,6 @@
 ---
 title: GDAL/OGR 1.7.0 Released
 date: 2010-01-30 20:28:45
-
-slug: gdalogr-1-7-0-released
 categories: [ "code" ]
 ---
 

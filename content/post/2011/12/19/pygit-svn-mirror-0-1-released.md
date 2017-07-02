@@ -1,8 +1,6 @@
 ---
 title: pygit-svn-mirror 0.1 released
 date: 2011-12-19 02:13:40
-
-slug: pygit-svn-mirror-0-1-released
 categories: [ "code" ]
 ---
 
@@ -35,7 +33,7 @@ $ git-svn-mirror.py init \
 
 and to update the mirror from its workbench directory:
 
-    
+
 ```
 cd /path/to/proj4/mirror
     git-svn-mirror.py update
@@ -43,8 +41,8 @@ cd /path/to/proj4/mirror
 
 
 or from any folder but with workbench location pointed explicitly:
-    
-    
+
+
 ```
 git-svn-mirror.py update -w /path/to/proj4/mirror
 ```

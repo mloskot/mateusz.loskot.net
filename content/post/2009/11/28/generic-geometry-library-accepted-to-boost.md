@@ -1,6 +1,5 @@
 ---
 date: 2009-11-28 21:25:45
-slug: '1579'
 title: Generic Geometry Library accepted to Boost
 categories: [ "code" ]
 ---

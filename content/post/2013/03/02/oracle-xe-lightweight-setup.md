@@ -2,28 +2,28 @@
 date: 2013-03-02T22:50:00Z
 title: Oracle XE lightweight setup
 description: Notes on how to make Oracle XE on Linux run even lighter
-
+categories: [ "code" ]
 ---
 
-To support my open souce hacking, I use a budget OpenVZ Virtual Private Server from 
+To support my open souce hacking, I use a budget OpenVZ Virtual Private Server from
 [Frantech Solutions](http://buyvm.net/). Despite very decent CPU horsepower I've got there,
 I only have access to 512MB/1024MB (burst) of RAM.
 
-Lately, I decided to start regular testing, preferabley continuous, of 
-[SOCI](http://soci.sourceforge.net) against Oracle database, so I headed to hunt Oracle 
+Lately, I decided to start regular testing, preferabley continuous, of
+[SOCI](http://soci.sourceforge.net) against Oracle database, so I headed to hunt Oracle
 database hosting, ideally for free.
 The only free access to Oracle database I found is Amazon RDS offered as part of AWS Free Usage Tier,
 but I'm not very keen to submit for AWS. I don't need anything for production purposes.
 I only need to run some basic integration tests.
 
-I decided to try figure out how I can squeeze and run Oracle Express the VPS server I use. I use 
+I decided to try figure out how I can squeeze and run Oracle Express the VPS server I use. I use
 Debian (wheezy) on my server and, while idling, ```free``` hardly ever reports more than 15MB RAM used.
 
-I run Linux 32-bit on the server and here comes the obstacle: Oracle thoughtfully offers Express 
+I run Linux 32-bit on the server and here comes the obstacle: Oracle thoughtfully offers Express
 Edition 11g for Linux 64-bit. It's not exactly what I'd consider as being *[committed to offering choice, flexibility, and lower cost of computing for end users](http://www.oracle.com/us/technologies/open-source/index.htm)*.
-Thankfully, Oracle still hosts the repository with Debian packages of Oracle Database 10g Express Edition at 
-[oss.oracle.com/debian](https://oss.oracle.com/debian). Note, it is not linked at the 
-[oss.oracle.com](https://oss.oracle.com/) portal anywhere, strangely, but Web search for 
+Thankfully, Oracle still hosts the repository with Debian packages of Oracle Database 10g Express Edition at
+[oss.oracle.com/debian](https://oss.oracle.com/debian). Note, it is not linked at the
+[oss.oracle.com](https://oss.oracle.com/) portal anywhere, strangely, but Web search for
 oracle+debian will reveal it. So, I grabbed .deb packages with ```libaio``` and ```oracle-xe```.
 
 The server runs in OpenVZ container and it does not have a single byte of swap available.
@@ -86,10 +86,10 @@ oracle   14225  0.0  0.8 369740  9288 ?        Ss   22:36   0:00 xe_q001_XE
 ```
 
 So, I asked on OTN forums
-[how to make it as lightweight](https://forums.oracle.com/forums/message.jspa?messageID=10865958) 
+[how to make it as lightweight](https://forums.oracle.com/forums/message.jspa?messageID=10865958)
 as poossible. It turned out it's quite possible.
 
-First, I cut down number of processes and I switch off every thing wasn't going to use like the Apex 
+First, I cut down number of processes and I switch off every thing wasn't going to use like the Apex
 application server serving the Web administration software, I also shut down job queue
 and advanced queueing:
 
@@ -108,8 +108,8 @@ exec dbms_xdb.sethttpport(0);
 ```
 
 
-Next, I tweaked [SGA](http://en.wikipedia.org/wiki/System_Global_Area) setting to lower size of shared 
-memory available to Oracle processes and [PGA](http://en.wikipedia.org/wiki/Program_Global_Area) 
+Next, I tweaked [SGA](http://en.wikipedia.org/wiki/System_Global_Area) setting to lower size of shared
+memory available to Oracle processes and [PGA](http://en.wikipedia.org/wiki/Program_Global_Area)
 to minimise memory usage of Oracle XE instance. Here are my settings:
 
 ```
@@ -181,7 +181,7 @@ sessions                                        28              30         49
 After these tweaks, the Oracle XE instance does not consume all RAM resources of my server
 and is still usable for my testing purposes.
 
-By the way, since this is database dedicated for testing, I don't need the 
+By the way, since this is database dedicated for testing, I don't need the
 [Oracle recyclebin](http://www.orafaq.com/wiki/Recycle_bin) feature - I don't expect I will ever
 need to restore dropped objects created during tests. So, let's save some CPU cycles and disk space:
 

@@ -1,8 +1,6 @@
 ---
 title: Visual Studio 11 patch for Boost.Build accepted
 date: 2011-12-19 12:28:11
-
-slug: visual-studio-11-patch-for-boost-build-accepted
 categories: [ "code" ]
 ---
 

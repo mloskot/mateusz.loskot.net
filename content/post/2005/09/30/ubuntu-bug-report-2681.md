@@ -1,9 +1,7 @@
 ---
 date: 2005-09-30 15:14:23
-slug: ubuntu-bug-report-2681
 title: 'Ubuntu bug report #2681'
 categories: [ "code" ]
-
 ---
 
 Yesterday, I  sent my second bug report to the Ubuntu bug tracking system,

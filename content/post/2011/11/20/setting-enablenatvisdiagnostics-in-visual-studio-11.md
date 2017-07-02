@@ -1,8 +1,6 @@
 ---
 title: Setting EnableNatvisDiagnostics in Visual Studio 11
 date: 2011-11-20 04:54:42
-
-slug: setting-enablenatvisdiagnostics-in-visual-studio-11
 categories: [ "code" ]
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2009-10-21 00:58:05
-slug: pantera-goes-linux
 title: Pantera goes Linux
 categories: [ "code" ]
 ---

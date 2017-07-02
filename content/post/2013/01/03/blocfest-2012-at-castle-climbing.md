@@ -2,11 +2,11 @@
 title: Blocfest 2012 at Castle Climbing
 description: My summary of the second round of the Blocfest 2012/2013 at the Castle Climbing in London.
 date: 2013-01-03
-
+categories: [ "sweat" ]
 ---
 
 It's been more than three weeks since last round of the [Blocfest](http://www.blocfest.co.uk/)
-bouldering competition. It took place on the 8th of December, 2012 
+bouldering competition. It took place on the 8th of December, 2012
 at the [Castle Climbing](http://www.castle-climbing.co.uk/) in London.
 A wrap-up summary should be posted earlier, but I've been lazy (training hard,
 writing little) and the Christmas break kept me busy shopping, cooking and driving.
@@ -15,13 +15,13 @@ Finally, developing of the hundreds of Blocfest photos taken by Pantera took me 
 It was my first Blocfest round and second round of the Blocfest 2012/2013 edition.
 So, my memories are fresh as from yesterday, about almost every problem I attempted.
 I have a a few bouldering competitions behind my belt ([SIBL](http://www.sibl.co.uk/),
-[King of the Mezz](http://www.flickr.com/photos/mloskot/sets/72157626413184741/), 
+[King of the Mezz](http://www.flickr.com/photos/mloskot/sets/72157626413184741/),
 [CWIF](http://www.flickr.com/photos/mloskot/sets/72157629253489886/))
 and in most cases I systematically scored similar profile of sends: 50% of problems
 flashed and that was it.
 
 The last Blocfest round seems to be a bit different and I'm hopeful this was
-due to  three months of systematic and *structured* training at the 
+due to  three months of systematic and *structured* training at the
 [Arch Climbing Wall](http://archclimbingwall.com/) and the Castle Climbing.
 At least, I did feel stronger and more solid than during the previous competitions.
 
@@ -61,7 +61,7 @@ Here is the complete gallery: [BlocFest 2012-2013 - Castle Climbing](http://www.
     <script type="text/javascript" src="http://www.flickr.com/badge_code_v2.gne?show_name=1&count=7&display=random&size=s&layout=x&source=user_set&user=10646408%40N06&set=72157632222490726&context=in%2Fset-72157632222490726%2F"></script>
 </div>
 
-All photos published under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/) 
+All photos published under [Creative Commons Attribution-NonCommercial-ShareAlike](http://creativecommons.org/)
 license and copyright held by [Aneta Parchanska](http://PanteraPhotography.com).
 
 Mike from the Blocfest team posted a nice video clip at Vimeo:

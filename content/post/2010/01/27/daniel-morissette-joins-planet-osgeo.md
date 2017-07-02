@@ -2,8 +2,6 @@
 title: Daniel Morissette joins Planet OSGeo
 description: Announcement about Daniel joining the Planet OSGeo
 date: 2010-01-27 20:41:45
-
-slug: daniel-morissette-joins-planet-osgeo
 categories: [ "code" ]
 ---
 

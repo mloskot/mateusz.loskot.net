@@ -1,6 +1,5 @@
 ---
 date: 2009-10-25 03:16:38
-slug: mloskot-boost-regression-tests
 title: mloskot @ boost regression tests
 categories: [ "code" ]
 ---
@@ -10,7 +9,7 @@ I run [Boost C++ Libraries](http://www.boost.org) regression tests for the first
 
 
 
-    
+
     python run.py --tag="trunk" --runner="mloskot-x86_64" \
        --toolsets="gcc" --bjam-toolset="gcc" --bjam-options="-j4"
 

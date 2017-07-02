@@ -1,7 +1,7 @@
 ---
 date: 2005-12-28 22:05:00
-slug: how-visual-c-2005-is-compliant-to-c-standards-regarding-windows-ce
 title: How Visual C++ 2005 is compliant to C++ standards regarding Windows CE?
+categories: [ "code" ]
 ---
 
 Recently, I started small investigation to find out what may I expect from the new [Visual C++ 2005](http://msdn.microsoft.com/visualc/) compiler if I'd like to start using it for [Windows CE](http://msdn.microsoft.com/embedded/windowsce/default.aspx) software development. Yes, I'm still using [eMbedded Visual C++ 4.0](http://msdn.microsoft.com/mobility/othertech/eVisualc/default.aspx), but Visual C++ 2005 seems very interesting for me. After my investigation I'm convinced it would help me to solve many problems related to low [ANSI/ISO C++](http://www.open-std.org/jtc1/sc22/wg21/) standard conformance of the older eVC++ 4.0. But let's start from the beginning.

@@ -2,7 +2,6 @@
 date: 2012-01-05 23:16:44
 slug: roberts-rules-of-boost-testing
 title: Robert's rules of Boost testing
-
 categories: [ "code" ]
 ---
 
@@ -38,7 +37,7 @@ cd tools/build/v2
 ```
 
 * Switch Boost.Geometry directories to trunk:
-    
+
 
 ```
 svn switch https://svn.boost.org/svn/boost/trunk/boost/geometry boost/geometry
@@ -55,12 +54,12 @@ date > $BGLOG & b2 >> $BGLOG 2<&1 & date >> $BGLOG
 set BGLOG=%CD%\boost-geometry-test.log
 dateu.exe > %BGLOG% & b2 >> %BGLOG% 2<&1 & dateu.exe >> %BGLOG%
 ```
-    
+
 Note, the `dateu.exe` is renamed Unix utility `date.exe` installed from [GnuWin32](http://gnuwin32.sourceforge.net/) packages. I just like it.
 
 Inspect the log file for test failures, for example by quick check of number of passed tests:
-    
-```    
+
+```
 $ grep "\*passed\*" boost-geometry-test.log | wc -l
 111
 ```

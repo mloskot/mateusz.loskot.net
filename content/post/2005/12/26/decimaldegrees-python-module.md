@@ -1,8 +1,7 @@
 ---
 date: 2005-12-26 14:42:38
-slug: decimaldegrees-python-module
 title: DecimalDegrees Python module
-
+categories: [ "code" ]
 ---
 
 **Update 2013-02-11:** [PyDecimalDegrees](https://github.com/mloskot/PyDecimalDegrees) moved to GitHub

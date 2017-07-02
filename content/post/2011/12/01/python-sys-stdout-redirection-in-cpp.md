@@ -1,15 +1,13 @@
 ---
 title: Python sys.stdout redirection in C++
 date: 2011-12-01 01:30:25
-
-slug: python-sys-stdout-redirection-in-cpp
 categories: [ "code" ]
 ---
 
 Lately, I have been [embedding Python interpreter](http://docs.python.org/py3k/extending/embedding.html) and implementing plenty of Python extensions in C++ using [plain C API](http://docs.python.org/py3k/c-api/index.html) provided by Python 3. One of common challenges at C/C++ level is to intercept output sent to `sys.stdout` or `sys.stderr` by Python functions like `print`. [Python Embedding/Extending FAQ](http://docs.python.org/py3k/faq/extending.html) suggests common solution based on Python code:
 
 
-``` 
+```
 # catcher code
 import sys
 class StdoutCatcher:
@@ -41,7 +39,7 @@ Such mix of Python and C code is neither convenient to use nor states a flexible
 
 So, I have come up with better solution which allows me to directly bind any callable C++ entity. The syntax I mean looks and feels like this:
 
-    
+
 ```
 int main()
 {
@@ -55,7 +53,7 @@ int main()
     std::string buffer;
     {
         // switch sys.stdout to custom handler
-        emb::stdout_write_type write = 
+        emb::stdout_write_type write =
             [&buffer] (std::string s) { buffer += s; };
 
         emb::set_stdout(write);
@@ -73,7 +71,7 @@ int main()
 }
 ```
 
-    
+
 This allows me to handle `sys.stdout.write` with C++ free function, class member function, named function objects or even anonymous functions as in the example above where I use [C++11 lambda](http://en.wikipedia.org/wiki/C%2B%2B11).
 
 

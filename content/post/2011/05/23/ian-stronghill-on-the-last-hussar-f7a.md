@@ -2,7 +2,7 @@
 date: 2011-05-23 22:47:47
 slug: ian-stronghill-on-the-last-hussar-f7a
 title: Ian Stronghill on The Last Hussar F7a
-categories: [ "code" ]
+categories: [ "sweat" ]
 
 ---
 

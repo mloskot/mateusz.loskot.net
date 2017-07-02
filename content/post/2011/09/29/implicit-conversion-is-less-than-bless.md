@@ -1,21 +1,19 @@
 ---
 title: Implicit conversion is less than bless
 date: 2011-09-29 15:59:21
-
-slug: implicit-conversion-is-less-than-bless
 categories: [ "code" ]
 ---
 
 A quick example on how frivolous and to all appearances useful design of a C++ class can kick the rear aspect of your personality hard. In Unicode-enabled code using `wchar_t` as character data carrier:
 
-    
+
 ```
 #include <comutil.h>
 #include <sstream>
 int main()
 {
    std::wostringstream oss;
-   _bstr_t str(L"abc"); 
+   _bstr_t str(L"abc");
    oss << str;
 }
 ```
@@ -26,10 +24,10 @@ Now, remembering that `wchar_t` has made it into the C++ ages ago, hich version 
 
 The example above is equivalent to the following code:
 
-    
+
 ```
 std::wostringstream oss;
-_bstr_t str(L"abc"); 
+_bstr_t str(L"abc");
 oss << static_cast<char*>(str);
 ```
 

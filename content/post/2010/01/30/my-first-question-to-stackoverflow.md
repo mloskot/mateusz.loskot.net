@@ -1,8 +1,6 @@
 ---
 title: My first question to StackOverflow
 date: 2010-01-30 17:47:21
-
-slug: my-first-question-to-stackoverflow
 categories: [ "code" ]
 ---
 

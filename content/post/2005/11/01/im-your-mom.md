@@ -1,8 +1,7 @@
 ---
 date: 2005-11-01 13:22:31
-slug: im-your-mom
 title: I'm your mom!
-
+categories: [ "code" ]
 ---
 
 Today, I added [my beauty face](http://www.frappr.com/lugradio/photo/304380) to  [LugRadio](http://lugradio.org) [listeners map](http://www.frappr.com/lugradio). I'm a big fun of LugRadio and fantastic sense of humour its presenters have. Do you want to taste it? Here is my favourite one:

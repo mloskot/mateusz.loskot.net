@@ -1,8 +1,6 @@
 ---
 title: Visual Studio 11 support for Boost.Build
 date: 2011-12-17 16:57:09
-
-slug: visual-studio-11-support-for-boost-build
 categories: [ "code" ]
 ---
 
@@ -21,8 +19,8 @@ using msvc : 11.0 ;
 
 
 To verify if the toolset is recognised correctly, use `b2` debugging options:
-    
-    
+
+
 ```
 b2 --debug-configuration --debug-building --debug-generator buffer.cpp
 notice: found boost-build.jam at D:/dev/boost/_svn/trunk/boost-build.jam
@@ -43,10 +41,10 @@ notice: [msvc-cfg] condition: '<toolset>msvc-11.0/<architecture>/<address-model>
 arsall.bat" x86 >nul
 ...
 ```
-    
+
 
 and look for the following message reported:
-    
+
 
 ```
 notice: will use 'C:\Program Files (x86)\Microsoft Visual Studio 11.0\VC\bin\cl.exe' for msvc, condition <toolset>msvc-11.0

@@ -1,8 +1,6 @@
 ---
 title: postgis dot us
 date: 2010-02-07 01:12:05
-
-slug: postgis-dot-us
 categories: [ "code" ]
 ---
 

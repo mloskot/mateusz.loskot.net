@@ -2,7 +2,7 @@
 date: 2011-05-24 23:45:00
 slug: cliffhanger-dyno-comp-2010
 title: Cliffhanger Dyno Comp 2010
-categories: [ "code" ]
+categories: [ "sweat" ]
 
 ---
 

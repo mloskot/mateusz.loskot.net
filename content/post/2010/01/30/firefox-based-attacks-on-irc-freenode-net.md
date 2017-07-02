@@ -1,8 +1,6 @@
 ---
 title: Firefox-based attacks on irc.freenode.net
 date: 2010-01-30 04:12:25
-
-slug: firefox-based-attacks-on-irc-freenode-net
 categories: [ "code" ]
 ---
 

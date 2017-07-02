@@ -1,8 +1,6 @@
 ---
 title: shared_ptr almost like intrusive_ptr
 date: 2011-11-02 00:55:51
-
-slug: shared_ptr-almost-like-intrusive_ptr
 categories: [ "code" ]
 ---
 
@@ -17,12 +15,12 @@ At work [1], I use [Visual C++ 2010+](http://en.wikipedia.org/wiki/Visual_C%2B%2
 
 I compiled and run a quick test:
 
-```  
+```
 #include <memory>
 int main()
 {
     std::shared_ptr<int> p0(new int(3)); // #1
-    
+
     std::shared_ptr<int> p1 = std::make_shared<int>(3); // #2
 }
 ```

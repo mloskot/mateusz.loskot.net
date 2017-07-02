@@ -1,8 +1,6 @@
 ---
 title: OSGeo Charter Nomination for Martin Daly
 date: 2011-11-10 13:22:18
-
-slug: osgeo-charter-nomination-for-martin-daly
 categories: [ "code" ]
 ---
 
@@ -16,11 +14,8 @@ Martin has used and supported numerous open source software projects. Martin led
 
 [Martin was one of the original members](http://www.cadcorp.com/about_us_ogc/cadcorp_and_the_ogc.htm) of the [OGC Architecture Board (OAB)](http://www.opengeospatial.org/projects/groups/oab). He was also the main author of the [OpenGIS Coordinate Transformation Services Specification](http://www.opengeospatial.org/standards/ct) as well as participated in developing several other OpenGIS specifications. Martin is one of authors of the [GeoJSON Format Specification](http://geojson.org/geojson-spec.html) and actively participates in future development of GeoJSON.
 
-
 Martin is a member of the [Advisory Board](http://wiki.osgeo.org/wiki/University_of_Nottingham_Centre_for_Geospatial_Science) of the Open Source Geospatial Lab (OSGL) at the University of Nottingham [Centre for Geospatial Science](http://www.nottingham.ac.uk/cgs/research/researchareas/opensourcegeospatialresearch.aspx).
 
-
 Martin also participates and leads Cadcorp involvement in the annual [FOSS4G WMS Benchmark](http://wiki.osgeo.org/wiki/Benchmarking_2010).
-
 
 I believe Martin Daly's experience and contributions make him a valuable candidate for the OSGeo Charter Member.

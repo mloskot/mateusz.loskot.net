@@ -1,8 +1,6 @@
 ---
 title: Preparing for Subversion to Git migration
 date: 2011-09-23 02:01:24
-
-slug: preparing-for-subversion-to-git-migration
 categories: [ "code" ]
 ---
 
@@ -11,21 +9,21 @@ categories: [ "code" ]
 
 First, svn:keywords property is removed:
 
-    
-```    
+
+```
 find . -path '*/.svn' -prune -o -type f -print  | xargs svn propdel -q svn:keywords
 ```
 
 
 Next, line consisting of `$Id$` keyword is stripped from every plain text file using a tiny script coded in Python:
 
-    
+
 ```
     #! /usr/bin/env python
     import fileinput
     import re
     import sys
-    
+
     def strip_line(filename, rx):
         sys.stderr.write(filename + '\n')
         for line in fileinput.input(filename, inplace=1):
@@ -34,10 +32,10 @@ Next, line consisting of `$Id$` keyword is stripped from every plain text file u
                 sys.stdout.write(line)
             else:
                 sys.stderr.write(line)
-    
+
     if len(sys.argv) < 2:
         sys.exit("Missing filename")
-    
+
     pattern = '^.*\$Id.*$'
     rx = re.compile(pattern, re.DOTALL)
     strip_line(sys.argv[1], rx)
@@ -47,7 +45,7 @@ Next, line consisting of `$Id$` keyword is stripped from every plain text file u
 The script is executed for every file, excluding the working copy admin area in  `.svn`:
 
 
-```    
+```
 for f in `find . -path '*/.svn' -prune -o -type f -print`; do ~/bin/strip_line_regex.py $f; done;
 ```
 

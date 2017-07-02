@@ -2,11 +2,11 @@
 title: Hakyll posts in folders
 description: Switched file-based posts to folder-based
 date: 2012-12-15
-
+categories: [ "code" ]
 ---
 
 I applied another quick improvement to my [Hakyll](http://jaspervdj.be/hakyll/)
-configuration inspired by [Ian Ross' blog](https://github.com/ian-ross/blog/) 
+configuration inspired by [Ian Ross' blog](https://github.com/ian-ross/blog/)
 (what a great resource for Hakyll ideas).
 
 I switched all my posts from flat file-based structure to layout with each
@@ -41,7 +41,7 @@ for post in ${POSTS};
 do
     postdir=${post%.*}
     newpost=${postdir}/index.markdown
-    [[ -d ${postdir} ]] && 
+    [[ -d ${postdir} ]] &&
         ( echo "Deleting existing '${postdir}' folder"; rm -r ${postdir}; )
     mkdir ${postdir}
     echo "Created '${postdir}'"

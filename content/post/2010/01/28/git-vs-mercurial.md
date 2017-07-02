@@ -1,8 +1,6 @@
 ---
 title: Git vs Mercurial
 date: 2010-01-28 22:40:22
-
-slug: git-vs-mercurial
 categories: [ "code" ]
 ---
 

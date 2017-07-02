@@ -1,6 +1,5 @@
 ---
 date: 2009-11-13 01:08:00
-slug: formal-review-of-the-generic-geometry-library-by-boost-community
 title: Formal review of the Generic Geometry Library by Boost Community
 categories: [ "code" ]
 ---

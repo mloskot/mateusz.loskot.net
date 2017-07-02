@@ -1,8 +1,6 @@
 ---
 title: Microsoft Announces SQL Server ODBC Driver for Linux!
 date: 2011-10-28 13:48:59
-
-slug: microsoft-announces-sql-server-odbc-driver-for-linux
 categories: [ "code" ]
 ---
 
@@ -21,7 +19,7 @@ Today at lunchtime I let myself loose across [Twitter](http://twitter.com) archi
 By the way, it is a foothold of [Interoperability @ Microsoft](http://blogs.msdn.com/b/interoperability/). (For those who may have problems with interpreting the _@_ sign, like my grandfather for example, it means the same as English word "at" as in _Kids at the House_.)
 
 
-In spite of that my eyes nearly dried out of the openness, I went for it and skimmed and voil?: [Microsoft Announces SQL Server ODBC Driver for Linux!](http://blogs.msdn.com/b/brian_swan/archive/2011/10/13/microsoft-announces-sql-server-odbc-driver-for-linux.aspx). It _will soon be widely available to customers_. Yay! 
+In spite of that my eyes nearly dried out of the openness, I went for it and skimmed and voil?: [Microsoft Announces SQL Server ODBC Driver for Linux!](http://blogs.msdn.com/b/brian_swan/archive/2011/10/13/microsoft-announces-sql-server-odbc-driver-for-linux.aspx). It _will soon be widely available to customers_. Yay!
 
 
 > Yes, you read that right
@@ -36,5 +34,5 @@ It's an evil good news of the day and I'm keen in trying it out as soon as I pol
 I also hope, Microsoft will consider to offer _the fastest development environment for C/C++ programmers_ for Linux. Namely, Visual Studio.
 
 
-Yes, I am radically open minded. _I can take on the most incredible of challenges, 
+Yes, I am radically open minded. _I can take on the most incredible of challenges,
 even **surfing an inflatable crocodile** ((link to advert of one of online supermarkets operator removed on request of the operator, funny)_.

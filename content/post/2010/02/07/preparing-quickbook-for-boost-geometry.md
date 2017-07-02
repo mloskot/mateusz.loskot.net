@@ -1,8 +1,6 @@
 ---
 title: Preparing Quickbook for Boost.Geometry
 date: 2010-02-07 20:33:24
-
-slug: preparing-quickbook-for-boost-geometry
 categories: [ "code" ]
 ---
 

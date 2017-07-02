@@ -1,8 +1,6 @@
 ---
 title: File version is not supported by the launcher
 date: 2011-11-10 23:01:04
-
-slug: file-version-is-not-supported-by-the-launcher
 categories: [ "code" ]
 ---
 
@@ -20,14 +18,14 @@ They both have been generated using [CMake 2.8.6](http://cmake.org/). However, h
 
 Quick look at what CMake actually outputs in to .sln confirms there is a bug. CMake generates [.sln file signature ](http://blogs.msdn.com/b/andrewarnottms/archive/2008/02/13/why-double-clicking-on-an-sln-file-doesn-t-always-launch-visual-studio.aspx)which does not match release version/name of the Visual Studio 11. In `Hello2011.sln` CMake generated:
 
-    
+
     Microsoft Visual Studio Solution File, Format Version 12.00
     # Visual Studio 2011
 
 
 but correct version of the output, fixed in `Hello11.sln`, is this:
 
-    
+
     Microsoft Visual Studio Solution File, Format Version 12.00
     # Visual Studio 11
 

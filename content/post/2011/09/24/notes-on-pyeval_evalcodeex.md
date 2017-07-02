@@ -1,8 +1,6 @@
 ---
 title: Notes on PyEval_EvalCodeEx
 date: 2011-09-24 22:45:57
-
-slug: notes-on-pyeval_evalcodeex
 categories: [ "code" ]
 ---
 

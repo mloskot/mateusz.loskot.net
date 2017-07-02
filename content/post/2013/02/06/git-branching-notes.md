@@ -2,7 +2,7 @@
 title: Git branching notes
 description: Collection of best practices for simple and effective Git branching
 date: 2013-02-06 23:00:00
-
+categories: [ "code" ]
 ---
 
 This is collection of short notes on best practices for simple and effective use of

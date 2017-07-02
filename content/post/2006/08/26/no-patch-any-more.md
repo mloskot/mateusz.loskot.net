@@ -7,16 +7,6 @@ categories: [ "code" ]
 
 _...they won't give me any more patch._
 
-
-
-
-
 Yet another, after IBM, Linux promotion movie based on the Windows NT support termination. It's pretty funny.
 
-
-
-
-
-
 See this movie here [http://www.novell.com/linux/windowstolinux/publicservice/](http://www.novell.com/linux/windowstolinux/publicservice/)
-

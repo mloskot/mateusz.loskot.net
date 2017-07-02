@@ -1,6 +1,5 @@
 ---
 date: 2009-11-13 01:24:56
-slug: boost-polygon-library-accepted-into-boost
 title: Boost.Polygon library accepted into Boost
 categories: [ "code" ]
 ---

@@ -1,8 +1,6 @@
 ---
 title: Debugger visualizers in Visual Sudio 11 Developer Preview
 date: 2011-11-19 20:37:52
-
-slug: debugger-visualizers-in-visual-sudio-11-developer-preview
 categories: [ "code" ]
 ---
 
@@ -29,8 +27,8 @@ Here is example of new style visualizer defined in XML copied from the `defaultv
 
 
 
-    
-    
+
+
       <!--std::unique_ptr from <memory>-->
       <Type Name="std::unique_ptr<*>">
         <DisplayString Condition="_Myptr == 0">empty</DisplayString>
@@ -39,7 +37,7 @@ Here is example of new style visualizer defined in XML copied from the `defaultv
           <Item Name="[ptr]" Condition="_Myptr != 0">_Myptr</Item>
         </Expand>
       </Type>
-    
+
 
 
 

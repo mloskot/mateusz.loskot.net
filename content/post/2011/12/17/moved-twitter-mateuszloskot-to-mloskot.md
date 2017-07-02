@@ -1,8 +1,6 @@
 ---
 title: Moved twitter.com/mateuszloskot to twitter.com/mloskot
 date: 2011-12-17 17:13:14
-
-slug: moved-twitter-commateuszloskot-to-twitter-commloskot
 categories: [ "code" ]
 ---
 

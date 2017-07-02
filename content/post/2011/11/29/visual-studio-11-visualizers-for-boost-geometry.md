@@ -2,11 +2,11 @@
 title: Visual Studio 11 visualizers for Boost.Geometry
 date: 2011-11-29 01:12:23
 updated: 2013-03-02 00:20:23
-
+categories: [ "code" ]
 ---
 
-**Update 2013-03-02:** The Boost.Geometry visualizers have been released as part of 
-[C++ Debugger Visualizers for VS2012](https://cppvisualizers.codeplex.com/). 
+**Update 2013-03-02:** The Boost.Geometry visualizers have been released as part of
+[C++ Debugger Visualizers for VS2012](https://cppvisualizers.codeplex.com/).
 See [ChangeLog](https://cppvisualizers.codeplex.com/SourceControl/changeset/view/abc7d3c4b046#Changelog.txt) for details.
 
 

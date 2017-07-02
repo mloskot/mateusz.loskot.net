@@ -1,8 +1,6 @@
 ---
 title: Kitware Developer blog launched
 date: 2010-01-28 23:31:01
-
-slug: kitware-developer-blog-launched
 categories: [ "code" ]
 ---
 

@@ -1,6 +1,5 @@
 ---
 date: 2006-01-05 23:05:41
-slug: blog-like-interface-to-wtl-list
 title: Blog-like interface to WTL list
 categories: [ "code" ]
 ---

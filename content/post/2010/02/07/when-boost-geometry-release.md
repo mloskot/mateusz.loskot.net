@@ -1,8 +1,6 @@
 ---
 title: When Boost.Geometry release?
 date: 2010-02-07 00:28:42
-
-slug: when-boost-geometry-release
 categories: [ "code" ]
 ---
 

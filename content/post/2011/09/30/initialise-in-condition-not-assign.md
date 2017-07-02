@@ -9,9 +9,9 @@ categories: [ "code" ]
 I've read a lot of code polluted with assignments in condition:
 
 
-``` 
+```
 T* p;
-if (ptr = source())
+if (p = source())
 {
     ...
 }
@@ -22,8 +22,8 @@ else
 ```
 
 
-Presumably, it is preferred of someone who is really after shortcuts in code. If you must cut short, reconsider it and at least write this:
-    
+Presumably, it is preferred by someone who is really after shortcuts in code. If you must cut short, reconsider it and at least write this:
+
 ```
 if (T* p = source())
 ```
@@ -31,9 +31,9 @@ if (T* p = source())
 
 It is a perfect shortcut through several features at once: initialisation, condition and scope encapsulation. The scope of p is narrowed to the if-else condition only:
 
-    
+
 ```
-if (T* ptr = source())
+if (T* p = source())
 {
     ...
 }
