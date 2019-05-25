@@ -60,7 +60,7 @@ cmake --build _build_vs2019x64 --config Release -j 16 --verbose
 ### 32-bit
 
 ```
-cmake -S . -B _build_vs2019x32 -G "Visual Studio 16 2019" -A x32 -DCMAKE_GENERATOR_TOOLSET=host=x64
+cmake -S . -B _build_vs2019x32 -G "Visual Studio 16 2019" -A win32 -DCMAKE_GENERATOR_TOOLSET=host=x64
 cmake --build _build_vs2019x32 --config Release -j 16 --verbose
 ```
 ### Bonus: IncrediBuild
