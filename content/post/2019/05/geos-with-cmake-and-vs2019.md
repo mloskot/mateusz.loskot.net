@@ -82,10 +82,10 @@ cd _build_vs2019x32
 ```
 cd <build directory>
 ctest --show-only
-ctest
-ctest --output-on-failure
-ctest -V
-ctest -VV
+ctest --build-config Release
+ctest --build-config Release --output-on-failure
+ctest --build-config Release -V
+ctest --build-config Release -VV
 ```
 
 ## Build times
